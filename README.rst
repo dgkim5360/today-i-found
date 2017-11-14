@@ -180,6 +180,9 @@ http://www.nextree.co.kr/p3452
 Machine Learning
 ----------------
 
+Book: An Introduction to Statistical Learning
+http://www-bcf.usc.edu/~gareth/ISL
+
 Quora: What are the best graduate schools for studying machine learning?
 https://www.quora.com/What-are-the-best-graduate-schools-for-studying-machine-learning
 
