@@ -1,6 +1,6 @@
 Today I Found
 =============
-up to /Qar
+
 Python
 ------
 
