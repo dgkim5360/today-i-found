@@ -1,6 +1,6 @@
 Today I Found
 =============
-
+up to /Qar
 Python
 ------
 
@@ -21,6 +21,30 @@ https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py
 
 Stackoverflow: Python - doctest vs. unittest
 https://stackoverflow.com/questions/361675/python-doctest-vs-unittest
+
+Quora: Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?
+https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential
+
+Stackoverflow: Nicest way to pad zeroes to string
+https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string
+
+Stackoverflow: What is a metaclass in Python?
+https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
+
+Stackoverflow: Convert base-2 binary number string to int
+https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int
+
+Stackoverflow: Python - Flipping Binary 1's and 0's in a String
+https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string
+
+Stackoverflow: Sort a list by multiple attributes?
+https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+
+Stackoverflow: Convert decimal to ternary(base3) in python
+https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python
+
+Stackoverflow: How to convert an integer in any base to a string?
+https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
 
 
 Python :: Flask
@@ -50,6 +74,9 @@ https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-r
 
 Stackoverflow: Group django queryset by foreign key / related field
 https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
+
+Improve your tests in Django with fakes and factories
+https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
 
 
 C
@@ -86,12 +113,34 @@ https://web.stanford.edu/class/cs193d/handouts/make.pdf
 Multithreading in C++0x part 1: Starting Threads
 https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html
 
+Sockets - Server & Client
+http://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+Quora: What are some small project ideas for learning C++?
+https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
+
+Stackoverflow: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
+https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
+
+Why c++ does not support multiple initializers in for loop? [duplicate]
+https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
+
+
 
 Scala
 -----
 
+What would be best site, book, or tutorial for a Scala beginner?
+https://www.quora.com/What-would-be-best-site-book-or-tutorial-for-a-Scala-beginner
+
 Twitter: Scala School
 https://twitter.github.io/scala_school
+
+Effective Scala
+http://twitter.github.io/effectivescala
+
+Scala Tutorials
+http://scalatutorials.com
 
 Scala for Machine Learning
 http://www.scalaformachinelearning.com
@@ -162,9 +211,6 @@ https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
 Official Docs: Production best practices: performance and reliability
 https://expressjs.com/en/advanced/best-practice-performance.html
-
-Github: expressjs/session
-https://github.com/expressjs/session
 
 Express without template engine
 https://github.com/expressjs/express/issues/2970
@@ -244,6 +290,9 @@ https://www.atlassian.com/git/tutorials/comparing-workflows
 push and delete remote branches
 http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
 
+Stackoverflow: Add all files to a commit except a single file?
+https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
+
 
 DevOps
 ------
@@ -256,6 +305,9 @@ https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continu
 
 Continuous Delivery를 향한 첫 걸음
 http://www.nextree.co.kr/p3452
+
+GitHub's 'squash and merge' default considered harmful
+https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful
 
 
 Machine Learning
@@ -275,6 +327,22 @@ https://academia.stackexchange.com/questions/11137/what-are-the-benefits-of-gett
 
 Quora: Why should one learn machine learning from scratch rather than just learning to use the available libraries?
 https://www.quora.com/Why-should-one-learn-machine-learning-from-scratch-rather-than-just-learning-to-use-the-available-libraries
+
+Quora: What types of machine learning algorithms are used in solving some popular real-world problems?
+https://www.quora.com/What-types-of-machine-learning-algorithms-are-used-in-solving-some-popular-real-world-problems
+
+Quora: What does AI code look like?
+https://www.quora.com/What-does-AI-code-look-like
+
+What is Bayesian inference in statistics? When and how is Bayesian inference used?
+https://www.quora.com/What-is-Bayesian-inference-in-statistics-When-and-how-is-Bayesian-inference-used
+
+
+Mathematics
+-----------
+
+Stackoverflow: How to calculate modulus of large numbers
+https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-numbers
 
 
 GNU/Linux
@@ -304,12 +372,52 @@ https://ubuntuforums.org/showthread.php?t=2260755
 Cross Compile to Windows From Linux
 http://arrayfire.com/cross-compile-to-windows-from-linux
 
+Stackoverflow: How do I edit an existing buffer in a new tab in vim?
+https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim
 
-Web Technology
+The 10 Easiest Ways to Keep Ubuntu System Clean
+https://www.fossmint.com/keep-ubuntu-system-clean
+
+Quora: What is Unix and Linux? Are they co-related?
+https://www.quora.com/What-is-Unix-and-Linux-Are-they-co-related
+
+Quora: Why do you use Linux?
+https://www.quora.com/Why-do-you-use-Linux
+
+Quora: Which Linux OS should I use as a beginner: Ubuntu or Kali Linux, and why?
+https://www.quora.com/Which-Linux-OS-should-I-use-as-a-beginner-Ubuntu-or-Kali-Linux-and-why
+
+Bash scripting tutorial
+https://linuxconfig.org/bash-scripting-tutorial
+
+Bash by example
+https://www.ibm.com/developerworks/library/l-bash/index.html
+
+Stackoverflow: What does "LC_ALL=C" do?
+https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+
+
+Algorithms
+----------
+
+Calculating Permutations and Job Interview Questions 
+http://www.bearcave.com/random_hacks/permute.html
+
+Stackoverflow: Least common multiple for 3 or more numbers
+https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers
+
+Tower of Hanoi
+http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html
+
+
+Wek Technology
 --------------
 
 Google: Oauth2
 https://developers.google.com/api-client-library/python/guide/aaa_oauth
+
+Google: Tech Dev Guide
+https://techdevguide.withgoogle.com
 
 
 CSS
@@ -337,8 +445,11 @@ https://www.quora.com/Whats-the-most-important-lesson-youve-learned-as-a-softwar
 Ebook Library
 http://b-ok.org
 
-What is expected of a junior (back-end) web developer?
+Quora: What is expected of a junior (back-end) web developer?
 https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer
+
+Quora: What are some of the most basic things every programmer should know?
+https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know
 
 
 Blogs
@@ -353,3 +464,15 @@ Interviews
 
 Quora: For Google and Facebook interviews, is it important to memorize the sorting algorithms?
 https://www.quora.com/For-Google-and-Facebook-interviews-is-it-important-to-memorize-the-sorting-algorithms
+
+What are five problems every programmer should be able to answer?
+https://www.quora.com/What-are-five-problems-every-programmer-should-be-able-to-answer
+
+You must interview 10 people for a C++ position. What 5 very difficult questions would you ask?
+https://www.quora.com/You-must-interview-10-people-for-a-C++-position-What-5-very-difficult-questions-would-you-ask
+
+네이버 면접 시 듣게 되는 40가지 질문
+http://www.bloter.net/archives/245110
+
+카카오 면접 시 듣게 되는 70가지 질문
+http://www.bloter.net/archives/245529
