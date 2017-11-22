@@ -1,4 +1,4 @@
-Today I Found (start with Dynamic programming)
+Today I Found
 =============
 
 General Programming
