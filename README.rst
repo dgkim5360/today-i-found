@@ -1,5 +1,18 @@
-Today I Found
+Today I Found (start with Dynamic programming)
 =============
+
+General Programming
+-------------------
+
+What Color is Your Function? 
+http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function
+
+Concurrency is not parallelism
+https://blog.golang.org/concurrency-is-not-parallelism
+
+Quora: Other than algorithms, what are the most important concepts to know in computer programming?
+https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts-to-know-in-computer-programming
+
 
 Python
 ------
@@ -46,6 +59,24 @@ https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-
 Stackoverflow: How to convert an integer in any base to a string?
 https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
 
+Advanced Uses of Python Decorators
+https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv
+
+Stackoverflow: Auto-register class methods using decorator
+https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
+
+Python async/await Tutorial
+http://stackabuse.com/python-async-await-tutorial
+
+Quora: Is Python’s compiled code as fast as C++?
+https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++
+
+Gunicorn Worker Types
+https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types
+
+Go Go Python Rangers - Comparing Python and Golang 
+https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/
+
 
 Python :: Flask
 ---------------
@@ -77,6 +108,19 @@ https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-ke
 
 Improve your tests in Django with fakes and factories
 https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
+
+
+Python :: Twisted
+-----------------
+
+Stackoverflow: What's so cool about Twisted? [closed]
+https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted
+
+Twisted Introduction
+http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted
+
+Stackoverflow: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
+https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other
 
 
 C
@@ -125,6 +169,20 @@ https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-hig
 Why c++ does not support multiple initializers in for loop? [duplicate]
 https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
 
+Quora: Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?
+https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics
+
+OpenGL
+http://www.opengl-tutorial.org
+
+Quora: Why is C++ so complicated?
+https://www.quora.com/Why-is-C++-so-complicated
+
+Quora: What is the most famous C++ Web Framework?
+https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
+
+Stackoverflow: Does C++ have a package manager like npm, pip, gem, etc?
+https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
 
 
 Scala
@@ -152,12 +210,25 @@ Scala :: Akka
 Typesafe Case Study: Keeping Borders Safe with Akka
 http://downloads.typesafe.com/website/casestudies/Dutch-Border-Police-Case-Study-v1.3.pdf
 
+Quora: What is it like to use Akka in production?
+https://www.quora.com/What-is-it-like-to-use-Akka-in-production
+
+Quora: How are Akka actors different from Go channels? How are two related to each other?
+https://www.quora.com/How-are-Akka-actors-different-from-Go-channels-How-are-two-related-to-each-other
+
 
 Scala :: Play Framework
 -----------------------
 
 Building a REST API
 https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1
+
+
+Java
+----
+
+Quora: What do you think about Java?
+https://www.quora.com/What-do-you-think-about-Java
 
 
 JavaScript :: Node
@@ -198,6 +269,9 @@ https://medium.com/@puppybits/rxjs-is-great-so-why-have-i-moved-on-534c513e7af3
 
 The JavaScript phenomenon is a mass psychosis
 https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359
+
+Quora: What should I do to become a JavaScript expert?
+https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert
 
 
 JavaScript :: Node :: Express
@@ -252,6 +326,13 @@ Database :: NoSQL
 
 NoSQL Data Modeling Techniques
 https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques
+
+
+Database :: Redis
+-----------------
+
+[분산캐시] Redis 와 memcache의 flush는 왜 다를까?
+https://charsyam.wordpress.com/2012/05/17/%eb%b6%84%ec%82%b0%ec%ba%90%ec%8b%9c-redis-%ec%99%80-memcache%ec%9d%98-flush%eb%8a%94-%ec%99%9c-%eb%8b%a4%eb%a5%bc%ea%b9%8c/
 
 
 Search Engine
@@ -309,6 +390,25 @@ http://www.nextree.co.kr/p3452
 GitHub's 'squash and merge' default considered harmful
 https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful
 
+Medium: Docker Tutorial — Getting Started with Python, Redis, and Nginx
+https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+
+git: fetch and merge, don’t pull
+https://longair.net/blog/2009/04/16/git-fetch-and-merge
+
+The Docker Ecosystem: An Introduction to Common Components 
+https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
+
+Chapter 3. Using systemd With Containers
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
+
+
+Big Data
+--------
+
+Quora: If you had one month to get a "fluent" level of knowledge in big data, what books and training would you recommend?
+https://www.quora.com/If-you-had-one-month-to-get-a-fluent-level-of-knowledge-in-big-data-what-books-and-training-would-you-recommend
+
 
 Machine Learning
 ----------------
@@ -336,6 +436,12 @@ https://www.quora.com/What-does-AI-code-look-like
 
 What is Bayesian inference in statistics? When and how is Bayesian inference used?
 https://www.quora.com/What-is-Bayesian-inference-in-statistics-When-and-how-is-Bayesian-inference-used
+
+I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
+https://www.quora.com/I-want-to-pursue-machine-learning-as-a-career-but-not-sure-if-I-am-qualified-How-can-I-test-myself
+
+Quora: How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry?
+https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry
 
 
 Mathematics
@@ -409,6 +515,28 @@ https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-n
 Tower of Hanoi
 http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html
 
+Slides: Dynamic Programming
+http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
+http://shuangz.com/download/dp_slides.pdf
+
+Stackoverflow: Finding n-th permutation without computing others
+https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others
+
+Stackoverflow: Algorithm for finding numerical permutation given lexicographic index
+https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index
+
+Quora: What book about algorithms is a must read for a programmer?
+https://www.quora.com/What-book-about-algorithms-is-a-must-read-for-a-programmer
+
+Quora: What are the top 30 most essential algorithms you must know for competitive programming?
+https://www.quora.com/What-are-the-top-30-most-essential-algorithms-you-must-know-for-competitive-programming
+
+Quora: How can I be a guru in algorithms? How can I be a real software engineer?
+https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-software-engineer
+
+Quora: How does the algorithm of Google Maps work?
+https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
+
 
 Wek Technology
 --------------
@@ -418,6 +546,24 @@ https://developers.google.com/api-client-library/python/guide/aaa_oauth
 
 Google: Tech Dev Guide
 https://techdevguide.withgoogle.com
+
+Handling long Web Requests with Asynchronous Request Processing
+http://www.codemag.com/article/0102091
+
+YouTube Architecture
+http://highscalability.com/blog/2008/3/12/youtube-architecture.html
+
+Stream Updates with Server-Sent Events
+https://www.html5rocks.com/en/tutorials/eventsource/basics
+
+Medium: Python and Server-sent Event
+https://medium.com/code-zen/python-generator-and-html-server-sent-events-3cdf14140e56
+
+Stackoverflow: Job processing via web application: real-time status updates and backend messaging
+https://stackoverflow.com/questions/12733985/job-processing-via-web-application-real-time-status-updates-and-backend-messagi
+
+Stackoverflow: Where should I make heavy computations ? Client or server side?
+https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
 
 
 CSS
@@ -451,12 +597,40 @@ https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer
 Quora: What are some of the most basic things every programmer should know?
 https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know
 
+Quora: Do the best programmers use the fewest lines of code, as is consistent with my experience?
+https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is-consistent-with-my-experience
+
+Quora: What little habits made you a better software engineer?
+https://www.quora.com/What-little-habits-made-you-a-better-software-engineer
+
+
+Vim
+---
+
+How To Install Vim 8.0 On Ubuntu 16.04
+https://itsfoss.com/vim-8-release-install
+
+Learn Vimscript the Hard Way
+http://learnvimscriptthehardway.stevelosh.com
+
+Stackoverflow: What is the difference between the vim plugin managers?
+https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
+
+Vim tips and tricks
+https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
+
+Stackoverflow: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
+https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
+
 
 Blogs
 -----
 
 Rasmus Andersson
 https://rsms.me/about/spotify
+
+arp242
+https://arp242.net
 
 
 Interviews
@@ -476,3 +650,18 @@ http://www.bloter.net/archives/245110
 
 카카오 면접 시 듣게 되는 70가지 질문
 http://www.bloter.net/archives/245529
+
+데이터 사이언티스트 - 지원서 겸 체크리스트 (넘버웍스 하용호 대표)
+http://blog.naver.com/PostView.nhn?blogId=eleapple79&logNo=220674845506
+
+기획자·마케터가 알아둘 데이터과학 원칙 6가지
+https://www.bloter.net/archives/242233
+
+Quora: Can your work on GitHub actually make your resume worse?
+https://www.quora.com/Can-your-work-on-GitHub-actually-make-your-resume-worse
+
+Quora: How can I build a data science portfolio without job experience?
+https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-experience
+
+Technical Interview Performance by Editor/OS/Language
+https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language
