@@ -1,4 +1,4 @@
-Today I Found
+Today I Found (start with CppCon2015)
 =============
 
 General Programming
@@ -77,6 +77,51 @@ https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types
 Go Go Python Rangers - Comparing Python and Golang 
 https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/
 
+Using ipdb with Docker Compose for interactive debugging
+https://www.calazan.com/using-ipdb-docker-compose-interactive-debugging
+
+using functools.lru_cache on functions with constant but non-hashable objects
+https://stackoverflow.com/questions/37609772/using-functools-lru-cache-on-functions-with-constant-but-non-hashable-objects
+
+Quora: Which fields and industries use Python?
+https://www.quora.com/Which-fields-and-industries-use-Python
+
+Quora: Could you program a video game entirely using Python?
+https://www.quora.com/Could-you-program-a-video-game-entirely-using-Python
+
+Python 3 Module of the Week
+https://pymotw.com/3/index.html
+
+pdb - Interactive Debugger
+https://pymotw.com/3/pdb/index.html
+
+Docs: 18.5.3. Tasks and coroutines
+https://docs.python.org/3/library/asyncio-task.html
+
+Unyielding
+https://glyph.twistedmatrix.com/2014/02/unyielding.html
+
+How Celery fixed Python's GIL problem
+http://blog.domanski.me/how-celery-fixed-pythons-gil-problem
+
+Medium: Asyncio Coroutine Patterns: Beyond await
+https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f
+
+Stackoverflow: Asyncio RuntimeError: Event Loop is Closed
+https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed
+
+I don't understand Python's Asyncio
+http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio
+
+Send data to asyncio coroutine
+https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug
+
+asyncio - run coroutine in the background 
+https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
+
+Stackoverflow: Can an asyncio event loop run in the background without suspending the Python interpreter?
+https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in/26270790#26270790
+
 
 Python :: Flask
 ---------------
@@ -86,6 +131,9 @@ http://lucumr.pocoo.org
 
 Stackoverflow: How to serve static files in Flask
 https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+
+Flask on Nginx and Gunicorn
+https://prakhar.me/articles/flask-on-nginx-and-gunicorn
 
 
 Python :: Django
@@ -108,6 +156,15 @@ https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-ke
 
 Improve your tests in Django with fakes and factories
 https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
+
+Django debug with vim and vdebug
+https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
+
+Stackoverflow: Django tests dump data/ results
+https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
+
+Stackoverflow: How to debug in Django, the good way?
+https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
 
 
 Python :: Twisted
@@ -143,6 +200,21 @@ http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 
 Shared libraries with GCC on Linux
 https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
+
+What are reasons to use C when there is C++?
+https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++
+
+Quora: In the C programming language, what's the difference between while (1) and for (;;)?
+https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for
+
+Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
+https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+
+Quora: Which is the best way to avoid memory leaks in C/C++?
+https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
+
+Simple rules to avoid Memory Leaks in C
+https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
 
 
 C++
@@ -183,6 +255,18 @@ https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
 
 Stackoverflow: Does C++ have a package manager like npm, pip, gem, etc?
 https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
+
+Youtube: Stop Teaching C
+https://www.youtube.com/watch?v=YnWhqhNdYyk
+
+Why is 'if constexpr' so important in C++17?
+https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17
+
+Quora: How long will it take to learn C++ for a C Professional?
+https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
+
+Quora: What does 'using namespace std' mean in C++?
+https://www.quora.com/What-does-using-namespace-std-mean-in-C++
 
 
 Scala
@@ -306,6 +390,9 @@ https://handsontable.com
 Intro.js
 https://introjs.com
 
+The best of JavaScript, HTML and CSS
+https://bestof.js.org
+
 
 TypeScript
 ----------
@@ -401,6 +488,9 @@ https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introdu
 
 Chapter 3. Using systemd With Containers
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
+
+10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
+https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
 
 
 Big Data
@@ -502,6 +592,36 @@ https://www.ibm.com/developerworks/library/l-bash/index.html
 Stackoverflow: What does "LC_ALL=C" do?
 https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
+Tmux: A Simple Start
+https://www.sitepoint.com/tmux-a-simple-start
+
+Stackoverflow: How to reset the terminal properties and preferences?
+https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences
+
+Terminal Velocity – A Command-line Note-taking Application For Linux
+https://www.ostechnix.com/terminal-velocity-command-line-note-taking-application-linux
+
+Wiki: Z shell
+https://en.wikipedia.org/wiki/Z_shell
+
+Fish shell
+https://fishshell.com
+
+Stackoverflow: How do I scroll in tmux?
+https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
+
+Shell Scripting Tutorial
+https://www.shellscript.sh
+
+Pass Unix Password Manager
+http://www.tricksofthetrades.net/2015/07/04/notes-pass-unix-password-manager
+
+Quora: Why do so many Linux users prefer the command line to a GUI?
+https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GUI
+
+Quora: What do you dislike most about Linux?
+https://www.quora.com/What-do-you-dislike-most-about-Linux
+
 
 Algorithms
 ----------
@@ -537,8 +657,17 @@ https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-soft
 Quora: How does the algorithm of Google Maps work?
 https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
 
+Stackoverflow: Sieve of Eratosthenes - Finding Primes Python
+https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
 
-Wek Technology
+Stackoverflow: Sum of number of divisors
+https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
+
+Stackoverflow: What is the best way to get all the divisors of a number?
+https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
+
+
+Web Technology
 --------------
 
 Google: Oauth2
@@ -564,6 +693,70 @@ https://stackoverflow.com/questions/12733985/job-processing-via-web-application-
 
 Stackoverflow: Where should I make heavy computations ? Client or server side?
 https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
+
+
+Editors
+-------
+
+How To Install Vim 8.0 On Ubuntu 16.04
+https://itsfoss.com/vim-8-release-install
+
+Learn Vimscript the Hard Way
+http://learnvimscriptthehardway.stevelosh.com
+
+Stackoverflow: What is the difference between the vim plugin managers?
+https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
+
+Vim tips and tricks
+https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
+
+Stackoverflow: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
+https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
+
+Use Vim as a Python IDE
+http://liuchengxu.org/posts/use-vim-as-a-python-ide
+
+VIM and Python - a Match Made in Heaven
+https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
+
+Turning Vim into a modern Python IDE
+https://web.archive.org/web/20151210012212/http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html
+
+VIM as Python IDE
+http://200ok.ch/posts/vim-as-python-ide.html
+
+vim-dispatch: I should have used this years ago 
+http://tilvim.com/2014/03/13/dispatch.html
+
+tmux and vim: My workflow and some favorite plugins
+http://meirkriheli.com/talks/tmux-vim/index.html
+
+An alternative to minibufexplorer (vim)?
+https://stackoverflow.com/questions/4865132/an-alternative-to-minibufexplorer-vim
+
+Tmux and Vim - even better together
+https://blog.bugsnag.com/tmux-and-vim
+
+Tmux and Vim: the perfect combination 
+http://tilvim.com/2014/07/30/tmux-and-vim.html
+
+Vim-R-Tmux: An Integrated Working Environment for R 
+http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
+
+Reddit: Vim as an R IDE, is it possible?
+https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible
+
+Stackoverflow: pycharm running wayyyy slow
+https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow
+
+Stackoverflow: PyCharm integrated debugger slows down application
+https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application
+
+A Byte of Vim
+https://vim.swaroopch.com
+
+Reddit: I am Tim Pope, crafter of plugins. AMA.
+https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
 
 
 CSS
@@ -603,34 +796,33 @@ https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is
 Quora: What little habits made you a better software engineer?
 https://www.quora.com/What-little-habits-made-you-a-better-software-engineer
 
+Quora: Why are most famous programmers C programmers?
+https://www.quora.com/Why-are-most-famous-programmers-C-programmers
 
-Vim
----
+Quora: What are the 7 deadly sins of programming?
+https://www.quora.com/What-are-the-7-deadly-sins-of-programming
 
-How To Install Vim 8.0 On Ubuntu 16.04
-https://itsfoss.com/vim-8-release-install
+GPL·AGPL·MPL…한눈에 보는 오픈소스SW 라이선스
+http://www.bloter.net/archives/209318
 
-Learn Vimscript the Hard Way
-http://learnvimscriptthehardway.stevelosh.com
-
-Stackoverflow: What is the difference between the vim plugin managers?
-https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
-
-Vim tips and tricks
-https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
-
-Stackoverflow: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
-https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
+Choosing a License
+http://docs.python-guide.org/en/latest/writing/license
 
 
-Blogs
------
+Blogs & Sites
+-------------
 
 Rasmus Andersson
 https://rsms.me/about/spotify
 
 arp242
 https://arp242.net
+
+Code Without Rules
+https://codewithoutrules.com
+
+zx2c4
+https://www.zx2c4.com
 
 
 Interviews
