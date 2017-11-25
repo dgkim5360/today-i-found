@@ -1,4 +1,4 @@
-Today I Found (start with CppCon2015)
+Today I Found
 =============
 
 General Programming
@@ -12,6 +12,9 @@ https://blog.golang.org/concurrency-is-not-parallelism
 
 Quora: Other than algorithms, what are the most important concepts to know in computer programming?
 https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts-to-know-in-computer-programming
+
+Quora: What are the papers every programmer should read?
+https://www.quora.com/What-are-the-papers-every-programmer-should-read
 
 
 Python
@@ -122,6 +125,27 @@ https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
 Stackoverflow: Can an asyncio event loop run in the background without suspending the Python interpreter?
 https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in/26270790#26270790
 
+Docs: Packaging and Distributing Packages
+https://packaging.python.org/tutorials/distributing-packages
+
+Stackoverflow: @asyncio.coroutine vs async def
+https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
+
+How the heck does async/await work in Python 3.5?
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
+
+Quora: Is Python written in C language? What is Cython? How is it different from Python?
+https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
+
+Making 1 million requests with python-aiohttp
+https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+
+Docs: 23. Exploring CPython's Internals
+https://devguide.python.org/exploring
+
+Pyrex
+http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
+
 
 Python :: Flask
 ---------------
@@ -216,6 +240,18 @@ https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
 Simple rules to avoid Memory Leaks in C
 https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
 
+Quora: Why isn't big int added in C/C++?
+https://www.quora.com/Why-isnt-big-int-added-in-C-C++
+
+Quora: What are some of the best C/C++ projects beginners can try?
+https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
+
+Quora: What is something you know about C that most people don't know about C?
+https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
+
+Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
+https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
+
 
 C++
 ---
@@ -256,7 +292,7 @@ https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
 Stackoverflow: Does C++ have a package manager like npm, pip, gem, etc?
 https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
 
-Youtube: Stop Teaching C
+Youtube: cppcon 2015: Stop Teaching C
 https://www.youtube.com/watch?v=YnWhqhNdYyk
 
 Why is 'if constexpr' so important in C++17?
@@ -267,6 +303,18 @@ https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
 
 Quora: What does 'using namespace std' mean in C++?
 https://www.quora.com/What-does-using-namespace-std-mean-in-C++
+
+Quora: What things should every C++ beginner know?
+https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
+
+Quora: How do I do memory allocation in C++?
+https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
+
+Quora: Why do some programmers say C/C++ isn't safe?
+https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
+
+Quora: How do I split a string by space into an array in c++?
+https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
 
 
 Scala
@@ -492,6 +540,9 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_ho
 10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
 https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
 
+Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups
+https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups
+
 
 Big Data
 --------
@@ -533,12 +584,18 @@ https://www.quora.com/I-want-to-pursue-machine-learning-as-a-career-but-not-sure
 Quora: How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry?
 https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry
 
+Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 
+http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
+
 
 Mathematics
 -----------
 
 Stackoverflow: How to calculate modulus of large numbers
 https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-numbers
+
+Quora: What are intuitive explanations for determinants?
+https://www.quora.com/What-are-intuitive-explanations-for-determinants
 
 
 GNU/Linux
@@ -622,6 +679,24 @@ https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GU
 Quora: What do you dislike most about Linux?
 https://www.quora.com/What-do-you-dislike-most-about-Linux
 
+GPG Cheatsheet
+http://irtfweb.ifa.hawaii.edu/~lockhart/gpg
+
+How To Open ePub Books In Ubuntu Linux
+https://itsfoss.com/open-epub-books-ubuntu-linux
+
+UNIX Tutorial for Beginners
+http://www.ee.surrey.ac.uk/Teaching/Unix
+
+bona fide os developer
+http://www.osdever.net/tutorials
+
+Linux Torvalds Answers Your Questions
+https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions
+
+Linus on Understanding Pointers
+https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers
+
 
 Algorithms
 ----------
@@ -694,6 +769,15 @@ https://stackoverflow.com/questions/12733985/job-processing-via-web-application-
 Stackoverflow: Where should I make heavy computations ? Client or server side?
 https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
 
+TutorialsPoint: Unix Socket Tutorial
+https://www.tutorialspoint.com/unix_sockets/index.htm
+
+Quora: How would you build a website that uses machine learning (what frameworks for frontend and backend, Python or R)?
+https://www.quora.com/How-would-you-build-a-website-that-uses-machine-learning-what-frameworks-for-frontend-and-backend-Python-or-R
+
+Why French Search Engine Qwant Thinks It Can Beat Google
+https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant-thinks-it-can-beat-google
+
 
 Editors
 -------
@@ -758,6 +842,15 @@ https://vim.swaroopch.com
 Reddit: I am Tim Pope, crafter of plugins. AMA.
 https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
 
+Stackoverflow: Using Vim's tabs like buffers
+https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+
+Stackoverflow: How to navigate in large project in VIM
+https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
+
+Reddit: How do you guys use Vim effectively for large projects?
+https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large
+
 
 CSS
 ---
@@ -808,9 +901,27 @@ http://www.bloter.net/archives/209318
 Choosing a License
 http://docs.python-guide.org/en/latest/writing/license
 
+Quora: What does it take to become really good at programming?
+https://www.quora.com/What-does-it-take-to-become-really-good-at-programming
+
+Quora: What little habits made you a better data scientist?
+https://www.quora.com/What-little-habits-made-you-a-better-data-scientist
+
+Quora: Are you a self-made data scientist? How did you do it?
+https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it
+
+Reddit: 1000+ Beginner Programming Projects
+https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost
+
+Medium: How the NSA identified Satoshi Nakamoto
+https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595
+
 
 Blogs & Sites
 -------------
+
+Welcome to Bjarne Stroustrup's homepage!
+http://www.stroustrup.com/index.html
 
 Rasmus Andersson
 https://rsms.me/about/spotify
@@ -823,6 +934,9 @@ https://codewithoutrules.com
 
 zx2c4
 https://www.zx2c4.com
+
+Tom Ryder
+https://sanctum.geek.nz
 
 
 Interviews
@@ -857,3 +971,9 @@ https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-exper
 
 Technical Interview Performance by Editor/OS/Language
 https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language
+
+Quora: How do I prepare for Data Engineer jobs at Amazon/Google/Facebook/Quora?
+https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-Facebook-Quora
+
+Quora: After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?
+https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do
