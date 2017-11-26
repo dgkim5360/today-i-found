@@ -697,6 +697,12 @@ https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-que
 Linus on Understanding Pointers
 https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers
 
+Quora: Why is the kernel source code written in C language? Is there any specific reason why the kernel is not implemented in C++?
+https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-there-any-specific-reason-why-the-kernel-is-not-implemented-in-C++
+
+Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?
+https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C
+
 
 Algorithms
 ----------
