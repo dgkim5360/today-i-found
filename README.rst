@@ -554,6 +554,9 @@ https://www.quora.com/If-you-had-one-month-to-get-a-fluent-level-of-knowledge-in
 Machine Learning
 ----------------
 
+Book: The Elements of Statistical Learning
+https://web.stanford.edu/~hastie/ElemStatLearn
+
 Book: An Introduction to Statistical Learning
 http://www-bcf.usc.edu/~gareth/ISL
 
