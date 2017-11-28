@@ -590,6 +590,9 @@ https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-th
 Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 
 http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
 
+Quora: Why don't deep learning researchers and professionals use C or C++ instead of slow language like Python? Will it reduce dependence on GPUs?
+https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C-or-C++-instead-of-slow-language-like-Python-Will-it-reduce-dependence-on-GPUs
+
 
 Mathematics
 -----------
@@ -599,6 +602,9 @@ https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-nu
 
 Quora: What are intuitive explanations for determinants?
 https://www.quora.com/What-are-intuitive-explanations-for-determinants
+
+Quora: How are imaginary numbers useful?
+https://www.quora.com/How-are-imaginary-numbers-useful
 
 
 GNU/Linux
@@ -749,6 +755,9 @@ https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
 
 Stackoverflow: What is the best way to get all the divisors of a number?
 https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
+
+Quora: What is the fastest sorting algorithm?
+https://www.quora.com/What-is-the-fastest-sorting-algorithm
 
 
 Web Technology
