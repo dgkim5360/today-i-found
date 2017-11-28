@@ -146,6 +146,9 @@ https://devguide.python.org/exploring
 Pyrex
 http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
 
+Stackoverflow: How do I build a numpy array from a generator?
+https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
+
 
 Python :: Flask
 ---------------
