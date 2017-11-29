@@ -998,3 +998,9 @@ https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-F
 
 Quora: After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?
 https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do
+
+ETC
+---
+
+Medium: A Quantum Leap for the Web
+https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
