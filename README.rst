@@ -319,6 +319,9 @@ https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
 Quora: How do I split a string by space into an array in c++?
 https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
 
+Quora: (Stroustrup A2A) What are the best C++ books?
+https://www.quora.com/What-are-the-best-C++-books
+
 
 Scala
 -----
