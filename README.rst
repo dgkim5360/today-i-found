@@ -16,6 +16,9 @@ https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts
 Quora: What are the papers every programmer should read?
 https://www.quora.com/What-are-the-papers-every-programmer-should-read
 
+Quora: Why is the execution time of C faster than Java? (우문현답)
+https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java
+
 
 Python
 ------
@@ -148,6 +151,9 @@ http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
 
 Stackoverflow: How do I build a numpy array from a generator?
 https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
+
+Quora: What are your reviews between PyTorch and TensorFlow?
+https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
 
 Python :: Flask
@@ -321,6 +327,13 @@ https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
 
 Quora: (Stroustrup A2A) What are the best C++ books?
 https://www.quora.com/What-are-the-best-C++-books
+
+
+C/C++
+-----
+
+Quora: What is the difference between multithreading in C and C++?
+https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++
 
 
 Scala
@@ -598,6 +611,9 @@ http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
 
 Quora: Why don't deep learning researchers and professionals use C or C++ instead of slow language like Python? Will it reduce dependence on GPUs?
 https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C-or-C++-instead-of-slow-language-like-Python-Will-it-reduce-dependence-on-GPUs
+
+Quora: What are your reviews between PyTorch and TensorFlow?
+https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
 
 Mathematics
