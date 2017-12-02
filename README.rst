@@ -243,17 +243,8 @@ https://www.quora.com/In-the-C-programming-language-whats-the-difference-between
 Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
 https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
 
-Quora: Which is the best way to avoid memory leaks in C/C++?
-https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
-
 Simple rules to avoid Memory Leaks in C
 https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
-
-Quora: Why isn't big int added in C/C++?
-https://www.quora.com/Why-isnt-big-int-added-in-C-C++
-
-Quora: What are some of the best C/C++ projects beginners can try?
-https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
 
 Quora: What is something you know about C that most people don't know about C?
 https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
@@ -319,14 +310,14 @@ https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
 Quora: How do I do memory allocation in C++?
 https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
 
-Quora: Why do some programmers say C/C++ isn't safe?
-https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
-
 Quora: How do I split a string by space into an array in c++?
 https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
 
 Quora: (Stroustrup A2A) What are the best C++ books?
 https://www.quora.com/What-are-the-best-C++-books
+
+Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
+https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
 
 
 C/C++
@@ -334,6 +325,18 @@ C/C++
 
 Quora: What is the difference between multithreading in C and C++?
 https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++
+
+Quora: Why do some programmers say C/C++ isn't safe?
+https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
+
+Quora: Why isn't big int added in C/C++?
+https://www.quora.com/Why-isnt-big-int-added-in-C-C++
+
+Quora: Which is the best way to avoid memory leaks in C/C++?
+https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
+
+Quora: What are some of the best C/C++ projects beginners can try?
+https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
 
 
 Scala
