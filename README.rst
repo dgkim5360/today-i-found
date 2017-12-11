@@ -469,6 +469,9 @@ https://introjs.com
 The best of JavaScript, HTML and CSS
 https://bestof.js.org
 
+Javascript Cryptography Considered Harmful
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful
+
 
 TypeScript
 ----------
