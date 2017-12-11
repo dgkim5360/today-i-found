@@ -255,6 +255,9 @@ https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-k
 Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
 https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
 
+Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
+https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
+
 
 C++
 ---
@@ -382,6 +385,9 @@ Scala :: Play Framework
 
 Building a REST API
 https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1
+
+Quora: What are the pros and cons of Play Framework 2, for a Scala developer?
+https://www.quora.com/What-are-the-pros-and-cons-of-Play-Framework-2-for-a-Scala-developer
 
 
 Java
