@@ -155,6 +155,9 @@ https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-g
 Quora: What are your reviews between PyTorch and TensorFlow?
 https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
+Quora: How are Python lists implemented internally?
+https://www.quora.com/How-are-Python-lists-implemented-internally
+
 
 Python :: Flask
 ---------------
@@ -337,6 +340,9 @@ https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
 
 Quora: What are some of the best C/C++ projects beginners can try?
 https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
+
+Quora: Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.
+https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C
 
 
 Scala
