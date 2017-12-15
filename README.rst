@@ -909,6 +909,9 @@ https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-
 Reddit: How do you guys use Vim effectively for large projects?
 https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large
 
+Reddit: Newvie Vim user need help setting up ale
+https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale
+
 
 CSS
 ---
