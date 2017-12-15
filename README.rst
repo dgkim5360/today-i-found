@@ -912,6 +912,9 @@ https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively
 Reddit: Newvie Vim user need help setting up ale
 https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale
 
+Nova Color Scheme for almost everything
+https://trevordmiller.com/projects/nova
+
 
 CSS
 ---
