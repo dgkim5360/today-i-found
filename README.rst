@@ -19,6 +19,9 @@ https://www.quora.com/What-are-the-papers-every-programmer-should-read
 Quora: Why is the execution time of C faster than Java? (우문현답)
 https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java
 
+Quora: Why is OO programming considered bad by some people?
+https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people
+
 
 Python
 ------
@@ -258,6 +261,12 @@ https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an
 Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
 https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
 
+Quora: What are the advantages of using references over pointers?
+https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
+
+Quora: How are multiple arguments evaluated in a function in C?
+https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
+
 
 C++
 ---
@@ -346,6 +355,9 @@ https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
 
 Quora: Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.
 https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C
+
+Quora: How do I compare a multi-dimensional array on C++?
+https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
 
 
 Scala
@@ -798,6 +810,9 @@ https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-d
 
 Quora: What is the fastest sorting algorithm?
 https://www.quora.com/What-is-the-fastest-sorting-algorithm
+
+Quora: How efficient is bubble sort?
+https://www.quora.com/How-efficient-is-bubble-sort
 
 
 Web Technology
