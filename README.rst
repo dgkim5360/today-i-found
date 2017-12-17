@@ -22,6 +22,9 @@ https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java
 Quora: Why is OO programming considered bad by some people?
 https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people
 
+Quora: What are the disadvantages of object oriented programming languages?
+https://www.quora.com/What-are-the-disadvantages-of-object-oriented-programming-languages 
+
 
 Python
 ------
@@ -994,6 +997,9 @@ https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programm
 
 Medium: How the NSA identified Satoshi Nakamoto
 https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595
+
+Quora: What is the most life changing book you've ever read?
+https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
 
 
 Blogs & Sites
