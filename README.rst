@@ -25,6 +25,9 @@ https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people
 Quora: What are the disadvantages of object oriented programming languages?
 https://www.quora.com/What-are-the-disadvantages-of-object-oriented-programming-languages 
 
+Quora: Is it a good practice to name variables with a prefix of one letter indicating the type? Eg. "bValid", where "b" represents "boolean".
+https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-one-letter-indicating-the-type-Eg-bValid-where-b-represents-boolean
+
 
 Python
 ------
@@ -336,6 +339,9 @@ https://www.quora.com/What-are-the-best-C++-books
 
 Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
 https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
+
+Quora: What are the names of some C++ compilers?
+https://www.quora.com/What-are-the-names-of-some-C++-compilers
 
 
 C/C++
@@ -1068,3 +1074,6 @@ ETC
 
 Medium: A Quantum Leap for the Web
 https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
+
+Quora: Is Bitcoin in a boom or a bubble, and will we ever find out who Satoshi Nakamoto is?
+https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out-who-Satoshi-Nakamoto-is
