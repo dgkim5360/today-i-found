@@ -368,6 +368,9 @@ https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-ha
 Quora: How do I compare a multi-dimensional array on C++?
 https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
 
+Quora: Is cin/cout slower than scanf/printf?
+https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
+
 
 Scala
 -----
