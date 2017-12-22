@@ -32,10 +32,13 @@ https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-o
 Python
 ------
 
+Dabeaz (a lot of precious lectures, especially for generator, asyncio, and concurrency)
+http://www.dabeaz.com
+
 The ElementTree iterparse function
 http://effbot.org/zone/element-iterparse.htm
 
-How to Package Your Python Code
+Docs: How to Package Your Python Code
 https://python-packaging.readthedocs.io/en/latest/index.html
 
 Tutorial for Packaging and Distributing Projects
@@ -80,9 +83,6 @@ https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-d
 Stackoverflow: Auto-register class methods using decorator
 https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
 
-Python async/await Tutorial
-http://stackabuse.com/python-async-await-tutorial
-
 Quora: Is Python’s compiled code as fast as C++?
 https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++
 
@@ -109,6 +109,31 @@ https://pymotw.com/3/index.html
 
 pdb - Interactive Debugger
 https://pymotw.com/3/pdb/index.html
+
+Quora: Is Python written in C language? What is Cython? How is it different from Python?
+https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
+
+Docs: 23. Exploring CPython's Internals
+https://devguide.python.org/exploring
+
+Pyrex
+http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
+
+Stackoverflow: How do I build a numpy array from a generator?
+https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
+
+Quora: What are your reviews between PyTorch and TensorFlow?
+https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
+
+Quora: How are Python lists implemented internally?
+https://www.quora.com/How-are-Python-lists-implemented-internally
+
+
+Python :: Asyncio & Concurrency
+-------------------------------
+
+Python async/await Tutorial
+http://stackabuse.com/python-async-await-tutorial
 
 Docs: 18.5.3. Tasks and coroutines
 https://docs.python.org/3/library/asyncio-task.html
@@ -137,35 +162,14 @@ https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
 Stackoverflow: Can an asyncio event loop run in the background without suspending the Python interpreter?
 https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in/26270790#26270790
 
-Docs: Packaging and Distributing Packages
-https://packaging.python.org/tutorials/distributing-packages
-
 Stackoverflow: @asyncio.coroutine vs async def
 https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
 
 How the heck does async/await work in Python 3.5?
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
 
-Quora: Is Python written in C language? What is Cython? How is it different from Python?
-https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
-
 Making 1 million requests with python-aiohttp
 https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
-
-Docs: 23. Exploring CPython's Internals
-https://devguide.python.org/exploring
-
-Pyrex
-http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
-
-Stackoverflow: How do I build a numpy array from a generator?
-https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
-
-Quora: What are your reviews between PyTorch and TensorFlow?
-https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
-
-Quora: How are Python lists implemented internally?
-https://www.quora.com/How-are-Python-lists-implemented-internally
 
 
 Python :: Flask
