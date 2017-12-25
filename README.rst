@@ -558,6 +558,12 @@ Hadoop EcoSystem
 DockerHub: Cloudera/quickstart for Single-Node Deployment
 https://hub.docker.com/r/cloudera/quickstart
 
+Quora: What is Apache Hadoop?
+https://www.quora.com/What-is-Apache-Hadoop-1
+
+What is Hadoop? What is MapReduce? What is NoSQL?
+https://datajobs.com/what-is-hadoop-and-nosql
+
 
 Version Controls
 ----------------
