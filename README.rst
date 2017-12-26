@@ -128,6 +128,9 @@ https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 Quora: How are Python lists implemented internally?
 https://www.quora.com/How-are-Python-lists-implemented-internally
 
+Stackoverflow: Difference between python3 and python3m executables
+https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
+
 
 Python :: Asyncio & Concurrency
 -------------------------------
