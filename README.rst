@@ -280,6 +280,9 @@ https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
 Quora: How are multiple arguments evaluated in a function in C?
 https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
 
+Quora: Is int n='A' a valid statement in C language?
+https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
+
 
 C++
 ---
@@ -349,6 +352,9 @@ https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-wo
 
 Quora: What are the names of some C++ compilers?
 https://www.quora.com/What-are-the-names-of-some-C++-compilers
+
+Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
+https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
 
 
 C/C++
@@ -566,6 +572,9 @@ https://www.quora.com/What-is-Apache-Hadoop-1
 
 What is Hadoop? What is MapReduce? What is NoSQL?
 https://datajobs.com/what-is-hadoop-and-nosql
+
+Quora: How reliable is Spark?
+https://www.quora.com/How-reliable-is-Spark
 
 
 Version Controls
