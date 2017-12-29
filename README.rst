@@ -524,7 +524,7 @@ https://github.com/Microsoft/TypeScriptSamples
 
 
 Database :: RDBMS :: Postgresql
-----------------------
+-------------------------------
 
 Postgres Guide
 http://postgresguide.com
@@ -857,6 +857,9 @@ https://www.quora.com/How-efficient-is-bubble-sort
 
 Web Technology
 --------------
+
+Fuck the Cloud
+http://ascii.textfiles.com/archives/1717
 
 Google: Oauth2
 https://developers.google.com/api-client-library/python/guide/aaa_oauth
