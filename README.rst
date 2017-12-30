@@ -384,6 +384,9 @@ https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
 Quora: Is cin/cout slower than scanf/printf?
 https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
 
+Quora: What are objects in C and C++, and how are they different?
+https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
+
 
 Scala
 -----
@@ -521,6 +524,13 @@ TypeScript
 
 Github: TypeScriptSamples
 https://github.com/Microsoft/TypeScriptSamples
+
+
+Database :: RDBMS
+-----------------
+
+Quora: What are pros and cons of PostgreSQL and MySQL? With respect to reliability, speed, scalability, and features.
+https://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL-With-respect-to-reliability-speed-scalability-and-features
 
 
 Database :: RDBMS :: Postgresql
