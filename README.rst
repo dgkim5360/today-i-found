@@ -283,6 +283,9 @@ https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
 Quora: Is int n='A' a valid statement in C language?
 https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
 
+Quora: Why does the C library have their own Int and other datatypes?
+https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
+
 
 C++
 ---
