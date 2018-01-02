@@ -817,6 +817,12 @@ https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-the
 Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?
 https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C
 
+UEFI boot: how does that actually work, then?
+https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then
+
+Check BIOS, UEFI, motherboard info in Linux
+https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
+
 
 Algorithms
 ----------
