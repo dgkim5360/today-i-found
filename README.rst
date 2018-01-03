@@ -286,6 +286,9 @@ https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
 Quora: Why does the C library have their own Int and other datatypes?
 https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
 
+Why should I have written ZeroMQ in C, not C++ (part I)
+http://250bpm.com/blog:4
+
 
 C++
 ---
@@ -1081,6 +1084,12 @@ https://www.zx2c4.com
 
 Tom Ryder
 https://sanctum.geek.nz
+
+division by zero
+https://2f30.org
+
+suckless software
+https://suckless.org
 
 
 Interviews
