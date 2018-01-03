@@ -829,6 +829,9 @@ https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
 Plan 9 from Bell Labs
 http://9p.io/plan9
 
+Reddit: Why did ArchLinux embrace Systemd?
+https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd
+
 
 Algorithms
 ----------
