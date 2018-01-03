@@ -826,6 +826,9 @@ https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-t
 Check BIOS, UEFI, motherboard info in Linux
 https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
 
+Plan 9 from Bell Labs
+http://9p.io/plan9
+
 
 Algorithms
 ----------
