@@ -289,6 +289,9 @@ https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-dataty
 Why should I have written ZeroMQ in C, not C++ (part I)
 http://250bpm.com/blog:4
 
+Quora: How do you build a time counter in C language from scratch?
+https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
+
 
 C++
 ---
@@ -361,6 +364,9 @@ https://www.quora.com/What-are-the-names-of-some-C++-compilers
 
 Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
 https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
+
+Quora: Why isn't .h used in C++?
+https://www.quora.com/Why-isnt-h-used-in-C++
 
 
 C/C++
@@ -884,6 +890,9 @@ https://www.quora.com/What-is-the-fastest-sorting-algorithm
 
 Quora: How efficient is bubble sort?
 https://www.quora.com/How-efficient-is-bubble-sort
+
+Quora: What kind of algorithm do elevators use to determine which one will take the next request?
+https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request
 
 
 Web Technology
