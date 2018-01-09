@@ -31,6 +31,9 @@ https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-o
 Quora: How can I go from writing spaghetti code to coding like professional?
 https://www.quora.com/How-can-I-go-from-writing-spaghetti-code-to-coding-like-professional
 
+Quora: Why is “the halting problem” a problem? Why does it exist?
+https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why-does-it-exist
+
 
 Python
 ------
