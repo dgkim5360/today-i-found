@@ -856,6 +856,9 @@ http://9p.io/plan9
 Reddit: Why did ArchLinux embrace Systemd?
 https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd
 
+Configuring your login sessions with dot files
+http://mywiki.wooledge.org/DotFiles
+
 
 Algorithms
 ----------
