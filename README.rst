@@ -862,6 +862,9 @@ http://mywiki.wooledge.org/DotFiles
 Docker Considered Harmful
 http://catern.com/posts/docker.html
 
+HOWTO: Use `xwd` for screenshots
+https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
+
 
 Algorithms
 ----------
