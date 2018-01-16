@@ -868,6 +868,9 @@ https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
 Stackoverflow: What do the numbers in a man page mean?
 https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
 
+Stackoverflow: What does "LC_ALL=C" do?
+https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+
 
 Algorithms
 ----------
