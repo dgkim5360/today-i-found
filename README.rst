@@ -859,6 +859,9 @@ https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_sys
 Configuring your login sessions with dot files
 http://mywiki.wooledge.org/DotFiles
 
+Docker Considered Harmful
+http://catern.com/posts/docker.html
+
 
 Algorithms
 ----------
