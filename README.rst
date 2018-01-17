@@ -408,6 +408,9 @@ https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
 Quora: What are objects in C and C++, and how are they different?
 https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
 
+Quora: What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.
+https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world
+
 
 Scala
 -----
@@ -667,6 +670,9 @@ Big Data
 Quora: If you had one month to get a "fluent" level of knowledge in big data, what books and training would you recommend?
 https://www.quora.com/If-you-had-one-month-to-get-a-fluent-level-of-knowledge-in-big-data-what-books-and-training-would-you-recommend
 
+Quora: Why was Hadoop written in Java? Wouldn't it make more sense (performance-wise and KLOC-wise) to write a distributed file system in lower level languages and/or reuse a native file system?
+https://www.quora.com/Why-was-Hadoop-written-in-Java-Wouldnt-it-make-more-sense-performance-wise-and-KLOC-wise-to-write-a-distributed-file-system-in-lower-level-languages-and-or-reuse-a-native-file-system
+
 
 Machine Learning
 ----------------
@@ -923,6 +929,12 @@ https://www.quora.com/How-efficient-is-bubble-sort
 
 Quora: What kind of algorithm do elevators use to determine which one will take the next request?
 https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request
+
+Quora: How do I learn algorithms?
+https://www.quora.com/How-do-I-learn-algorithms-2
+
+Quora: Why are all the linked lists circular in the Linux Kernel?
+https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel
 
 
 Web Technology
@@ -1181,6 +1193,12 @@ https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-Hack
 
 Quora: What are some of the questions asked in Google interviews?
 https://www.quora.com/What-are-some-of-the-questions-asked-in-Google-interviews
+
+Quora: In C++, even small code snippets can be implemented in many ways. How do you decide which one to choose, particularly in a coding interview?
+https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many-ways-How-do-you-decide-which-one-to-choose-particularly-in-a-coding-interview
+
+Quora: There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?
+https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming
 
 
 ETC
