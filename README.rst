@@ -886,6 +886,12 @@ https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
 Stackoverflow: What is the reason for performing a double fork when creating a daemon?
 https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
 
+Broken by Design - Systemd
+https://ewontfix.com/14
+
+The Biggest Myths (Explanation of systemd)
+http://0pointer.de/blog/projects/the-biggest-myths.html
+
 
 Algorithms
 ----------
