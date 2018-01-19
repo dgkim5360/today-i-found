@@ -137,6 +137,9 @@ https://www.quora.com/How-are-Python-lists-implemented-internally
 Stackoverflow: Difference between python3 and python3m executables
 https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
 
+A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
+https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon
+
 
 Python :: Asyncio & Concurrency
 -------------------------------
@@ -879,6 +882,9 @@ https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
 Stackoverflow: Why can't tar extract .zip files?
 https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
+
+Stackoverflow: What is the reason for performing a double fork when creating a daemon?
+https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
 
 
 Algorithms
