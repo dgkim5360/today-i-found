@@ -414,6 +414,9 @@ https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
 Quora: What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.
 https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world
 
+Quora: Why should I prefer C++ streams over C-style I/O?
+https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
+
 
 Scala
 -----
@@ -1137,6 +1140,9 @@ https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595
 
 Quora: What is the most life changing book you've ever read?
 https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
+
+Quora: How can a software programmer work till he/she is seventy years old?
+https://www.quora.com/How-can-a-software-programmer-work-till-he-she-is-seventy-years-old
 
 
 Blogs & Sites
