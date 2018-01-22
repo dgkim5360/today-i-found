@@ -34,6 +34,9 @@ https://www.quora.com/How-can-I-go-from-writing-spaghetti-code-to-coding-like-pr
 Quora: Why is “the halting problem” a problem? Why does it exist?
 https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why-does-it-exist
 
+Quora: Why is it hard for a computer to get a random number?
+https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number
+
 
 Python
 ------
