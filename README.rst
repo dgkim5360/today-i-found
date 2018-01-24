@@ -957,6 +957,9 @@ https://www.quora.com/How-do-I-learn-algorithms-2
 Quora: Why are all the linked lists circular in the Linux Kernel?
 https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel
 
+Quora: How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?
+https://www.quora.com/How-do-I-strengthen-my-knowledge-of-data-structures-and-algorithms-Both-have-left-me-with-a-fractured-knowledge-of-the-subject-with-lots-of-gaps-in-between-What-would-be-a-good-way-to-go-about-filling-the-gaps-and-making-progress
+
 
 Web Technology
 --------------
