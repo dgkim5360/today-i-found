@@ -1175,8 +1175,11 @@ https://sanctum.geek.nz
 division by zero
 https://2f30.org
 
-suckless software
+suckless softwares
 https://suckless.org
+
+research!rsc
+https://research.swtch.com
 
 
 Interviews
