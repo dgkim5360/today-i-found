@@ -1233,6 +1233,9 @@ https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many
 Quora: There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?
 https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming
 
+Quora: Can a person use functional programming (FP) languages for Google interviews? How?
+https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How
+
 
 ETC
 ---
