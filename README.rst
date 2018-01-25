@@ -59,37 +59,37 @@ https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html
 An Intro to coverage.py
 https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py
 
-Stackoverflow: Python - doctest vs. unittest
+StackExchange: Python - doctest vs. unittest
 https://stackoverflow.com/questions/361675/python-doctest-vs-unittest
 
 Quora: Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?
 https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential
 
-Stackoverflow: Nicest way to pad zeroes to string
+StackExchange: Nicest way to pad zeroes to string
 https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string
 
-Stackoverflow: What is a metaclass in Python?
+StackExchange: What is a metaclass in Python?
 https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
 
-Stackoverflow: Convert base-2 binary number string to int
+StackExchange: Convert base-2 binary number string to int
 https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int
 
-Stackoverflow: Python - Flipping Binary 1's and 0's in a String
+StackExchange: Python - Flipping Binary 1's and 0's in a String
 https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string
 
-Stackoverflow: Sort a list by multiple attributes?
+StackExchange: Sort a list by multiple attributes?
 https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
 
-Stackoverflow: Convert decimal to ternary(base3) in python
+StackExchange: Convert decimal to ternary(base3) in python
 https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python
 
-Stackoverflow: How to convert an integer in any base to a string?
+StackExchange: How to convert an integer in any base to a string?
 https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
 
 Advanced Uses of Python Decorators
 https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv
 
-Stackoverflow: Auto-register class methods using decorator
+StackExchange: Auto-register class methods using decorator
 https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
 
 Quora: Is Python’s compiled code as fast as C++?
@@ -128,7 +128,7 @@ https://devguide.python.org/exploring
 Pyrex
 http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
 
-Stackoverflow: How do I build a numpy array from a generator?
+StackExchange: How do I build a numpy array from a generator?
 https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
 
 Quora: What are your reviews between PyTorch and TensorFlow?
@@ -137,7 +137,7 @@ https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 Quora: How are Python lists implemented internally?
 https://www.quora.com/How-are-Python-lists-implemented-internally
 
-Stackoverflow: Difference between python3 and python3m executables
+StackExchange: Difference between python3 and python3m executables
 https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
 
 A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
@@ -162,7 +162,7 @@ http://blog.domanski.me/how-celery-fixed-pythons-gil-problem
 Medium: Asyncio Coroutine Patterns: Beyond await
 https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f
 
-Stackoverflow: Asyncio RuntimeError: Event Loop is Closed
+StackExchange: Asyncio RuntimeError: Event Loop is Closed
 https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed
 
 I don't understand Python's Asyncio
@@ -174,10 +174,10 @@ https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug
 asyncio - run coroutine in the background 
 https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
 
-Stackoverflow: Can an asyncio event loop run in the background without suspending the Python interpreter?
+StackExchange: Can an asyncio event loop run in the background without suspending the Python interpreter?
 https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in/26270790#26270790
 
-Stackoverflow: @asyncio.coroutine vs async def
+StackExchange: @asyncio.coroutine vs async def
 https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
 
 How the heck does async/await work in Python 3.5?
@@ -193,7 +193,7 @@ Python :: Flask
 Armin Ronacher, the Founder of Flask
 http://lucumr.pocoo.org
 
-Stackoverflow: How to serve static files in Flask
+StackExchange: How to serve static files in Flask
 https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
 
 Flask on Nginx and Gunicorn
@@ -215,7 +215,7 @@ http://ccbv.co.uk
 Offcial Docs: Lookups spanning multi-valued relationships
 https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships
 
-Stackoverflow: Group django queryset by foreign key / related field
+StackExchange: Group django queryset by foreign key / related field
 https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
 
 Improve your tests in Django with fakes and factories
@@ -224,30 +224,30 @@ https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
 Django debug with vim and vdebug
 https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
 
-Stackoverflow: Django tests dump data/ results
+StackExchange: Django tests dump data/ results
 https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
 
-Stackoverflow: How to debug in Django, the good way?
+StackExchange: How to debug in Django, the good way?
 https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
 
 
 Python :: Twisted
 -----------------
 
-Stackoverflow: What's so cool about Twisted? [closed]
+StackExchange: What's so cool about Twisted? [closed]
 https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted
 
 Twisted Introduction
 http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted
 
-Stackoverflow: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
+StackExchange: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
 https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other
 
 
 C
 ---
 
-Stackoverflow: The Definitive C Book Guide and List
+StackExchange: The Definitive C Book Guide and List
 https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 clc-wiki
@@ -326,7 +326,7 @@ http://www.bogotobogo.com/cplusplus/sockets_server_client.php
 Quora: What are some small project ideas for learning C++?
 https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
 
-Stackoverflow: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
+StackExchange: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
 https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
 
 Why c++ does not support multiple initializers in for loop? [duplicate]
@@ -344,7 +344,7 @@ https://www.quora.com/Why-is-C++-so-complicated
 Quora: What is the most famous C++ Web Framework?
 https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
 
-Stackoverflow: Does C++ have a package manager like npm, pip, gem, etc?
+StackExchange: Does C++ have a package manager like npm, pip, gem, etc?
 https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
 
 Youtube: cppcon 2015: Stop Teaching C
@@ -626,7 +626,7 @@ Version Controls
 Tom Preston-Werner, the CoFounder of Github
 http://tom.preston-werner.com
 
-Stackoverflow: How to revert Git repository to a previous commit?
+StackExchange: How to revert Git repository to a previous commit?
 https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
 
 Comparing Workflows (Tutorial)
@@ -635,7 +635,7 @@ https://www.atlassian.com/git/tutorials/comparing-workflows
 push and delete remote branches
 http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
 
-Stackoverflow: Add all files to a commit except a single file?
+StackExchange: Add all files to a commit except a single file?
 https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
 
 
@@ -698,7 +698,7 @@ https://www.quora.com/What-are-the-best-graduate-schools-for-studying-machine-le
 Reddit: Is a PhD worth it in machine learning?
 https://www.reddit.com/r/MachineLearning/comments/mu2ly/is_a_phd_worth_it_in_machine_learning
 
-Stackoverflow: What are the benefits of getting a PhD in statistics?
+StackExchange: What are the benefits of getting a PhD in statistics?
 https://academia.stackexchange.com/questions/11137/what-are-the-benefits-of-getting-a-phd-in-statistics
 
 Quora: Why should one learn machine learning from scratch rather than just learning to use the available libraries?
@@ -732,7 +732,7 @@ https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 Mathematics
 -----------
 
-Stackoverflow: How to calculate modulus of large numbers
+StackExchange: How to calculate modulus of large numbers
 https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-numbers
 
 Quora: What are intuitive explanations for determinants?
@@ -772,7 +772,7 @@ https://www.quora.com/Why-doesnt-Windows-have-a-swap-partition-like-Linux
 Debian vs. Ubuntu: What's the Difference?
 https://www.datamation.com/open-source/debian-vs.-ubuntu.html
 
-Stackoverflow: How to avoid using sudo when working in /var/www?
+StackExchange: How to avoid using sudo when working in /var/www?
 https://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www
 
 Ubuntu Forums: Creating a dll with MinGW in Linux
@@ -781,7 +781,7 @@ https://ubuntuforums.org/showthread.php?t=2260755
 Cross Compile to Windows From Linux
 http://arrayfire.com/cross-compile-to-windows-from-linux
 
-Stackoverflow: How do I edit an existing buffer in a new tab in vim?
+StackExchange: How do I edit an existing buffer in a new tab in vim?
 https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim
 
 The 10 Easiest Ways to Keep Ubuntu System Clean
@@ -802,13 +802,13 @@ https://linuxconfig.org/bash-scripting-tutorial
 Bash by example
 https://www.ibm.com/developerworks/library/l-bash/index.html
 
-Stackoverflow: What does "LC_ALL=C" do?
+StackExchange: What does "LC_ALL=C" do?
 https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
 Tmux: A Simple Start
 https://www.sitepoint.com/tmux-a-simple-start
 
-Stackoverflow: How to reset the terminal properties and preferences?
+StackExchange: How to reset the terminal properties and preferences?
 https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences
 
 Terminal Velocity – A Command-line Note-taking Application For Linux
@@ -820,7 +820,7 @@ https://en.wikipedia.org/wiki/Z_shell
 Fish shell
 https://fishshell.com
 
-Stackoverflow: How do I scroll in tmux?
+StackExchange: How do I scroll in tmux?
 https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
 
 Shell Scripting Tutorial
@@ -880,16 +880,16 @@ http://catern.com/posts/docker.html
 HOWTO: Use `xwd` for screenshots
 https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
 
-Stackoverflow: What do the numbers in a man page mean?
+StackExchange: What do the numbers in a man page mean?
 https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
 
-Stackoverflow: What does "LC_ALL=C" do?
+StackExchange: What does "LC_ALL=C" do?
 https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
-Stackoverflow: Why can't tar extract .zip files?
+StackExchange: Why can't tar extract .zip files?
 https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
 
-Stackoverflow: What is the reason for performing a double fork when creating a daemon?
+StackExchange: What is the reason for performing a double fork when creating a daemon?
 https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
 
 Broken by Design - Systemd
@@ -898,6 +898,9 @@ https://ewontfix.com/14
 The Biggest Myths (Explanation of systemd)
 http://0pointer.de/blog/projects/the-biggest-myths.html
 
+StackExchange: Please explain the parameters 'noexpose' and 'cycle' in xset
+https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset
+
 
 Algorithms
 ----------
@@ -905,7 +908,7 @@ Algorithms
 Calculating Permutations and Job Interview Questions 
 http://www.bearcave.com/random_hacks/permute.html
 
-Stackoverflow: Least common multiple for 3 or more numbers
+StackExchange: Least common multiple for 3 or more numbers
 https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers
 
 Tower of Hanoi
@@ -915,10 +918,10 @@ Slides: Dynamic Programming
 http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 http://shuangz.com/download/dp_slides.pdf
 
-Stackoverflow: Finding n-th permutation without computing others
+StackExchange: Finding n-th permutation without computing others
 https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others
 
-Stackoverflow: Algorithm for finding numerical permutation given lexicographic index
+StackExchange: Algorithm for finding numerical permutation given lexicographic index
 https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index
 
 Quora: What book about algorithms is a must read for a programmer?
@@ -933,13 +936,13 @@ https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-soft
 Quora: How does the algorithm of Google Maps work?
 https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
 
-Stackoverflow: Sieve of Eratosthenes - Finding Primes Python
+StackExchange: Sieve of Eratosthenes - Finding Primes Python
 https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
 
-Stackoverflow: Sum of number of divisors
+StackExchange: Sum of number of divisors
 https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
 
-Stackoverflow: What is the best way to get all the divisors of a number?
+StackExchange: What is the best way to get all the divisors of a number?
 https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
 
 Quora: What is the fastest sorting algorithm?
@@ -985,10 +988,10 @@ https://www.html5rocks.com/en/tutorials/eventsource/basics
 Medium: Python and Server-sent Event
 https://medium.com/code-zen/python-generator-and-html-server-sent-events-3cdf14140e56
 
-Stackoverflow: Job processing via web application: real-time status updates and backend messaging
+StackExchange: Job processing via web application: real-time status updates and backend messaging
 https://stackoverflow.com/questions/12733985/job-processing-via-web-application-real-time-status-updates-and-backend-messagi
 
-Stackoverflow: Where should I make heavy computations ? Client or server side?
+StackExchange: Where should I make heavy computations ? Client or server side?
 https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
 
 TutorialsPoint: Unix Socket Tutorial
@@ -1010,13 +1013,13 @@ https://itsfoss.com/vim-8-release-install
 Learn Vimscript the Hard Way
 http://learnvimscriptthehardway.stevelosh.com
 
-Stackoverflow: What is the difference between the vim plugin managers?
+StackExchange: What is the difference between the vim plugin managers?
 https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
 
 Vim tips and tricks
 https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
 
-Stackoverflow: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
+StackExchange: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
 https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
 
 Use Vim as a Python IDE
@@ -1052,10 +1055,10 @@ http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
 Reddit: Vim as an R IDE, is it possible?
 https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible
 
-Stackoverflow: pycharm running wayyyy slow
+StackExchange: pycharm running wayyyy slow
 https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow
 
-Stackoverflow: PyCharm integrated debugger slows down application
+StackExchange: PyCharm integrated debugger slows down application
 https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application
 
 A Byte of Vim
@@ -1064,10 +1067,10 @@ https://vim.swaroopch.com
 Reddit: I am Tim Pope, crafter of plugins. AMA.
 https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
 
-Stackoverflow: Using Vim's tabs like buffers
+StackExchange: Using Vim's tabs like buffers
 https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
 
-Stackoverflow: How to navigate in large project in VIM
+StackExchange: How to navigate in large project in VIM
 https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
 
 Reddit: How do you guys use Vim effectively for large projects?
