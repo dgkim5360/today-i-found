@@ -1082,6 +1082,9 @@ https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_u
 Nova Color Scheme for almost everything
 https://trevordmiller.com/projects/nova
 
+StackExchange: How to ap Alt key?
+https://stackoverflow.com/questions/1506764/how-to-map-ctrla-and-ctrlshifta-differently
+
 
 CSS
 ---
