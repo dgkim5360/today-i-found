@@ -1245,3 +1245,6 @@ https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
 
 Quora: Is Bitcoin in a boom or a bubble, and will we ever find out who Satoshi Nakamoto is?
 https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out-who-Satoshi-Nakamoto-is
+
+Microsoft DOS V1.1 and V2.0
+http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msdos-v1-1-v2-0
