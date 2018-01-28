@@ -728,6 +728,9 @@ https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C
 Quora: What are your reviews between PyTorch and TensorFlow?
 https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
+Quora: What are the most "overrated" machine learning models?
+https://www.quora.com/What-are-the-most-overrated-machine-learning-models
+
 
 Mathematics
 -----------
