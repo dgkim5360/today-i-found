@@ -37,6 +37,9 @@ https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why
 Quora: Why is it hard for a computer to get a random number?
 https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number
 
+Quora: Did the programmer with the most lines of code do the most work?
+https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most-work
+
 
 Python
 ------
