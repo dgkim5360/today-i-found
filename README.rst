@@ -386,6 +386,9 @@ https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-
 Quora: Why isn't .h used in C++?
 https://www.quora.com/Why-isnt-h-used-in-C++
 
+Quora: What are the main differences between the versions of C++?
+https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
+
 
 C/C++
 -----
