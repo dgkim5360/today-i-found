@@ -310,6 +310,9 @@ https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
 Quora: What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?
 https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code
 
+Quora: Why are C strings less secure than string objects?
+https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
+
 
 C++
 ---
@@ -425,6 +428,12 @@ https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an
 
 Quora: Why should I prefer C++ streams over C-style I/O?
 https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
+
+Rust
+----
+
+Quora: What do C/C++ systems programmers think of Rust?
+https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
 
 Scala
@@ -736,6 +745,9 @@ https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
 Quora: What are the most "overrated" machine learning models?
 https://www.quora.com/What-are-the-most-overrated-machine-learning-models
+
+Quora: What algorithms and techniques (20 to 50) are must-knows for a junior data scientist?
+https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
 
 
 Mathematics
@@ -1247,6 +1259,9 @@ https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-ki
 
 Quora: Can a person use functional programming (FP) languages for Google interviews? How?
 https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How
+
+Quora: What is the hardest thing about hiring programmers?
+https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers
 
 
 ETC
