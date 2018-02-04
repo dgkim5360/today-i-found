@@ -436,6 +436,13 @@ Quora: What do C/C++ systems programmers think of Rust?
 https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
 
+Haskell
+-------
+
+Reddit: What exactly do companies use Haskell for?
+https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for
+
+
 Scala
 -----
 
