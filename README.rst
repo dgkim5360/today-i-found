@@ -40,6 +40,9 @@ https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number
 Quora: Did the programmer with the most lines of code do the most work?
 https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most-work
 
+Quora: What is the best piece of source code to read?
+https://www.quora.com/What-is-the-best-piece-of-source-code-to-read
+
 
 Python
 ------
