@@ -932,6 +932,9 @@ http://0pointer.de/blog/projects/the-biggest-myths.html
 StackExchange: Please explain the parameters 'noexpose' and 'cycle' in xset
 https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset
 
+Quora: How are drivers for a computer written?
+https://www.quora.com/How-are-drivers-for-a-computer-written
+
 
 Algorithms
 ----------
