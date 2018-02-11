@@ -43,6 +43,12 @@ https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most
 Quora: What is the best piece of source code to read?
 https://www.quora.com/What-is-the-best-piece-of-source-code-to-read
 
+Quora: What is dynamic programming?
+https://www.quora.com/What-is-dynamic-programming
+
+Blog: Garbage Collection of V8 JavaScript Engine
+https://v8project.blogspot.com/search?q=Garbage+Collection
+
 
 Python
 ------
@@ -315,6 +321,9 @@ https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-t
 
 Quora: Why are C strings less secure than string objects?
 https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
+
+Quora: What is an example of an exit(1) in C?
+https://www.quora.com/What-is-an-example-of-an-exit-1-in-C
 
 
 C++
