@@ -404,6 +404,9 @@ https://www.quora.com/Why-isnt-h-used-in-C++
 Quora: What are the main differences between the versions of C++?
 https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
 
+Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
+https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
+
 
 C/C++
 -----
@@ -440,6 +443,9 @@ https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an
 
 Quora: Why should I prefer C++ streams over C-style I/O?
 https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
+
+Quora: In which aspects ic C better than C++? (good answer to how they are different)
+https://www.quora.com/In-which-aspects-is-C-better-than-C
 
 Rust
 ----
