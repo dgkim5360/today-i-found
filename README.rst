@@ -155,6 +155,9 @@ https://stackoverflow.com/questions/16675865/difference-between-python3-and-pyth
 A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
 https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon
 
+Quora: Is there a programming language as easy as Swift or Python that translates your code into C++ before or during compiling for a better performance? (Excellent advice for striving the performance of Python)
+https://www.quora.com/Is-there-a-programming-language-as-easy-as-Swift-or-Python-that-translates-your-code-into-C-before-or-during-compiling-for-a-better-performance
+
 
 Python :: Asyncio & Concurrency
 -------------------------------
