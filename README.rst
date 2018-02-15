@@ -410,6 +410,9 @@ https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
 Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
 https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
 
+Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
+https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
+
 
 C/C++
 -----
