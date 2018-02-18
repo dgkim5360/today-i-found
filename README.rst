@@ -688,6 +688,28 @@ StackExchange: Add all files to a commit except a single file?
 https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
 
 
+Linux Containers
+----------------
+
+Medium: Docker Tutorial — Getting Started with Python, Redis, and Nginx
+https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+
+The Docker Ecosystem: An Introduction to Common Components
+https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
+
+Chapter 3. Using systemd With Containers
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
+
+10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
+https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
+
+Kubernetes? Docker? What is the difference?
+https://blog.containership.io/k8svsdocker
+
+Quora: How is Kubernetes (k8s) different from Docker?
+https://www.quora.com/How-is-Kubernetes-k8s-different-from-Docker
+
+
 DevOps
 ------
 
@@ -703,20 +725,8 @@ http://www.nextree.co.kr/p3452
 GitHub's 'squash and merge' default considered harmful
 https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful
 
-Medium: Docker Tutorial — Getting Started with Python, Redis, and Nginx
-https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
-
 git: fetch and merge, don’t pull
 https://longair.net/blog/2009/04/16/git-fetch-and-merge
-
-The Docker Ecosystem: An Introduction to Common Components 
-https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
-
-Chapter 3. Using systemd With Containers
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
-
-10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
-https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
 
 Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups
 https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups
