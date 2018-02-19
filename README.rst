@@ -1071,6 +1071,9 @@ https://www.quora.com/How-would-you-build-a-website-that-uses-machine-learning-w
 Why French Search Engine Qwant Thinks It Can Beat Google
 https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant-thinks-it-can-beat-google
 
+Quora: What will be the next big thing programmers should start learning? (Web Assemply!)
+https://www.quora.com/What-will-be-the-next-big-thing-programmers-should-start-learning
+
 
 Editors
 -------
