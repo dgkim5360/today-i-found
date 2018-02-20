@@ -969,6 +969,9 @@ https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-an
 Quora: How are drivers for a computer written?
 https://www.quora.com/How-are-drivers-for-a-computer-written
 
+Surf Demystified
+http://troubleshooters.com/linux/surf.htm
+
 
 Algorithms
 ----------
