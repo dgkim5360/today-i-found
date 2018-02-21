@@ -1273,6 +1273,9 @@ https://research.swtch.com
 cat -v (deals with all that sucks beyond programming)
 http://cat-v.org
 
+Joel on Software (Cofounder of Trello, CEO of StackOverflow)
+https://www.joelonsoftware.com
+
 
 Interviews
 ----------
