@@ -668,6 +668,9 @@ https://datajobs.com/what-is-hadoop-and-nosql
 Quora: How reliable is Spark?
 https://www.quora.com/How-reliable-is-Spark
 
+Quora: What are the biggest pain points with Hadoop? (answer from who works at Cloudera)
+https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
+
 
 Version Controls
 ----------------
