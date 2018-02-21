@@ -49,6 +49,9 @@ https://www.quora.com/What-is-dynamic-programming
 Blog: Garbage Collection of V8 JavaScript Engine
 https://v8project.blogspot.com/search?q=Garbage+Collection
 
+Why I Hate Frameworks
+http://discuss.joelonsoftware.com/default.asp?joel.3.219431
+
 
 Python
 ------
@@ -975,6 +978,9 @@ https://www.quora.com/How-are-drivers-for-a-computer-written
 Surf Demystified
 http://troubleshooters.com/linux/surf.htm
 
+Harmful stuff
+http://harmful.cat-v.org/software
+
 
 Algorithms
 ----------
@@ -1263,6 +1269,9 @@ https://suckless.org
 
 research!rsc
 https://research.swtch.com
+
+cat -v (deals with all that sucks beyond programming)
+http://cat-v.org
 
 
 Interviews
