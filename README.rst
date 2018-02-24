@@ -416,6 +416,9 @@ https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-ou
 Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
 https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
 
+Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
+https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
+
 
 C/C++
 -----
@@ -798,6 +801,9 @@ https://www.quora.com/What-are-the-most-overrated-machine-learning-models
 
 Quora: What algorithms and techniques (20 to 50) are must-knows for a junior data scientist?
 https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
+
+Quora: Is Deep Learning fundamentally flawed and hitting a wall? Was Gary Marcus correct in pointing out Deep Learning's flaws?
+https://www.quora.com/Is-Deep-Learning-fundamentally-flawed-and-hitting-a-wall-Was-Gary-Marcus-correct-in-pointing-out-Deep-Learnings-flaws
 
 
 Mathematics
