@@ -614,15 +614,18 @@ Github: TypeScriptSamples
 https://github.com/Microsoft/TypeScriptSamples
 
 
+Database
+--------
+
+Quora: Why are relational databases still popular when non-relational databases can give most benefits of relational DB with the flexibility of modifying needs of changing technologies?
+https://www.quora.com/Why-are-relational-databases-still-popular-when-non-relational-databases-can-give-most-benefits-of-relational-DB-with-the-flexibility-of-modifying-needs-of-changing-technologies
+
+
 Database :: RDBMS
 -----------------
 
 Quora: What are pros and cons of PostgreSQL and MySQL? With respect to reliability, speed, scalability, and features.
 https://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL-With-respect-to-reliability-speed-scalability-and-features
-
-
-Database :: RDBMS :: Postgresql
--------------------------------
 
 Postgres Guide
 http://postgresguide.com
