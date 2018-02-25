@@ -1286,6 +1286,31 @@ Joel on Software (Cofounder of Trello, CEO of StackOverflow)
 https://www.joelonsoftware.com
 
 
+YouTube Channels
+----------------
+
+Bryan Lunduke
+https://www.youtube.com/user/BryanLunduke
+
+Kai Hendry
+https://www.youtube.com/user/kaihendry
+
+Stefan Mischook
+https://www.youtube.com/user/killerphp
+
+Irishluck Linux
+https://www.youtube.com/user/LDCNow
+
+quidsup: Reviews on Linux
+https://www.youtube.com/user/quidsup
+
+FLOSS Weekly
+https://www.youtube.com/user/TWiTFLOSS
+
+Angry Teach on Gentoo Linux
+https://www.youtube.com/user/MrAngryTeach
+
+
 Interviews
 ----------
 
