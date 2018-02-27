@@ -680,6 +680,9 @@ https://www.quora.com/How-reliable-is-Spark
 Quora: What are the biggest pain points with Hadoop? (answer from who works at Cloudera)
 https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
 
+Quora: Is Hadoop dead and is it time to move to Spark?
+https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
+
 
 Version Controls
 ----------------
@@ -1377,3 +1380,6 @@ https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out
 
 Microsoft DOS V1.1 and V2.0
 http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msdos-v1-1-v2-0
+
+Indexing Google's Source Code
+http://piaw.blogspot.kr/2015/09/indexing-googles-source-code.html
