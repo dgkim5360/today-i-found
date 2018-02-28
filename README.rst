@@ -743,6 +743,9 @@ https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harm
 git: fetch and merge, don’t pull
 https://longair.net/blog/2009/04/16/git-fetch-and-merge
 
+StackExchange: In what cases could "git pull" be harmful?
+https://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful
+
 Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups
 https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups
 
