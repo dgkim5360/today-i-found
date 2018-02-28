@@ -702,6 +702,9 @@ http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
 StackExchange: Add all files to a commit except a single file?
 https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
 
+libgit2: Checkout
+https://ben.straub.cc/2013/04/02/libgit2-checkout
+
 
 Linux Containers
 ----------------
@@ -998,6 +1001,9 @@ http://harmful.cat-v.org/software
 
 The Homely mutt
 http://stevelosh.com/blog/2012/10/the-homely-mutt
+
+StackExchange: How do I split a string on a delimiter in Bash?
+https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
 
 
 Algorithms
