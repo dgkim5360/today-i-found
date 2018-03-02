@@ -1306,6 +1306,12 @@ http://cat-v.org
 Joel on Software (Cofounder of Trello, CEO of StackOverflow)
 https://www.joelonsoftware.com
 
+sebastianraschka: an expert on machine learning
+https://sebastianraschka.com
+
+Eli Bendersky's website: a Googler
+https://eli.thegreenplace.net
+
 
 YouTube Channels
 ----------------
