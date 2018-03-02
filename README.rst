@@ -683,6 +683,9 @@ https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
 Quora: Is Hadoop dead and is it time to move to Spark?
 https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
 
+Quora: Why did Google stop using MapReduce and start encouraging Cloud Dataflow?
+https://www.quora.com/Why-did-Google-stop-using-MapReduce-and-start-encouraging-Cloud-Dataflow
+
 
 Version Controls
 ----------------
@@ -1004,6 +1007,9 @@ http://stevelosh.com/blog/2012/10/the-homely-mutt
 
 StackExchange: How do I split a string on a delimiter in Bash?
 https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
+
+Quora: Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?
+https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit
 
 
 Algorithms
