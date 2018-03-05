@@ -820,6 +820,12 @@ https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for
 Quora: Is Deep Learning fundamentally flawed and hitting a wall? Was Gary Marcus correct in pointing out Deep Learning's flaws?
 https://www.quora.com/Is-Deep-Learning-fundamentally-flawed-and-hitting-a-wall-Was-Gary-Marcus-correct-in-pointing-out-Deep-Learnings-flaws
 
+Slides: Stanford lecture, Neural Networks & Backprop
+http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf
+
+StackExchange: Deriving gradient of a single layer neural network w.r.t its inputs, what is the operator in the chain rule?
+https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-layer-neural-network-w-r-t-its-inputs-what-is-the
+
 
 Mathematics
 -----------
