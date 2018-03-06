@@ -52,6 +52,9 @@ https://v8project.blogspot.com/search?q=Garbage+Collection
 Why I Hate Frameworks
 http://discuss.joelonsoftware.com/default.asp?joel.3.219431
 
+Quora: Can you give an example of a problem hard to write in functional languages but simple in imperative languages?
+https://www.quora.com/Can-you-give-an-example-of-a-problem-hard-to-write-in-functional-languages-but-simple-in-imperative-languages
+
 
 Python
 ------
@@ -419,6 +422,9 @@ https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-progra
 Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
 https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
 
+Quora: Why doesn't C++ standard headers' names end with ".h" or ".hpp"?
+https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp
+
 
 C/C++
 -----
@@ -464,6 +470,9 @@ Rust
 
 Quora: What do C/C++ systems programmers think of Rust?
 https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
+
+Quora: How does Rust enforce safety?
+https://www.quora.com/How-does-Rust-enforce-safety
 
 
 Haskell
@@ -707,6 +716,9 @@ https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-s
 
 libgit2: Checkout
 https://ben.straub.cc/2013/04/02/libgit2-checkout
+
+StackExchange: git-diff to ignore ^M
+https://stackoverflow.com/questions/1889559/git-diff-to-ignore-m
 
 
 Linux Containers
@@ -1121,6 +1133,9 @@ https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant
 
 Quora: What will be the next big thing programmers should start learning? (Web Assemply!)
 https://www.quora.com/What-will-be-the-next-big-thing-programmers-should-start-learning
+
+Quora: Is GraphQL a REST killer?
+https://www.quora.com/Is-GraphQL-a-REST-killer
 
 
 Editors
