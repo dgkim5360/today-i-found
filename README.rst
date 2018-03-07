@@ -838,6 +838,9 @@ http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf
 StackExchange: Deriving gradient of a single layer neural network w.r.t its inputs, what is the operator in the chain rule?
 https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-layer-neural-network-w-r-t-its-inputs-what-is-the
 
+StackExchange: Convergence of neural network weights (Excellent Know-How)
+https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-weights
+
 
 Mathematics
 -----------
