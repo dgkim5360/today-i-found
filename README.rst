@@ -841,6 +841,9 @@ https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-l
 StackExchange: Convergence of neural network weights (Excellent Know-How)
 https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-weights
 
+StackExchange: The cross-entropy error function in neural networks
+https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
+
 
 Mathematics
 -----------
