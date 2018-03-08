@@ -844,6 +844,9 @@ https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-we
 StackExchange: The cross-entropy error function in neural networks
 https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
 
+Why You Should Use Cross-Entropy Error Instead Of Classification Error Or Mean Squared Error For Neural Network Classifier Training
+https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
+
 
 Mathematics
 -----------
