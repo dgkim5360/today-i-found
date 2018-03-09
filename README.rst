@@ -695,6 +695,9 @@ https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
 Quora: Why did Google stop using MapReduce and start encouraging Cloud Dataflow?
 https://www.quora.com/Why-did-Google-stop-using-MapReduce-and-start-encouraging-Cloud-Dataflow
 
+Quora: Is HDFS way behind GFS? If yes, how so?
+https://www.quora.com/Is-HDFS-way-behind-GFS-If-yes-how-so
+
 
 Version Controls
 ----------------
@@ -871,6 +874,9 @@ https://www.quora.com/Why-is-e-2-718281828459%E2%80%A6
 
 Quora: What would happen to f(x) if you transformed it as y=f(1/x)?
 https://www.quora.com/What-would-happen-to-f-x-if-you-transformed-it-as-y-f-1-x
+
+Quora: What is a greedy algorithm?
+https://www.quora.com/What-is-a-greedy-algorithm
 
 
 GNU/Linux
