@@ -878,6 +878,9 @@ https://www.quora.com/What-would-happen-to-f-x-if-you-transformed-it-as-y-f-1-x
 Quora: What is a greedy algorithm?
 https://www.quora.com/What-is-a-greedy-algorithm
 
+Online Statistics Education: An Interactive Multimedia Course of Study
+http://onlinestatbook.com/2/index.html
+
 
 GNU/Linux
 ---------
