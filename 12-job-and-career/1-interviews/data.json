@@ -1,0 +1,87 @@
+[
+	{
+		"group": "Quora",
+		"title": "For Google and Facebook interviews, is it important to memorize the sorting algorithms?",
+		"link": "https://www.quora.com/For-Google-and-Facebook-interviews-is-it-important-to-memorize-the-sorting-algorithms"
+	},
+	{
+		"group": "Quora",
+		"title": "What are five problems every programmer should be able to answer?",
+		"link": "https://www.quora.com/What-are-five-problems-every-programmer-should-be-able-to-answer"
+	},
+	{
+		"group": "Quora",
+		"title": "You must interview 10 people for a C++ position. What 5 very difficult questions would you ask?",
+		"link": "https://www.quora.com/You-must-interview-10-people-for-a-C++-position-What-5-very-difficult-questions-would-you-ask"
+	},
+	{
+		"group": "Blog",
+		"title": "네이버 면접 시 듣게 되는 40가지 질문",
+		"link": "http://www.bloter.net/archives/245110"
+	},
+	{
+		"group": "Blog",
+		"title": "카카오 면접 시 듣게 되는 70가지 질문",
+		"link": "http://www.bloter.net/archives/245529"
+	},
+	{
+		"group": "Blog",
+		"title": "데이터 사이언티스트 - 지원서 겸 체크리스트 (넘버웍스 하용호 대표)",
+		"link": "http://blog.naver.com/PostView.nhn?blogId=eleapple79&logNo=220674845506"
+	},
+	{
+		"group": "Blog",
+		"title": "기획자·마케터가 알아둘 데이터과학 원칙 6가지",
+		"link": "https://www.bloter.net/archives/242233"
+	},
+	{
+		"group": "Quora",
+		"title": "Can your work on GitHub actually make your resume worse?",
+		"link": "https://www.quora.com/Can-your-work-on-GitHub-actually-make-your-resume-worse"
+	},
+	{
+		"group": "Quora",
+		"title": "How can I build a data science portfolio without job experience?",
+		"link": "https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-experience"
+	},
+	{
+		"group": "Blog",
+		"title": "Technical Interview Performance by Editor/OS/Language",
+		"link": "https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I prepare for Data Engineer jobs at Amazon/Google/Facebook/Quora?",
+		"link": "https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-Facebook-Quora"
+	},
+	{
+		"group": "Quora",
+		"title": "After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?",
+		"link": "https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some of the questions asked in Google interviews?",
+		"link": "https://www.quora.com/What-are-some-of-the-questions-asked-in-Google-interviews"
+	},
+	{
+		"group": "Quora",
+		"title": "In C++, even small code snippets can be implemented in many ways. How do you decide which one to choose, particularly in a coding interview?",
+		"link": "https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many-ways-How-do-you-decide-which-one-to-choose-particularly-in-a-coding-interview"
+	},
+	{
+		"group": "Quora",
+		"title": "There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?",
+		"link": "https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming"
+	},
+	{
+		"group": "Quora",
+		"title": "Can a person use functional programming (FP) languages for Google interviews? How?",
+		"link": "https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the hardest thing about hiring programmers?",
+		"link": "https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers"
+	}
+]

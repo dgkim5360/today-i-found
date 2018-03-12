@@ -1,0 +1,265 @@
+  06 Unix And Gnu Linux
+  =====================
+
+  Software: Suicide Linux
+  https://qntm.org/suicide
+
+  Blog: 8 Linux Commands to Find out Wireless Network Speed, Signal Strength and other Information
+  https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html
+
+  Blog: Editing the Scripts You Already Have
+  http://linuxcommand.org/lc3_wss0020.php
+
+  Quora: Why doesn't Windows have a swap partition like Linux?
+  https://www.quora.com/Why-doesnt-Windows-have-a-swap-partition-like-Linux
+
+  Blog: Debian vs. Ubuntu: What's the Difference?
+  https://www.datamation.com/open-source/debian-vs.-ubuntu.html
+
+  StackExchange: How to avoid using sudo when working in /var/www?
+  https://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www
+
+  Forum: Creating a dll with MinGW in Linux
+  https://ubuntuforums.org/showthread.php?t=2260755
+
+  Blog: Cross Compile to Windows From Linux
+  http://arrayfire.com/cross-compile-to-windows-from-linux
+
+  Blog: The 10 Easiest Ways to Keep Ubuntu System Clean
+  https://www.fossmint.com/keep-ubuntu-system-clean
+
+  Quora: What is Unix and Linux? Are they co-related?
+  https://www.quora.com/What-is-Unix-and-Linux-Are-they-co-related
+
+  Quora: Why do you use Linux?
+  https://www.quora.com/Why-do-you-use-Linux
+
+  Quora: Which Linux OS should I use as a beginner: Ubuntu or Kali Linux, and why?
+  https://www.quora.com/Which-Linux-OS-should-I-use-as-a-beginner-Ubuntu-or-Kali-Linux-and-why
+
+  Tutorial: Bash scripting tutorial
+  https://linuxconfig.org/bash-scripting-tutorial
+
+  Blog: Bash by example
+  https://www.ibm.com/developerworks/library/l-bash/index.html
+
+  StackExchange: What does "LC_ALL=C" do?
+  https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+
+  Wiki: Z shell
+  https://en.wikipedia.org/wiki/Z_shell
+
+  Software: Fish shell
+  https://fishshell.com
+
+  Tutorial: Shell Scripting Tutorial
+  https://www.shellscript.sh
+
+  Quora: Why do so many Linux users prefer the command line to a GUI?
+  https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GUI
+
+  Quora: What do you dislike most about Linux?
+  https://www.quora.com/What-do-you-dislike-most-about-Linux
+
+  Tutorial: GPG Cheatsheet
+  http://irtfweb.ifa.hawaii.edu/~lockhart/gpg
+
+  Tutorial: UNIX Tutorial for Beginners
+  http://www.ee.surrey.ac.uk/Teaching/Unix
+
+  Site: bona fide os developer
+  http://www.osdever.net/tutorials
+
+  Blog: Linux Torvalds Answers Your Questions
+  https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions
+
+  Blog: Linus on Understanding Pointers
+  https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers
+
+  Quora: Why is the kernel source code written in C language? Is there any specific reason why the kernel is not implemented in C++?
+  https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-there-any-specific-reason-why-the-kernel-is-not-implemented-in-C++
+
+  Quora: Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?
+  https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C
+
+  Blog: UEFI boot: how does that actually work, then?
+  https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then
+
+  Blog: Check BIOS, UEFI, motherboard info in Linux
+  https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
+
+  Reddit: Why did ArchLinux embrace Systemd?
+  https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd
+
+  Blog: Configuring your login sessions with dot files
+  http://mywiki.wooledge.org/DotFiles
+
+  StackExchange: What do the numbers in a man page mean?
+  https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
+
+  StackExchange: What does "LC_ALL=C" do?
+  https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+
+  StackExchange: Why can't tar extract .zip files?
+  https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
+
+  StackExchange: What is the reason for performing a double fork when creating a daemon?
+  https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
+
+  Blog: Broken by Design - Systemd
+  https://ewontfix.com/14
+
+  Blog: The Biggest Myths (Explanation of systemd)
+  http://0pointer.de/blog/projects/the-biggest-myths.html
+
+  StackExchange: Please explain the parameters 'noexpose' and 'cycle' in xset
+  https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset
+
+  Quora: How are drivers for a computer written?
+  https://www.quora.com/How-are-drivers-for-a-computer-written
+
+  Site: Harmful stuff
+  http://harmful.cat-v.org/software
+
+  StackExchange: How do I split a string on a delimiter in Bash?
+  https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
+
+  Quora: Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?
+  https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit
+
+
+
+
+    1 Linux Containers
+    ------------------
+
+    Blog: Docker Considered Harmful
+    http://catern.com/posts/docker.html
+
+    Blog: Docker Tutorial — Getting Started with Python, Redis, and Nginx
+    https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+
+    Tutorial: The Docker Ecosystem: An Introduction to Common Components
+    https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
+
+    Docs: Chapter 3. Using systemd With Containers
+    https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
+
+    Blog: 10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
+    https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
+
+    Blog: Kubernetes? Docker? What is the difference?
+    https://blog.containership.io/k8svsdocker
+
+    Quora: How is Kubernetes (k8s) different from Docker?
+    https://www.quora.com/How-is-Kubernetes-k8s-different-from-Docker
+
+    Blog: How To Install Vim 8.0 On Ubuntu 16.04
+    https://itsfoss.com/vim-8-release-install
+
+    Tutorial: Learn Vimscript the Hard Way
+    http://learnvimscriptthehardway.stevelosh.com
+
+    StackExchange: What is the difference between the vim plugin managers?
+    https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
+
+    Tutorial: Vim tips and tricks
+    https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
+
+    StackExchange: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
+    https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
+
+    Blog: Use Vim as a Python IDE
+    http://liuchengxu.org/posts/use-vim-as-a-python-ide
+
+    Blog: VIM and Python - a Match Made in Heaven
+    https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
+
+    Blog: Turning Vim into a modern Python IDE
+    https://web.archive.org/web/20151210012212/http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html
+
+    Blog: VIM as Python IDE
+    http://200ok.ch/posts/vim-as-python-ide.html
+
+    Blog: vim-dispatch: I should have used this years ago 
+    http://tilvim.com/2014/03/13/dispatch.html
+
+    Blog: tmux and vim: My workflow and some favorite plugins
+    http://meirkriheli.com/talks/tmux-vim/index.html
+
+    Blog: Vim-R-Tmux: An Integrated Working Environment for R 
+    http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
+
+    Reddit: Vim as an R IDE, is it possible?
+    https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible
+
+    StackExchange: pycharm running wayyyy slow
+    https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow
+
+    StackExchange: PyCharm integrated debugger slows down application
+    https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application
+
+    Tutorial: A Byte of Vim
+    https://vim.swaroopch.com
+
+    Reddit: I am Tim Pope, crafter of plugins. AMA.
+    https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
+
+    StackExchange: Using Vim's tabs like buffers
+    https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+
+    StackExchange: How to navigate in large project in VIM
+    https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
+
+    Reddit: How do you guys use Vim effectively for large projects?
+    https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large
+
+    Reddit: Newvie Vim user need help setting up ale
+    https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale
+
+    Site: Nova Color Scheme for almost everything
+    https://trevordmiller.com/projects/nova
+
+    StackExchange: How to ap Alt key?
+    https://stackoverflow.com/questions/1506764/how-to-map-ctrla-and-ctrlshifta-differently
+
+
+
+
+    2 Softwares
+    -----------
+
+    StackExchange: How do I edit an existing buffer in a new tab in vim?
+    https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim
+
+    Tutorial: Tmux: A Simple Start
+    https://www.sitepoint.com/tmux-a-simple-start
+
+    Quora: :Terminal Velocity – A Command-line Note-taking Application For Linux
+    https://www.ostechnix.com/terminal-velocity-command-line-note-taking-application-linux
+
+    StackExchange: How do I scroll in tmux?
+    https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
+
+    Blog: Pass Unix Password Manager
+    http://www.tricksofthetrades.net/2015/07/04/notes-pass-unix-password-manager
+
+    StackExchange: How to reset the terminal properties and preferences?
+    https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences
+
+    Blog: How To Open ePub Books In Ubuntu Linux
+    https://itsfoss.com/open-epub-books-ubuntu-linux
+
+    Software: Plan 9 from Bell Labs
+    http://9p.io/plan9
+
+    Blog: HOWTO: Use `xwd` for screenshots
+    https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
+
+    Tutorial: Surf Demystified
+    http://troubleshooters.com/linux/surf.htm
+
+    Blog: The Homely mutt
+    http://stevelosh.com/blog/2012/10/the-homely-mutt
+
+

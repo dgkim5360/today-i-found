@@ -1,0 +1,52 @@
+[
+	{
+		"group": "Blog",
+		"title": "GitHub's 'squash and merge' default considered harmful",
+		"link": "https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful"
+	},
+	{
+		"group": "Blog",
+		"title": "fetch and merge, don’t pull",
+		"link": "https://longair.net/blog/2009/04/16/git-fetch-and-merge"
+	},
+	{
+		"group": "StackExchange",
+		"title": "In what cases could \"git pull\" be harmful?",
+		"link": "https://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful"
+	},
+	{
+		"group": "Site",
+		"title": "Tom Preston-Werner, the CoFounder of Github",
+		"link": "http://tom.preston-werner.com"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to revert Git repository to a previous commit?",
+		"link": "https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Comparing Workflows",
+		"link": "https://www.atlassian.com/git/tutorials/comparing-workflows"
+	},
+	{
+		"group": "Blog",
+		"title": "push and delete remote branches",
+		"link": "http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Add all files to a commit except a single file?",
+		"link": "https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file"
+	},
+	{
+		"group": "Blog",
+		"title": "libgit2: Checkout",
+		"link": "https://ben.straub.cc/2013/04/02/libgit2-checkout"
+	},
+	{
+		"group": "StackExchange",
+		"title": "git-diff to ignore ^M",
+		"link": "https://stackoverflow.com/questions/1889559/git-diff-to-ignore-m"
+	}
+]

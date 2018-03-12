@@ -1,0 +1,67 @@
+[
+	{
+		"group": "Site",
+		"title": "Welcome to Bjarne Stroustrup's homepage!",
+		"link": "http://www.stroustrup.com/index.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Rasmus Andersson",
+		"link": "https://rsms.me/about/spotify"
+	},
+	{
+		"group": "Blog",
+		"title": "arp242",
+		"link": "https://arp242.net"
+	},
+	{
+		"group": "Blog",
+		"title": "Code Without Rules",
+		"link": "https://codewithoutrules.com"
+	},
+	{
+		"group": "Site",
+		"title": "zx2c4",
+		"link": "https://www.zx2c4.com"
+	},
+	{
+		"group": "Blog",
+		"title": "Tom Ryder",
+		"link": "https://sanctum.geek.nz"
+	},
+	{
+		"group": "Blog",
+		"title": "division by zero",
+		"link": "https://2f30.org"
+	},
+	{
+		"group": "Site",
+		"title": "suckless softwares",
+		"link": "https://suckless.org"
+	},
+	{
+		"group": "Blog",
+		"title": "research!rsc",
+		"link": "https://research.swtch.com"
+	},
+	{
+		"group": "Site",
+		"title": "cat -v (deals with all that sucks beyond programming)",
+		"link": "http://cat-v.org"
+	},
+	{
+		"group": "Blog",
+		"title": "Joel on Software (Cofounder of Trello, CEO of StackOverflow)",
+		"link": "https://www.joelonsoftware.com"
+	},
+	{
+		"group": "Blog",
+		"title": "sebastianraschka: an expert on machine learning",
+		"link": "https://sebastianraschka.com"
+	},
+	{
+		"group": "Quora",
+		"title": "Eli Bendersky's website",
+		"link": "https://eli.thegreenplace.net"
+	}
+]

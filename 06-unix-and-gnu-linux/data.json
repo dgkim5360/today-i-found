@@ -1,0 +1,212 @@
+[
+	{
+		"group": "Software",
+		"title": "Suicide Linux",
+		"link": "https://qntm.org/suicide"
+	},
+	{
+		"group": "Blog",
+		"title": "8 Linux Commands to Find out Wireless Network Speed, Signal Strength and other Information",
+		"link": "https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Editing the Scripts You Already Have",
+		"link": "http://linuxcommand.org/lc3_wss0020.php"
+	},
+	{
+		"group": "Quora",
+		"title": "Why doesn't Windows have a swap partition like Linux?",
+		"link": "https://www.quora.com/Why-doesnt-Windows-have-a-swap-partition-like-Linux"
+	},
+	{
+		"group": "Blog",
+		"title": "Debian vs. Ubuntu: What's the Difference?",
+		"link": "https://www.datamation.com/open-source/debian-vs.-ubuntu.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to avoid using sudo when working in /var/www?",
+		"link": "https://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www"
+	},
+	{
+		"group": "Forum",
+		"title": "Creating a dll with MinGW in Linux",
+		"link": "https://ubuntuforums.org/showthread.php?t=2260755"
+	},
+	{
+		"group": "Blog",
+		"title": "Cross Compile to Windows From Linux",
+		"link": "http://arrayfire.com/cross-compile-to-windows-from-linux"
+	},
+	{
+		"group": "Blog",
+		"title": "The 10 Easiest Ways to Keep Ubuntu System Clean",
+		"link": "https://www.fossmint.com/keep-ubuntu-system-clean"
+	},
+	{
+		"group": "Quora",
+		"title": "What is Unix and Linux? Are they co-related?",
+		"link": "https://www.quora.com/What-is-Unix-and-Linux-Are-they-co-related"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do you use Linux?",
+		"link": "https://www.quora.com/Why-do-you-use-Linux"
+	},
+	{
+		"group": "Quora",
+		"title": "Which Linux OS should I use as a beginner: Ubuntu or Kali Linux, and why?",
+		"link": "https://www.quora.com/Which-Linux-OS-should-I-use-as-a-beginner-Ubuntu-or-Kali-Linux-and-why"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Bash scripting tutorial",
+		"link": "https://linuxconfig.org/bash-scripting-tutorial"
+	},
+	{
+		"group": "Blog",
+		"title": "Bash by example",
+		"link": "https://www.ibm.com/developerworks/library/l-bash/index.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What does \"LC_ALL=C\" do?",
+		"link": "https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do"
+	},
+	{
+		"group": "Wiki",
+		"title": "Z shell",
+		"link": "https://en.wikipedia.org/wiki/Z_shell"
+	},
+	{
+		"group": "Software",
+		"title": "Fish shell",
+		"link": "https://fishshell.com"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Shell Scripting Tutorial",
+		"link": "https://www.shellscript.sh"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do so many Linux users prefer the command line to a GUI?",
+		"link": "https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GUI"
+	},
+	{
+		"group": "Quora",
+		"title": "What do you dislike most about Linux?",
+		"link": "https://www.quora.com/What-do-you-dislike-most-about-Linux"
+	},
+	{
+		"group": "Tutorial",
+		"title": "GPG Cheatsheet",
+		"link": "http://irtfweb.ifa.hawaii.edu/~lockhart/gpg"
+	},
+	{
+		"group": "Tutorial",
+		"title": "UNIX Tutorial for Beginners",
+		"link": "http://www.ee.surrey.ac.uk/Teaching/Unix"
+	},
+	{
+		"group": "Site",
+		"title": "bona fide os developer",
+		"link": "http://www.osdever.net/tutorials"
+	},
+	{
+		"group": "Blog",
+		"title": "Linux Torvalds Answers Your Questions",
+		"link": "https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions"
+	},
+	{
+		"group": "Blog",
+		"title": "Linus on Understanding Pointers",
+		"link": "https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is the kernel source code written in C language? Is there any specific reason why the kernel is not implemented in C++?",
+		"link": "https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-there-any-specific-reason-why-the-kernel-is-not-implemented-in-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?",
+		"link": "https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C"
+	},
+	{
+		"group": "Blog",
+		"title": "UEFI boot: how does that actually work, then?",
+		"link": "https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then"
+	},
+	{
+		"group": "Blog",
+		"title": "Check BIOS, UEFI, motherboard info in Linux",
+		"link": "https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux"
+	},
+	{
+		"group": "Reddit",
+		"title": "Why did ArchLinux embrace Systemd?",
+		"link": "https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd"
+	},
+	{
+		"group": "Blog",
+		"title": "Configuring your login sessions with dot files",
+		"link": "http://mywiki.wooledge.org/DotFiles"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What do the numbers in a man page mean?",
+		"link": "https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What does \"LC_ALL=C\" do?",
+		"link": "https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Why can't tar extract .zip files?",
+		"link": "https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What is the reason for performing a double fork when creating a daemon?",
+		"link": "https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon"
+	},
+	{
+		"group": "Blog",
+		"title": "Broken by Design - Systemd",
+		"link": "https://ewontfix.com/14"
+	},
+	{
+		"group": "Blog",
+		"title": "The Biggest Myths (Explanation of systemd)",
+		"link": "http://0pointer.de/blog/projects/the-biggest-myths.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Please explain the parameters 'noexpose' and 'cycle' in xset",
+		"link": "https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset"
+	},
+	{
+		"group": "Quora",
+		"title": "How are drivers for a computer written?",
+		"link": "https://www.quora.com/How-are-drivers-for-a-computer-written"
+	},
+	{
+		"group": "Site",
+		"title": "Harmful stuff",
+		"link": "http://harmful.cat-v.org/software"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How do I split a string on a delimiter in Bash?",
+		"link": "https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash"
+	},
+	{
+		"group": "Quora",
+		"title": "Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?",
+		"link": "https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit"
+	}
+]

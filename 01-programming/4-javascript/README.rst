@@ -1,0 +1,55 @@
+    4 Javascript
+    ------------
+
+    Software: NVM, Node Version Manager
+    https://github.com/creationix/nvm
+
+    Library: Passport: Simple, unobtrusive authentication for Node.js
+    http://www.passportjs.org
+
+    Tutorial: Authenticate a Node.js API with JSON Web Tokens
+    https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
+
+    Blog: Towards 100% Uptime with Node.js
+    https://sandinmyjoints.github.io/towards-100-pct-uptime
+
+    Library: mongoose: Elegant MongoDB Object Modeling for Node.js
+    http://mongoosejs.com
+
+    Blog: Best Practices for Deploying Node.js in Production
+    https://strongloop.com/strongblog/node-js-deploy-production-best-practice
+
+    Github: Google API Node.js Client: No refresh_token return?
+    https://github.com/google/google-api-nodejs-client/issues/421
+
+    Blog: Node.js Framework Comparison: Express vs. Koa vs. Hapi
+    https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi
+
+    Blog: 6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)
+    https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
+
+    Blog: Understanding ES5, ES2015 and TypeScript
+    https://johnpapa.net/es5-es2015-typescript
+
+    Blog: RxJS is great. So why have I moved on?
+    https://medium.com/@puppybits/rxjs-is-great-so-why-have-i-moved-on-534c513e7af3
+
+    Blog: The JavaScript phenomenon is a mass psychosis
+    https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359
+
+    Quora: What should I do to become a JavaScript expert?
+    https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert
+
+    Blog: The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB
+    http://cwbuecheler.com/web/tutorials/2013/node-express-mongo
+
+    Tutorial: Build a RESTful API using Node and Express 4
+    https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+
+    Docs: Production best practices: performance and reliability
+    https://expressjs.com/en/advanced/best-practice-performance.html
+
+    Github: Express without template engine
+    https://github.com/expressjs/express/issues/2970
+
+

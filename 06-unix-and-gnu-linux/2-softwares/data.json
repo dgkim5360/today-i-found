@@ -1,0 +1,57 @@
+[
+	{
+		"group": "StackExchange",
+		"title": "How do I edit an existing buffer in a new tab in vim?",
+		"link": "https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Tmux: A Simple Start",
+		"link": "https://www.sitepoint.com/tmux-a-simple-start"
+	},
+	{
+		"group": "Quora",
+		"title": ":Terminal Velocity – A Command-line Note-taking Application For Linux",
+		"link": "https://www.ostechnix.com/terminal-velocity-command-line-note-taking-application-linux"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How do I scroll in tmux?",
+		"link": "https://superuser.com/questions/209437/how-do-i-scroll-in-tmux"
+	},
+	{
+		"group": "Blog",
+		"title": "Pass Unix Password Manager",
+		"link": "http://www.tricksofthetrades.net/2015/07/04/notes-pass-unix-password-manager"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to reset the terminal properties and preferences?",
+		"link": "https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences"
+	},
+	{
+		"group": "Blog",
+		"title": "How To Open ePub Books In Ubuntu Linux",
+		"link": "https://itsfoss.com/open-epub-books-ubuntu-linux"
+	},
+	{
+		"group": "Software",
+		"title": "Plan 9 from Bell Labs",
+		"link": "http://9p.io/plan9"
+	},
+	{
+		"group": "Blog",
+		"title": "HOWTO: Use `xwd` for screenshots",
+		"link": "https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Surf Demystified",
+		"link": "http://troubleshooters.com/linux/surf.htm"
+	},
+	{
+		"group": "Blog",
+		"title": "The Homely mutt",
+		"link": "http://stevelosh.com/blog/2012/10/the-homely-mutt"
+	}
+]

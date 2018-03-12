@@ -1,0 +1,32 @@
+[
+	{
+		"group": "Library",
+		"title": "MathJax",
+		"link": "https://www.mathjax.org"
+	},
+	{
+		"group": "Library",
+		"title": "Mithril.js",
+		"link": "https://mithril.js.org"
+	},
+	{
+		"group": "Library",
+		"title": "Handsontable: JavaScript Spreadsheet",
+		"link": "https://handsontable.com"
+	},
+	{
+		"group": "Library",
+		"title": "Intro.js",
+		"link": "https://introjs.com"
+	},
+	{
+		"group": "Site",
+		"title": "The best of JavaScript, HTML and CSS",
+		"link": "https://bestof.js.org"
+	},
+	{
+		"group": "Blog",
+		"title": "Javascript Cryptography Considered Harmful",
+		"link": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful"
+	}
+]

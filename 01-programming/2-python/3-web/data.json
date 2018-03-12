@@ -1,0 +1,57 @@
+[
+	{
+		"group": "StackExchange",
+		"title": "How to serve static files in Flask",
+		"link": "https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask"
+	},
+	{
+		"group": "Blog",
+		"title": "Flask on Nginx and Gunicorn",
+		"link": "https://prakhar.me/articles/flask-on-nginx-and-gunicorn"
+	},
+	{
+		"group": "Blog",
+		"title": "Django shell within a test environment",
+		"link": "http://testedwebdev.blogspot.com/2012/05/django-shell-testing.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Demystifying Token-Based Authentication using Django REST Framework",
+		"link": "https://afropolymath.svbtle.com/authentication-using-django-rest-framework"
+	},
+	{
+		"group": "Site",
+		"title": "Classy Class-Based Views",
+		"link": "http://ccbv.co.uk"
+	},
+	{
+		"group": "Docs",
+		"title": "Lookups spanning multi-valued relationships",
+		"link": "https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Group django queryset by foreign key / related field",
+		"link": "https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field"
+	},
+	{
+		"group": "Blog",
+		"title": "Improve your tests in Django with fakes and factories",
+		"link": "https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories"
+	},
+	{
+		"group": "Blog",
+		"title": "Django debug with vim and vdebug",
+		"link": "https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Django tests dump data/ results",
+		"link": "https://stackoverflow.com/questions/5289089/django-tests-dump-data-results"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to debug in Django, the good way?",
+		"link": "https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way"
+	}
+]

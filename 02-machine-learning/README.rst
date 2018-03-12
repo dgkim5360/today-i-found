@@ -1,0 +1,70 @@
+  02 Machine Learning
+  ===================
+
+  Book: The Elements of Statistical Learning
+  https://web.stanford.edu/~hastie/ElemStatLearn
+
+  Book: An Introduction to Statistical Learning
+  http://www-bcf.usc.edu/~gareth/ISL
+
+  Quora: What are the best graduate schools for studying machine learning?
+  https://www.quora.com/What-are-the-best-graduate-schools-for-studying-machine-learning
+
+  Reddit: Is a PhD worth it in machine learning?
+  https://www.reddit.com/r/MachineLearning/comments/mu2ly/is_a_phd_worth_it_in_machine_learning
+
+  StackExchange: What are the benefits of getting a PhD in statistics?
+  https://academia.stackexchange.com/questions/11137/what-are-the-benefits-of-getting-a-phd-in-statistics
+
+  Quora: Why should one learn machine learning from scratch rather than just learning to use the available libraries?
+  https://www.quora.com/Why-should-one-learn-machine-learning-from-scratch-rather-than-just-learning-to-use-the-available-libraries
+
+  Quora: What types of machine learning algorithms are used in solving some popular real-world problems?
+  https://www.quora.com/What-types-of-machine-learning-algorithms-are-used-in-solving-some-popular-real-world-problems
+
+  Quora: What does AI code look like?
+  https://www.quora.com/What-does-AI-code-look-like
+
+  Quora: What is Bayesian inference in statistics? When and how is Bayesian inference used?
+  https://www.quora.com/What-is-Bayesian-inference-in-statistics-When-and-how-is-Bayesian-inference-used
+
+  Quora: I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
+  https://www.quora.com/I-want-to-pursue-machine-learning-as-a-career-but-not-sure-if-I-am-qualified-How-can-I-test-myself
+
+  Quora: How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry?
+  https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry
+
+  Blog: Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 
+  http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
+
+  Quora: Why don't deep learning researchers and professionals use C or C++ instead of slow language like Python? Will it reduce dependence on GPUs?
+  https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C-or-C++-instead-of-slow-language-like-Python-Will-it-reduce-dependence-on-GPUs
+
+  Quora: What are your reviews between PyTorch and TensorFlow?
+  https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
+
+  Quora: What are the most "overrated" machine learning models?
+  https://www.quora.com/What-are-the-most-overrated-machine-learning-models
+
+  Quora: What algorithms and techniques (20 to 50) are must-knows for a junior data scientist?
+  https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
+
+  Quora: Is Deep Learning fundamentally flawed and hitting a wall? Was Gary Marcus correct in pointing out Deep Learning's flaws?
+  https://www.quora.com/Is-Deep-Learning-fundamentally-flawed-and-hitting-a-wall-Was-Gary-Marcus-correct-in-pointing-out-Deep-Learnings-flaws
+
+  Slides: Stanford lecture, Neural Networks & Backprop
+  http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf
+
+  StackExchange: Deriving gradient of a single layer neural network w.r.t its inputs, what is the operator in the chain rule?
+  https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-layer-neural-network-w-r-t-its-inputs-what-is-the
+
+  StackExchange: Convergence of neural network weights (Excellent Know-How)
+  https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-weights
+
+  StackExchange: The cross-entropy error function in neural networks
+  https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
+
+  StackExchange: Why You Should Use Cross-Entropy Error Instead Of Classification Error Or Mean Squared Error For Neural Network Classifier Training
+  https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
+
+

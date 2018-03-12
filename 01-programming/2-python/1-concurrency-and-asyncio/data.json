@@ -1,0 +1,92 @@
+[
+	{
+		"group": "Blog",
+		"title": "Celery를 이용한 긴 작업 처리",
+		"link": "https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Gunicorn Worker Types",
+		"link": "https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types"
+	},
+	{
+		"group": "Blog",
+		"title": "Python async/await Tutorial",
+		"link": "http://stackabuse.com/python-async-await-tutorial"
+	},
+	{
+		"group": "Docs",
+		"title": "18.5.3. Tasks and coroutines",
+		"link": "https://docs.python.org/3/library/asyncio-task.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Unyielding",
+		"link": "https://glyph.twistedmatrix.com/2014/02/unyielding.html"
+	},
+	{
+		"group": "Blog",
+		"title": "How Celery fixed Python's GIL problem",
+		"link": "http://blog.domanski.me/how-celery-fixed-pythons-gil-problem"
+	},
+	{
+		"group": "Blog",
+		"title": "Asyncio Coroutine Patterns: Beyond await",
+		"link": "https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Asyncio RuntimeError: Event Loop is Closed",
+		"link": "https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed"
+	},
+	{
+		"group": "Blog",
+		"title": "I don't understand Python's Asyncio",
+		"link": "http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio"
+	},
+	{
+		"group": "Mailing",
+		"title": "Send data to asyncio coroutine",
+		"link": "https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug"
+	},
+	{
+		"group": "Mailing",
+		"title": "asyncio - run coroutine in the background ",
+		"link": "https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Can an asyncio event loop run in the background without suspending the Python interpreter?",
+		"link": "https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in"
+	},
+	{
+		"group": "StackExchange",
+		"title": "@asyncio.coroutine vs async def",
+		"link": "https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def"
+	},
+	{
+		"group": "Blog",
+		"title": "How the heck does async/await work in Python 3.5?",
+		"link": "https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5"
+	},
+	{
+		"group": "Blog",
+		"title": "Making 1 million requests with python-aiohttp",
+		"link": "https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What's so cool about Twisted? [closed]",
+		"link": "https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted"
+	},
+	{
+		"group": "Blog",
+		"title": "Twisted Introduction",
+		"link": "http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted"
+	},
+	{
+		"group": "StackExchange",
+		"title": "When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]",
+		"link": "https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other"
+	}
+]

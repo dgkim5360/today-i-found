@@ -1,0 +1,62 @@
+[
+	{
+		"group": "Quora",
+		"title": "What is the difference between multithreading in C and C++?",
+		"link": "https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do some programmers say C/C++ isn't safe?",
+		"link": "https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe"
+	},
+	{
+		"group": "Quora",
+		"title": "Why isn't big int added in C/C++?",
+		"link": "https://www.quora.com/Why-isnt-big-int-added-in-C-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "Which is the best way to avoid memory leaks in C/C++?",
+		"link": "https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some of the best C/C++ projects beginners can try?",
+		"link": "https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.",
+		"link": "https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I compare a multi-dimensional array on C++?",
+		"link": "https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "Is cin/cout slower than scanf/printf?",
+		"link": "https://www.quora.com/Is-cin-cout-slower-than-scanf-printf"
+	},
+	{
+		"group": "Quora",
+		"title": "What are objects in C and C++, and how are they different?",
+		"link": "https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.",
+		"link": "https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world"
+	},
+	{
+		"group": "Quora",
+		"title": "Why should I prefer C++ streams over C-style I/O?",
+		"link": "https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O"
+	},
+	{
+		"group": "Quora",
+		"title": "In which aspects ic C better than C++? (good answer to how they are different)",
+		"link": "https://www.quora.com/In-which-aspects-is-C-better-than-C"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"group": "Quora",
+		"title": "What would be best site, book, or tutorial for a Scala beginner?",
+		"link": "https://www.quora.com/What-would-be-best-site-book-or-tutorial-for-a-Scala-beginner"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Scala School",
+		"link": "https://twitter.github.io/scala_school"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Effective Scala",
+		"link": "http://twitter.github.io/effectivescala"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Scala Tutorials",
+		"link": "http://scalatutorials.com"
+	},
+	{
+		"group": "Site",
+		"title": "Scala for Machine Learning",
+		"link": "http://www.scalaformachinelearning.com"
+	},
+	{
+		"group": "Docs",
+		"title": "Typesafe Case Study: Keeping Borders Safe with Akka",
+		"link": "http://downloads.typesafe.com/website/casestudies/Dutch-Border-Police-Case-Study-v1.3.pdf"
+	},
+	{
+		"group": "Quora",
+		"title": "What is it like to use Akka in production?",
+		"link": "https://www.quora.com/What-is-it-like-to-use-Akka-in-production"
+	},
+	{
+		"group": "Quora",
+		"title": "How are Akka actors different from Go channels? How are two related to each other?",
+		"link": "https://www.quora.com/How-are-Akka-actors-different-from-Go-channels-How-are-two-related-to-each-other"
+	},
+	{
+		"group": "Blog",
+		"title": "Building a REST API",
+		"link": "https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the pros and cons of Play Framework 2, for a Scala developer?",
+		"link": "https://www.quora.com/What-are-the-pros-and-cons-of-Play-Framework-2-for-a-Scala-developer"
+	}
+]

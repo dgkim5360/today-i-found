@@ -1,0 +1,22 @@
+[
+	{
+		"group": "Github",
+		"title": "DevOps Tools",
+		"link": "https://github.com/collections/devops-tools"
+	},
+	{
+		"group": "Blog",
+		"title": "MS: A Git Workflow for Continuous Delivery",
+		"link": "https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continuous-delivery"
+	},
+	{
+		"group": "Blog",
+		"title": "Continuous Delivery를 향한 첫 걸음",
+		"link": "http://www.nextree.co.kr/p3452"
+	},
+	{
+		"group": "Blog",
+		"title": "Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups",
+		"link": "https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups"
+	}
+]

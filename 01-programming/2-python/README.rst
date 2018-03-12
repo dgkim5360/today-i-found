@@ -1,0 +1,220 @@
+    2 Python
+    --------
+
+    Blog: The ElementTree iterparse function
+    http://effbot.org/zone/element-iterparse.htm
+
+    Docs: How to Package Your Python Code
+    https://python-packaging.readthedocs.io/en/latest/index.html
+
+    Quora: Tutorial for Packaging and Distributing Projects
+    https://packaging.python.org/tutorials/distributing-packages
+
+    Blog: An Intro to coverage.py
+    https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py
+
+    StackExchange: Python - doctest vs. unittest
+    https://stackoverflow.com/questions/361675/python-doctest-vs-unittest
+
+    Quora: Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?
+    https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential
+
+    StackExchange: Nicest way to pad zeroes to string
+    https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string
+
+    StackExchange: What is a metaclass in Python?
+    https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
+
+    StackExchange: Convert base-2 binary number string to int
+    https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int
+
+    StackExchange: Python - Flipping Binary 1's and 0's in a String
+    https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string
+
+    StackExchange: Sort a list by multiple attributes?
+    https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+
+    StackExchange: Convert decimal to ternary(base3) in python
+    https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python
+
+    StackExchange: How to convert an integer in any base to a string?
+    https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
+
+    Blog: Advanced Uses of Python Decorators
+    https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv
+
+    StackExchange: Auto-register class methods using decorator
+    https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
+
+    Quora: Is Python’s compiled code as fast as C++?
+    https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++
+
+    Blog: Go Go Python Rangers - Comparing Python and Golang 
+    https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/
+
+    Blog: Using ipdb with Docker Compose for interactive debugging
+    https://www.calazan.com/using-ipdb-docker-compose-interactive-debugging
+
+    StackExchange: using functools.lru_cache on functions with constant but non-hashable objects
+    https://stackoverflow.com/questions/37609772/using-functools-lru-cache-on-functions-with-constant-but-non-hashable-objects
+
+    Quora: Which fields and industries use Python?
+    https://www.quora.com/Which-fields-and-industries-use-Python
+
+    Quora: Could you program a video game entirely using Python?
+    https://www.quora.com/Could-you-program-a-video-game-entirely-using-Python
+
+    Site: Python 3 Module of the Week
+    https://pymotw.com/3/index.html
+
+    Tutorial: pdb - Interactive Debugger
+    https://pymotw.com/3/pdb/index.html
+
+    Quora: Is Python written in C language? What is Cython? How is it different from Python?
+    https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
+
+    Docs: 23. Exploring CPython's Internals
+    https://devguide.python.org/exploring
+
+    Docs: Pyrex
+    http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
+
+    Quora: How are Python lists implemented internally?
+    https://www.quora.com/How-are-Python-lists-implemented-internally
+
+    StackExchange: Difference between python3 and python3m executables
+    https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
+
+    Blog: A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
+    https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon
+
+    Quora: Is there a programming language as easy as Swift or Python that translates your code into C++ before or during compiling for a better performance? (Excellent advice for striving the performance of Python)
+    https://www.quora.com/Is-there-a-programming-language-as-easy-as-Swift-or-Python-that-translates-your-code-into-C-before-or-during-compiling-for-a-better-performance
+
+
+
+
+      1 Concurrency And Asyncio
+      -------------------------
+
+      Blog: Celery를 이용한 긴 작업 처리
+      https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html
+
+      Blog: Gunicorn Worker Types
+      https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types
+
+      Blog: Python async/await Tutorial
+      http://stackabuse.com/python-async-await-tutorial
+
+      Docs: 18.5.3. Tasks and coroutines
+      https://docs.python.org/3/library/asyncio-task.html
+
+      Blog: Unyielding
+      https://glyph.twistedmatrix.com/2014/02/unyielding.html
+
+      Blog: How Celery fixed Python's GIL problem
+      http://blog.domanski.me/how-celery-fixed-pythons-gil-problem
+
+      Blog: Asyncio Coroutine Patterns: Beyond await
+      https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f
+
+      StackExchange: Asyncio RuntimeError: Event Loop is Closed
+      https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed
+
+      Blog: I don't understand Python's Asyncio
+      http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio
+
+      Mailing: Send data to asyncio coroutine
+      https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug
+
+      Mailing: asyncio - run coroutine in the background 
+      https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
+
+      StackExchange: Can an asyncio event loop run in the background without suspending the Python interpreter?
+      https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in
+
+      StackExchange: @asyncio.coroutine vs async def
+      https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
+
+      Blog: How the heck does async/await work in Python 3.5?
+      https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
+
+      Blog: Making 1 million requests with python-aiohttp
+      https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+
+      StackExchange: What's so cool about Twisted? [closed]
+      https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted
+
+      Blog: Twisted Introduction
+      http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted
+
+      StackExchange: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
+      https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other
+
+
+
+
+      2 Data Stack
+      ------------
+
+      StackExchange: How do I build a numpy array from a generator?
+      https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
+
+      Quora: What are your reviews between PyTorch and TensorFlow?
+      https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
+
+
+
+
+      3 Web
+      -----
+
+      StackExchange: How to serve static files in Flask
+      https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+
+      Blog: Flask on Nginx and Gunicorn
+      https://prakhar.me/articles/flask-on-nginx-and-gunicorn
+
+      Blog: Django shell within a test environment
+      http://testedwebdev.blogspot.com/2012/05/django-shell-testing.html
+
+      Blog: Demystifying Token-Based Authentication using Django REST Framework
+      https://afropolymath.svbtle.com/authentication-using-django-rest-framework
+
+      Site: Classy Class-Based Views
+      http://ccbv.co.uk
+
+      Docs: Lookups spanning multi-valued relationships
+      https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships
+
+      StackExchange: Group django queryset by foreign key / related field
+      https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
+
+      Blog: Improve your tests in Django with fakes and factories
+      https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
+
+      Blog: Django debug with vim and vdebug
+      https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
+
+      StackExchange: Django tests dump data/ results
+      https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
+
+      StackExchange: How to debug in Django, the good way?
+      https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
+
+
+
+
+      4 People
+      --------
+
+      Blog: Dabeaz (a lot of precious lectures, especially for generator, asyncio, and concurrency)
+      http://www.dabeaz.com
+
+      Blog: effbot.org
+      http://effbot.org
+
+      Blog: Armin Ronacher, the Founder of Flask
+      http://lucumr.pocoo.org
+
+

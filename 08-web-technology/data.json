@@ -1,0 +1,72 @@
+[
+	{
+		"group": "Blog",
+		"title": "Fuck the Cloud",
+		"link": "http://ascii.textfiles.com/archives/1717"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Google: Oauth2",
+		"link": "https://developers.google.com/api-client-library/python/guide/aaa_oauth"
+	},
+	{
+		"group": "Docs",
+		"title": "Tech Dev Guide",
+		"link": "https://techdevguide.withgoogle.com"
+	},
+	{
+		"group": "Blog",
+		"title": "Handling long Web Requests with Asynchronous Request Processing",
+		"link": "http://www.codemag.com/article/0102091"
+	},
+	{
+		"group": "Blog",
+		"title": "YouTube Architecture",
+		"link": "http://highscalability.com/blog/2008/3/12/youtube-architecture.html"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Stream Updates with Server-Sent Events",
+		"link": "https://www.html5rocks.com/en/tutorials/eventsource/basics"
+	},
+	{
+		"group": "Blog",
+		"title": "Python and Server-sent Event",
+		"link": "https://medium.com/code-zen/python-generator-and-html-server-sent-events-3cdf14140e56"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Job processing via web application: real-time status updates and backend messaging",
+		"link": "https://stackoverflow.com/questions/12733985/job-processing-via-web-application-real-time-status-updates-and-backend-messagi"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Where should I make heavy computations? Client or server side?",
+		"link": "https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Unix Socket Tutorial",
+		"link": "https://www.tutorialspoint.com/unix_sockets/index.htm"
+	},
+	{
+		"group": "Quora",
+		"title": "How would you build a website that uses machine learning (what frameworks for frontend and backend, Python or R)?",
+		"link": "https://www.quora.com/How-would-you-build-a-website-that-uses-machine-learning-what-frameworks-for-frontend-and-backend-Python-or-R"
+	},
+	{
+		"group": "Blog",
+		"title": "Why French Search Engine Qwant Thinks It Can Beat Google",
+		"link": "https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant-thinks-it-can-beat-google"
+	},
+	{
+		"group": "Quora",
+		"title": "What will be the next big thing programmers should start learning? (Web Assemply!)",
+		"link": "https://www.quora.com/What-will-be-the-next-big-thing-programmers-should-start-learning"
+	},
+	{
+		"group": "Quora",
+		"title": "Is GraphQL a REST killer?",
+		"link": "https://www.quora.com/Is-GraphQL-a-REST-killer"
+	}
+]

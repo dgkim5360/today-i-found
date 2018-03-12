@@ -1,0 +1,12 @@
+[
+	{
+		"group": "Book",
+		"title": "Obey the Testing Goat (TDD with Python)",
+		"link": "http://www.obeythetestinggoat.com"
+	},
+	{
+		"group": "Blog",
+		"title": "A Gentle Introduction to JavaScript TDD",
+		"link": "https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro"
+	}
+]

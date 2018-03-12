@@ -1,0 +1,103 @@
+  12 Job And Career
+  =================
+
+  Blog: Reflections of an 'Old Programmer'
+  http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php
+
+  Blog: The Key to Accelerate Your Coding Skiils
+  http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant
+
+  Quora: What's the most important lesson you've learned as a software engineer?
+  https://www.quora.com/Whats-the-most-important-lesson-youve-learned-as-a-software-engineer
+
+  Quora: What is expected of a junior (back-end) web developer?
+  https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer
+
+  Quora: What are some of the most basic things every programmer should know?
+  https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know
+
+  Quora: Do the best programmers use the fewest lines of code, as is consistent with my experience?
+  https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is-consistent-with-my-experience
+
+  Quora: What little habits made you a better software engineer?
+  https://www.quora.com/What-little-habits-made-you-a-better-software-engineer
+
+  Quora: Why are most famous programmers C programmers?
+  https://www.quora.com/Why-are-most-famous-programmers-C-programmers
+
+  Quora: What are the 7 deadly sins of programming?
+  https://www.quora.com/What-are-the-7-deadly-sins-of-programming
+
+  Quora: What does it take to become really good at programming?
+  https://www.quora.com/What-does-it-take-to-become-really-good-at-programming
+
+  Quora: What little habits made you a better data scientist?
+  https://www.quora.com/What-little-habits-made-you-a-better-data-scientist
+
+  Quora: Are you a self-made data scientist? How did you do it?
+  https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it
+
+  Reddit: 1000+ Beginner Programming Projects
+  https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost
+
+  Quora: How can a software programmer work till he/she is seventy years old?
+  https://www.quora.com/How-can-a-software-programmer-work-till-he-she-is-seventy-years-old
+
+
+
+
+    1 Interviews
+    ------------
+
+    Quora: For Google and Facebook interviews, is it important to memorize the sorting algorithms?
+    https://www.quora.com/For-Google-and-Facebook-interviews-is-it-important-to-memorize-the-sorting-algorithms
+
+    Quora: What are five problems every programmer should be able to answer?
+    https://www.quora.com/What-are-five-problems-every-programmer-should-be-able-to-answer
+
+    Quora: You must interview 10 people for a C++ position. What 5 very difficult questions would you ask?
+    https://www.quora.com/You-must-interview-10-people-for-a-C++-position-What-5-very-difficult-questions-would-you-ask
+
+    Blog: 네이버 면접 시 듣게 되는 40가지 질문
+    http://www.bloter.net/archives/245110
+
+    Blog: 카카오 면접 시 듣게 되는 70가지 질문
+    http://www.bloter.net/archives/245529
+
+    Blog: 데이터 사이언티스트 - 지원서 겸 체크리스트 (넘버웍스 하용호 대표)
+    http://blog.naver.com/PostView.nhn?blogId=eleapple79&logNo=220674845506
+
+    Blog: 기획자·마케터가 알아둘 데이터과학 원칙 6가지
+    https://www.bloter.net/archives/242233
+
+    Quora: Can your work on GitHub actually make your resume worse?
+    https://www.quora.com/Can-your-work-on-GitHub-actually-make-your-resume-worse
+
+    Quora: How can I build a data science portfolio without job experience?
+    https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-experience
+
+    Blog: Technical Interview Performance by Editor/OS/Language
+    https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language
+
+    Quora: How do I prepare for Data Engineer jobs at Amazon/Google/Facebook/Quora?
+    https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-Facebook-Quora
+
+    Quora: After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?
+    https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do
+
+    Quora: What are some of the questions asked in Google interviews?
+    https://www.quora.com/What-are-some-of-the-questions-asked-in-Google-interviews
+
+    Quora: In C++, even small code snippets can be implemented in many ways. How do you decide which one to choose, particularly in a coding interview?
+    https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many-ways-How-do-you-decide-which-one-to-choose-particularly-in-a-coding-interview
+
+    Quora: There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?
+    https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming
+
+    Quora: Can a person use functional programming (FP) languages for Google interviews? How?
+    https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How
+
+    Quora: What is the hardest thing about hiring programmers?
+    https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers
+
+

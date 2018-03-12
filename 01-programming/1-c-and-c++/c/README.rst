@@ -1,0 +1,70 @@
+      C
+      ---
+
+      StackExchange: The Definitive C Book Guide and List
+      https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+
+      Wiki: clc-wiki
+      http://clc-wiki.net/wiki/Main_Page
+
+      Tutorial: compiling C programs
+      http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html
+
+      Tutorial: C Tutorial
+      https://www.cprogramming.com/tutorial/c-tutorial.html
+
+      Tutorial: Shared Dynamic and Loadable Linux Libraries
+      http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
+
+      Tutorial: Shared libraries with GCC on Linux
+      https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
+
+      Quora: What are reasons to use C when there is C++?
+      https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++
+
+      Quora: In the C programming language, what's the difference between while (1) and for (;;)?
+      https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for
+
+      Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
+      https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+
+      Blog: Simple rules to avoid Memory Leaks in C
+      https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
+
+      Quora: What is something you know about C that most people don't know about C?
+      https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
+
+      Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
+      https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
+
+      Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
+      https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
+
+      Quora: What are the advantages of using references over pointers?
+      https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
+
+      Quora: How are multiple arguments evaluated in a function in C?
+      https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
+
+      Quora: Is int n='A' a valid statement in C language?
+      https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
+
+      Quora: Why does the C library have their own Int and other datatypes?
+      https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
+
+      Blog: Why should I have written ZeroMQ in C, not C++ (part I)
+      http://250bpm.com/blog:4
+
+      Quora: How do you build a time counter in C language from scratch?
+      https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
+
+      Quora: What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?
+      https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code
+
+      Quora: Why are C strings less secure than string objects?
+      https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
+
+      Quora: What is an example of an exit(1) in C?
+      https://www.quora.com/What-is-an-example-of-an-exit-1-in-C
+
+

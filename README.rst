@@ -2,1451 +2,1530 @@
 Today I Found
 =============
 
-General Programming
--------------------
 
-What Color is Your Function? 
-http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function
 
-Concurrency is not parallelism
-https://blog.golang.org/concurrency-is-not-parallelism
 
-Quora: Other than algorithms, what are the most important concepts to know in computer programming?
-https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts-to-know-in-computer-programming
+  01 Programming
+  ==============
 
-Quora: What are the papers every programmer should read?
-https://www.quora.com/What-are-the-papers-every-programmer-should-read
+  Blog: What Color is Your Function?
+  http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function
 
-Quora: Why is the execution time of C faster than Java? (우문현답)
-https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java
+  Blog: Concurrency is not parallelism
+  https://blog.golang.org/concurrency-is-not-parallelism
 
-Quora: Why is OO programming considered bad by some people?
-https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people
+  Quora: Other than algorithms, what are the most important concepts to know in computer programming?
+  https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts-to-know-in-computer-programming
 
-Quora: What are the disadvantages of object oriented programming languages?
-https://www.quora.com/What-are-the-disadvantages-of-object-oriented-programming-languages 
+  Quora: What are the papers every programmer should read?
+  https://www.quora.com/What-are-the-papers-every-programmer-should-read
 
-Quora: Is it a good practice to name variables with a prefix of one letter indicating the type? Eg. "bValid", where "b" represents "boolean".
-https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-one-letter-indicating-the-type-Eg-bValid-where-b-represents-boolean
+  Quora: Why is the execution time of C faster than Java? (우문현답)
+  https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java
 
-Quora: How can I go from writing spaghetti code to coding like professional?
-https://www.quora.com/How-can-I-go-from-writing-spaghetti-code-to-coding-like-professional
+  Quora: Why is OO programming considered bad by some people?
+  https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people
 
-Quora: Why is “the halting problem” a problem? Why does it exist?
-https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why-does-it-exist
+  Quora: What are the disadvantages of object oriented programming languages?
+  https://www.quora.com/What-are-the-disadvantages-of-object-oriented-programming-languages
 
-Quora: Why is it hard for a computer to get a random number?
-https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number
+  Quora: Is it a good practice to name variables with a prefix of one letter indicating the type? Eg. "bValid", where "b" represents "boolean".
+  https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-one-letter-indicating-the-type-Eg-bValid-where-b-represents-boolean
 
-Quora: Did the programmer with the most lines of code do the most work?
-https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most-work
+  Quora: How can I go from writing spaghetti code to coding like professional?
+  https://www.quora.com/How-can-I-go-from-writing-spaghetti-code-to-coding-like-professional
 
-Quora: What is the best piece of source code to read?
-https://www.quora.com/What-is-the-best-piece-of-source-code-to-read
+  Quora: Why is “the halting problem” a problem? Why does it exist?
+  https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why-does-it-exist
 
-Quora: What is dynamic programming?
-https://www.quora.com/What-is-dynamic-programming
+  Quora: Why is it hard for a computer to get a random number?
+  https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number
 
-Blog: Garbage Collection of V8 JavaScript Engine
-https://v8project.blogspot.com/search?q=Garbage+Collection
+  Quora: Did the programmer with the most lines of code do the most work?
+  https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most-work
 
-Why I Hate Frameworks
-http://discuss.joelonsoftware.com/default.asp?joel.3.219431
+  Quora: What is the best piece of source code to read?
+  https://www.quora.com/What-is-the-best-piece-of-source-code-to-read
 
-Quora: Can you give an example of a problem hard to write in functional languages but simple in imperative languages?
-https://www.quora.com/Can-you-give-an-example-of-a-problem-hard-to-write-in-functional-languages-but-simple-in-imperative-languages
+  Quora: What is dynamic programming?
+  https://www.quora.com/What-is-dynamic-programming
 
+  Blog: Garbage Collection of V8 JavaScript Engine
+  https://v8project.blogspot.com/search?q=Garbage+Collection
 
-Python
-------
+  Blog: Why I Hate Frameworks
+  http://discuss.joelonsoftware.com/default.asp?joel.3.219431
 
-Dabeaz (a lot of precious lectures, especially for generator, asyncio, and concurrency)
-http://www.dabeaz.com
+  Quora: Can you give an example of a problem hard to write in functional languages but simple in imperative languages?
+  https://www.quora.com/Can-you-give-an-example-of-a-problem-hard-to-write-in-functional-languages-but-simple-in-imperative-languages
 
-The ElementTree iterparse function
-http://effbot.org/zone/element-iterparse.htm
 
-Docs: How to Package Your Python Code
-https://python-packaging.readthedocs.io/en/latest/index.html
 
-Tutorial for Packaging and Distributing Projects
-https://packaging.python.org/tutorials/distributing-packages
 
-Celery를 이용한 긴 작업 처리
-https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html
+    1 C And C++
+    -----------
 
-An Intro to coverage.py
-https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py
+    Quora: What is the difference between multithreading in C and C++?
+    https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++
 
-StackExchange: Python - doctest vs. unittest
-https://stackoverflow.com/questions/361675/python-doctest-vs-unittest
+    Quora: Why do some programmers say C/C++ isn't safe?
+    https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
 
-Quora: Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?
-https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential
+    Quora: Why isn't big int added in C/C++?
+    https://www.quora.com/Why-isnt-big-int-added-in-C-C++
 
-StackExchange: Nicest way to pad zeroes to string
-https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string
+    Quora: Which is the best way to avoid memory leaks in C/C++?
+    https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
 
-StackExchange: What is a metaclass in Python?
-https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
+    Quora: What are some of the best C/C++ projects beginners can try?
+    https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
 
-StackExchange: Convert base-2 binary number string to int
-https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int
+    Quora: Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.
+    https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C
 
-StackExchange: Python - Flipping Binary 1's and 0's in a String
-https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string
+    Quora: How do I compare a multi-dimensional array on C++?
+    https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
 
-StackExchange: Sort a list by multiple attributes?
-https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+    Quora: Is cin/cout slower than scanf/printf?
+    https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
 
-StackExchange: Convert decimal to ternary(base3) in python
-https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python
+    Quora: What are objects in C and C++, and how are they different?
+    https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
 
-StackExchange: How to convert an integer in any base to a string?
-https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
+    Quora: What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.
+    https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world
 
-Advanced Uses of Python Decorators
-https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv
+    Quora: Why should I prefer C++ streams over C-style I/O?
+    https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
 
-StackExchange: Auto-register class methods using decorator
-https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
+    Quora: In which aspects ic C better than C++? (good answer to how they are different)
+    https://www.quora.com/In-which-aspects-is-C-better-than-C
 
-Quora: Is Python’s compiled code as fast as C++?
-https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++
 
-Gunicorn Worker Types
-https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types
 
-Go Go Python Rangers - Comparing Python and Golang 
-https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/
 
-Using ipdb with Docker Compose for interactive debugging
-https://www.calazan.com/using-ipdb-docker-compose-interactive-debugging
+      C
+      ---
 
-using functools.lru_cache on functions with constant but non-hashable objects
-https://stackoverflow.com/questions/37609772/using-functools-lru-cache-on-functions-with-constant-but-non-hashable-objects
+      StackExchange: The Definitive C Book Guide and List
+      https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
-Quora: Which fields and industries use Python?
-https://www.quora.com/Which-fields-and-industries-use-Python
+      Wiki: clc-wiki
+      http://clc-wiki.net/wiki/Main_Page
 
-Quora: Could you program a video game entirely using Python?
-https://www.quora.com/Could-you-program-a-video-game-entirely-using-Python
+      Tutorial: compiling C programs
+      http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html
 
-Python 3 Module of the Week
-https://pymotw.com/3/index.html
+      Tutorial: C Tutorial
+      https://www.cprogramming.com/tutorial/c-tutorial.html
 
-pdb - Interactive Debugger
-https://pymotw.com/3/pdb/index.html
+      Tutorial: Shared Dynamic and Loadable Linux Libraries
+      http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 
-Quora: Is Python written in C language? What is Cython? How is it different from Python?
-https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
+      Tutorial: Shared libraries with GCC on Linux
+      https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
 
-Docs: 23. Exploring CPython's Internals
-https://devguide.python.org/exploring
+      Quora: What are reasons to use C when there is C++?
+      https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++
 
-Pyrex
-http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
+      Quora: In the C programming language, what's the difference between while (1) and for (;;)?
+      https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for
 
-StackExchange: How do I build a numpy array from a generator?
-https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
+      Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
+      https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
 
-Quora: What are your reviews between PyTorch and TensorFlow?
-https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
+      Blog: Simple rules to avoid Memory Leaks in C
+      https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
 
-Quora: How are Python lists implemented internally?
-https://www.quora.com/How-are-Python-lists-implemented-internally
+      Quora: What is something you know about C that most people don't know about C?
+      https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
 
-StackExchange: Difference between python3 and python3m executables
-https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
+      Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
+      https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
 
-A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
-https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon
+      Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
+      https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
 
-Quora: Is there a programming language as easy as Swift or Python that translates your code into C++ before or during compiling for a better performance? (Excellent advice for striving the performance of Python)
-https://www.quora.com/Is-there-a-programming-language-as-easy-as-Swift-or-Python-that-translates-your-code-into-C-before-or-during-compiling-for-a-better-performance
+      Quora: What are the advantages of using references over pointers?
+      https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
 
+      Quora: How are multiple arguments evaluated in a function in C?
+      https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
 
-Python :: Asyncio & Concurrency
--------------------------------
+      Quora: Is int n='A' a valid statement in C language?
+      https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
 
-Python async/await Tutorial
-http://stackabuse.com/python-async-await-tutorial
+      Quora: Why does the C library have their own Int and other datatypes?
+      https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
 
-Docs: 18.5.3. Tasks and coroutines
-https://docs.python.org/3/library/asyncio-task.html
+      Blog: Why should I have written ZeroMQ in C, not C++ (part I)
+      http://250bpm.com/blog:4
 
-Unyielding
-https://glyph.twistedmatrix.com/2014/02/unyielding.html
+      Quora: How do you build a time counter in C language from scratch?
+      https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
 
-How Celery fixed Python's GIL problem
-http://blog.domanski.me/how-celery-fixed-pythons-gil-problem
+      Quora: What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?
+      https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code
 
-Medium: Asyncio Coroutine Patterns: Beyond await
-https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f
+      Quora: Why are C strings less secure than string objects?
+      https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
 
-StackExchange: Asyncio RuntimeError: Event Loop is Closed
-https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed
+      Quora: What is an example of an exit(1) in C?
+      https://www.quora.com/What-is-an-example-of-an-exit-1-in-C
 
-I don't understand Python's Asyncio
-http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio
 
-Send data to asyncio coroutine
-https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug
 
-asyncio - run coroutine in the background 
-https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
 
-StackExchange: Can an asyncio event loop run in the background without suspending the Python interpreter?
-https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in/26270790#26270790
+      C++
+      ---
 
-StackExchange: @asyncio.coroutine vs async def
-https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
+      StackExchange: C++ Dynamic Shared Library on Linux
+      https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
 
-How the heck does async/await work in Python 3.5?
-https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
+      Slides: make tutorial
+      https://web.stanford.edu/class/cs193d/handouts/make.pdf
 
-Making 1 million requests with python-aiohttp
-https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+      Blog: Multithreading in C++0x part 1: Starting Threads
+      https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html
 
+      Blog: Sockets - Server & Client
+      http://www.bogotobogo.com/cplusplus/sockets_server_client.php
 
-Python :: Flask
----------------
+      Quora: What are some small project ideas for learning C++?
+      https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
 
-Armin Ronacher, the Founder of Flask
-http://lucumr.pocoo.org
+      StackExchange: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
+      https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
 
-StackExchange: How to serve static files in Flask
-https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+      StackExchange: Why c++ does not support multiple initializers in for loop? [duplicate]
+      https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
 
-Flask on Nginx and Gunicorn
-https://prakhar.me/articles/flask-on-nginx-and-gunicorn
+      Quora: Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?
+      https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics
 
+      Tutorial: OpenGL
+      http://www.opengl-tutorial.org
 
-Python :: Django
-----------------
+      Quora: Why is C++ so complicated?
+      https://www.quora.com/Why-is-C++-so-complicated
 
-Django shell within a test environment
-http://testedwebdev.blogspot.kr/2012/05/django-shell-testing.html
+      Quora: What is the most famous C++ Web Framework?
+      https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
 
-Demystifying Token-Based Authentication using Django REST Framework
-https://afropolymath.svbtle.com/authentication-using-django-rest-framework
+      StackExchange: Does C++ have a package manager like npm, pip, gem, etc?
+      https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
 
-Classy Class-Based Views
-http://ccbv.co.uk
+      YouTube: cppcon 2015: Stop Teaching C
+      https://www.youtube.com/watch?v=YnWhqhNdYyk
 
-Offcial Docs: Lookups spanning multi-valued relationships
-https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships
+      Quora: Why is 'if constexpr' so important in C++17?
+      https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17
 
-StackExchange: Group django queryset by foreign key / related field
-https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
+      Quora: How long will it take to learn C++ for a C Professional?
+      https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
 
-Improve your tests in Django with fakes and factories
-https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
+      Quora: What does 'using namespace std' mean in C++?
+      https://www.quora.com/What-does-using-namespace-std-mean-in-C++
 
-Django debug with vim and vdebug
-https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
+      Quora: What things should every C++ beginner know?
+      https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
 
-StackExchange: Django tests dump data/ results
-https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
+      Quora: How do I do memory allocation in C++?
+      https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
 
-StackExchange: How to debug in Django, the good way?
-https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
+      Quora: How do I split a string by space into an array in c++?
+      https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
 
+      Quora: (Stroustrup A2A) What are the best C++ books?
+      https://www.quora.com/What-are-the-best-C++-books
 
-Python :: Twisted
------------------
+      Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
+      https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
 
-StackExchange: What's so cool about Twisted? [closed]
-https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted
+      Quora: What are the names of some C++ compilers?
+      https://www.quora.com/What-are-the-names-of-some-C++-compilers
 
-Twisted Introduction
-http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted
+      Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
+      https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
 
-StackExchange: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
-https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other
+      Quora: Why isn't .h used in C++?
+      https://www.quora.com/Why-isnt-h-used-in-C++
 
+      Quora: What are the main differences between the versions of C++?
+      https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
 
-C
----
+      Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
+      https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
 
-StackExchange: The Definitive C Book Guide and List
-https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+      Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
+      https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
 
-clc-wiki
-http://clc-wiki.net/wiki/Main_Page
+      Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
+      https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
 
-Tutorial: compiling C programs
-http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html
+      Quora: Why doesn't C++ standard headers' names end with ".h" or ".hpp"?
+      https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp
 
-C Tutorial
-https://www.cprogramming.com/tutorial/c-tutorial.html
 
-Static, Shared Dynamic and Loadable Linux Libraries
-http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 
-Shared libraries with GCC on Linux
-https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
 
-What are reasons to use C when there is C++?
-https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++
+    2 Python
+    --------
 
-Quora: In the C programming language, what's the difference between while (1) and for (;;)?
-https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for
+    Blog: The ElementTree iterparse function
+    http://effbot.org/zone/element-iterparse.htm
 
-Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
-https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+    Docs: How to Package Your Python Code
+    https://python-packaging.readthedocs.io/en/latest/index.html
 
-Simple rules to avoid Memory Leaks in C
-https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
+    Quora: Tutorial for Packaging and Distributing Projects
+    https://packaging.python.org/tutorials/distributing-packages
 
-Quora: What is something you know about C that most people don't know about C?
-https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
+    Blog: An Intro to coverage.py
+    https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py
 
-Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
-https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
+    StackExchange: Python - doctest vs. unittest
+    https://stackoverflow.com/questions/361675/python-doctest-vs-unittest
 
-Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
-https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
+    Quora: Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?
+    https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential
 
-Quora: What are the advantages of using references over pointers?
-https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
+    StackExchange: Nicest way to pad zeroes to string
+    https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string
 
-Quora: How are multiple arguments evaluated in a function in C?
-https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
+    StackExchange: What is a metaclass in Python?
+    https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
 
-Quora: Is int n='A' a valid statement in C language?
-https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
+    StackExchange: Convert base-2 binary number string to int
+    https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int
 
-Quora: Why does the C library have their own Int and other datatypes?
-https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
+    StackExchange: Python - Flipping Binary 1's and 0's in a String
+    https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string
 
-Why should I have written ZeroMQ in C, not C++ (part I)
-http://250bpm.com/blog:4
+    StackExchange: Sort a list by multiple attributes?
+    https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
 
-Quora: How do you build a time counter in C language from scratch?
-https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
+    StackExchange: Convert decimal to ternary(base3) in python
+    https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python
 
-Quora: What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?
-https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code
+    StackExchange: How to convert an integer in any base to a string?
+    https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string
 
-Quora: Why are C strings less secure than string objects?
-https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
+    Blog: Advanced Uses of Python Decorators
+    https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv
 
-Quora: What is an example of an exit(1) in C?
-https://www.quora.com/What-is-an-example-of-an-exit-1-in-C
+    StackExchange: Auto-register class methods using decorator
+    https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator
 
+    Quora: Is Python’s compiled code as fast as C++?
+    https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++
 
-C++
----
+    Blog: Go Go Python Rangers - Comparing Python and Golang 
+    https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/
 
-C++ Dynamic Shared Library on Linux
-https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
+    Blog: Using ipdb with Docker Compose for interactive debugging
+    https://www.calazan.com/using-ipdb-docker-compose-interactive-debugging
 
-Slides: make tutorial
-https://web.stanford.edu/class/cs193d/handouts/make.pdf
+    StackExchange: using functools.lru_cache on functions with constant but non-hashable objects
+    https://stackoverflow.com/questions/37609772/using-functools-lru-cache-on-functions-with-constant-but-non-hashable-objects
 
-Multithreading in C++0x part 1: Starting Threads
-https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html
+    Quora: Which fields and industries use Python?
+    https://www.quora.com/Which-fields-and-industries-use-Python
 
-Sockets - Server & Client
-http://www.bogotobogo.com/cplusplus/sockets_server_client.php
+    Quora: Could you program a video game entirely using Python?
+    https://www.quora.com/Could-you-program-a-video-game-entirely-using-Python
 
-Quora: What are some small project ideas for learning C++?
-https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
+    Site: Python 3 Module of the Week
+    https://pymotw.com/3/index.html
 
-StackExchange: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
-https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
+    Tutorial: pdb - Interactive Debugger
+    https://pymotw.com/3/pdb/index.html
 
-Why c++ does not support multiple initializers in for loop? [duplicate]
-https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
+    Quora: Is Python written in C language? What is Cython? How is it different from Python?
+    https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python
 
-Quora: Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?
-https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics
+    Docs: 23. Exploring CPython's Internals
+    https://devguide.python.org/exploring
 
-OpenGL
-http://www.opengl-tutorial.org
+    Docs: Pyrex
+    http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html
 
-Quora: Why is C++ so complicated?
-https://www.quora.com/Why-is-C++-so-complicated
+    Quora: How are Python lists implemented internally?
+    https://www.quora.com/How-are-Python-lists-implemented-internally
 
-Quora: What is the most famous C++ Web Framework?
-https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
+    StackExchange: Difference between python3 and python3m executables
+    https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables
 
-StackExchange: Does C++ have a package manager like npm, pip, gem, etc?
-https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
+    Blog: A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?
+    https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon
 
-Youtube: cppcon 2015: Stop Teaching C
-https://www.youtube.com/watch?v=YnWhqhNdYyk
+    Quora: Is there a programming language as easy as Swift or Python that translates your code into C++ before or during compiling for a better performance? (Excellent advice for striving the performance of Python)
+    https://www.quora.com/Is-there-a-programming-language-as-easy-as-Swift-or-Python-that-translates-your-code-into-C-before-or-during-compiling-for-a-better-performance
 
-Why is 'if constexpr' so important in C++17?
-https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17
 
-Quora: How long will it take to learn C++ for a C Professional?
-https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
 
-Quora: What does 'using namespace std' mean in C++?
-https://www.quora.com/What-does-using-namespace-std-mean-in-C++
 
-Quora: What things should every C++ beginner know?
-https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
+      1 Concurrency And Asyncio
+      -------------------------
 
-Quora: How do I do memory allocation in C++?
-https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
+      Blog: Celery를 이용한 긴 작업 처리
+      https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html
 
-Quora: How do I split a string by space into an array in c++?
-https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
+      Blog: Gunicorn Worker Types
+      https://www.spirulasystems.com/blog/2015/01/20/gunicorn-worker-types
 
-Quora: (Stroustrup A2A) What are the best C++ books?
-https://www.quora.com/What-are-the-best-C++-books
+      Blog: Python async/await Tutorial
+      http://stackabuse.com/python-async-await-tutorial
 
-Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
-https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
+      Docs: 18.5.3. Tasks and coroutines
+      https://docs.python.org/3/library/asyncio-task.html
 
-Quora: What are the names of some C++ compilers?
-https://www.quora.com/What-are-the-names-of-some-C++-compilers
+      Blog: Unyielding
+      https://glyph.twistedmatrix.com/2014/02/unyielding.html
 
-Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
-https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
+      Blog: How Celery fixed Python's GIL problem
+      http://blog.domanski.me/how-celery-fixed-pythons-gil-problem
 
-Quora: Why isn't .h used in C++?
-https://www.quora.com/Why-isnt-h-used-in-C++
+      Blog: Asyncio Coroutine Patterns: Beyond await
+      https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f
 
-Quora: What are the main differences between the versions of C++?
-https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
+      StackExchange: Asyncio RuntimeError: Event Loop is Closed
+      https://stackoverflow.com/questions/32598231/asyncio-runtimeerror-event-loop-is-closed
 
-Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
-https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
+      Blog: I don't understand Python's Asyncio
+      http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio
 
-Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
-https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
+      Mailing: Send data to asyncio coroutine
+      https://groups.google.com/forum/#!topic/comp.lang.python/6cmLAFzW5Ug
 
-Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
-https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
+      Mailing: asyncio - run coroutine in the background 
+      https://groups.google.com/forum/#!topic/comp.lang.python/ZOOpjuhKi04
 
-Quora: Why doesn't C++ standard headers' names end with ".h" or ".hpp"?
-https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp
+      StackExchange: Can an asyncio event loop run in the background without suspending the Python interpreter?
+      https://stackoverflow.com/questions/26270681/can-an-asyncio-event-loop-run-in-the-background-without-suspending-the-python-in
 
+      StackExchange: @asyncio.coroutine vs async def
+      https://stackoverflow.com/questions/40571786/asyncio-coroutine-vs-async-def
 
-C/C++
------
+      Blog: How the heck does async/await work in Python 3.5?
+      https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
 
-Quora: What is the difference between multithreading in C and C++?
-https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++
+      Blog: Making 1 million requests with python-aiohttp
+      https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
 
-Quora: Why do some programmers say C/C++ isn't safe?
-https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
+      StackExchange: What's so cool about Twisted? [closed]
+      https://stackoverflow.com/questions/5458631/whats-so-cool-about-twisted
 
-Quora: Why isn't big int added in C/C++?
-https://www.quora.com/Why-isnt-big-int-added-in-C-C++
+      Blog: Twisted Introduction
+      http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted
 
-Quora: Which is the best way to avoid memory leaks in C/C++?
-https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
+      StackExchange: When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]
+      https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other
 
-Quora: What are some of the best C/C++ projects beginners can try?
-https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
 
-Quora: Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.
-https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C
 
-Quora: How do I compare a multi-dimensional array on C++?
-https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
 
-Quora: Is cin/cout slower than scanf/printf?
-https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
+      2 Data Stack
+      ------------
 
-Quora: What are objects in C and C++, and how are they different?
-https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
+      StackExchange: How do I build a numpy array from a generator?
+      https://stackoverflow.com/questions/367565/how-do-i-build-a-numpy-array-from-a-generator
 
-Quora: What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.
-https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world
+      Quora: What are your reviews between PyTorch and TensorFlow?
+      https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
-Quora: Why should I prefer C++ streams over C-style I/O?
-https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
 
-Quora: In which aspects ic C better than C++? (good answer to how they are different)
-https://www.quora.com/In-which-aspects-is-C-better-than-C
 
-Rust
-----
 
-Quora: What do C/C++ systems programmers think of Rust?
-https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
+      3 Web
+      -----
 
-Quora: How does Rust enforce safety?
-https://www.quora.com/How-does-Rust-enforce-safety
+      StackExchange: How to serve static files in Flask
+      https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
 
+      Blog: Flask on Nginx and Gunicorn
+      https://prakhar.me/articles/flask-on-nginx-and-gunicorn
 
-Haskell
--------
+      Blog: Django shell within a test environment
+      http://testedwebdev.blogspot.com/2012/05/django-shell-testing.html
 
-Book: Real World Haskell
-http://book.realworldhaskell.org
+      Blog: Demystifying Token-Based Authentication using Django REST Framework
+      https://afropolymath.svbtle.com/authentication-using-django-rest-framework
 
-Reddit: What exactly do companies use Haskell for?
-https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for
+      Site: Classy Class-Based Views
+      http://ccbv.co.uk
 
+      Docs: Lookups spanning multi-valued relationships
+      https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships
 
-Scala
------
+      StackExchange: Group django queryset by foreign key / related field
+      https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
 
-What would be best site, book, or tutorial for a Scala beginner?
-https://www.quora.com/What-would-be-best-site-book-or-tutorial-for-a-Scala-beginner
+      Blog: Improve your tests in Django with fakes and factories
+      https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
 
-Twitter: Scala School
-https://twitter.github.io/scala_school
+      Blog: Django debug with vim and vdebug
+      https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
 
-Effective Scala
-http://twitter.github.io/effectivescala
+      StackExchange: Django tests dump data/ results
+      https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
 
-Scala Tutorials
-http://scalatutorials.com
+      StackExchange: How to debug in Django, the good way?
+      https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
 
-Scala for Machine Learning
-http://www.scalaformachinelearning.com
 
 
-Scala :: Akka
--------------
 
-Typesafe Case Study: Keeping Borders Safe with Akka
-http://downloads.typesafe.com/website/casestudies/Dutch-Border-Police-Case-Study-v1.3.pdf
+      4 People
+      --------
 
-Quora: What is it like to use Akka in production?
-https://www.quora.com/What-is-it-like-to-use-Akka-in-production
+      Blog: Dabeaz (a lot of precious lectures, especially for generator, asyncio, and concurrency)
+      http://www.dabeaz.com
 
-Quora: How are Akka actors different from Go channels? How are two related to each other?
-https://www.quora.com/How-are-Akka-actors-different-from-Go-channels-How-are-two-related-to-each-other
+      Blog: effbot.org
+      http://effbot.org
 
+      Blog: Armin Ronacher, the Founder of Flask
+      http://lucumr.pocoo.org
 
-Scala :: Play Framework
------------------------
 
-Building a REST API
-https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1
 
-Quora: What are the pros and cons of Play Framework 2, for a Scala developer?
-https://www.quora.com/What-are-the-pros-and-cons-of-Play-Framework-2-for-a-Scala-developer
 
+    3 Scala
+    -------
 
-Java
-----
+    Quora: What would be best site, book, or tutorial for a Scala beginner?
+    https://www.quora.com/What-would-be-best-site-book-or-tutorial-for-a-Scala-beginner
 
-Quora: What do you think about Java?
-https://www.quora.com/What-do-you-think-about-Java
+    Tutorial: Scala School
+    https://twitter.github.io/scala_school
 
+    Tutorial: Effective Scala
+    http://twitter.github.io/effectivescala
 
-JavaScript :: Node
-------------------
+    Tutorial: Scala Tutorials
+    http://scalatutorials.com
 
-Github: NVM, Node Version Manager
-https://github.com/creationix/nvm
+    Site: Scala for Machine Learning
+    http://www.scalaformachinelearning.com
 
-Passport: Simple, unobtrusive authentication for Node.js
-http://www.passportjs.org
+    Docs: Typesafe Case Study: Keeping Borders Safe with Akka
+    http://downloads.typesafe.com/website/casestudies/Dutch-Border-Police-Case-Study-v1.3.pdf
 
-Authenticate a Node.js API with JSON Web Tokens
-https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
+    Quora: What is it like to use Akka in production?
+    https://www.quora.com/What-is-it-like-to-use-Akka-in-production
 
-Towards 100% Uptime with Node.js
-https://sandinmyjoints.github.io/towards-100-pct-uptime
+    Quora: How are Akka actors different from Go channels? How are two related to each other?
+    https://www.quora.com/How-are-Akka-actors-different-from-Go-channels-How-are-two-related-to-each-other
 
-mongoose: Elegant MongoDB Object Modeling for Node.js
-http://mongoosejs.com
+    Blog: Building a REST API
+    https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1
 
-Best Practices for Deploying Node.js in Production
-https://strongloop.com/strongblog/node-js-deploy-production-best-practice
+    Quora: What are the pros and cons of Play Framework 2, for a Scala developer?
+    https://www.quora.com/What-are-the-pros-and-cons-of-Play-Framework-2-for-a-Scala-developer
 
-Google API Node.js Client: No refresh_token return?
-https://github.com/google/google-api-nodejs-client/issues/421
 
-Node.js Framework Comparison: Express vs. Koa vs. Hapi
-https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi
 
-6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)
-https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
-Understanding ES5, ES2015 and TypeScript
-https://johnpapa.net/es5-es2015-typescript
+    4 Javascript
+    ------------
 
-RxJS is great. So why have I moved on?
-https://medium.com/@puppybits/rxjs-is-great-so-why-have-i-moved-on-534c513e7af3
+    Software: NVM, Node Version Manager
+    https://github.com/creationix/nvm
 
-The JavaScript phenomenon is a mass psychosis
-https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359
+    Library: Passport: Simple, unobtrusive authentication for Node.js
+    http://www.passportjs.org
 
-Quora: What should I do to become a JavaScript expert?
-https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert
+    Tutorial: Authenticate a Node.js API with JSON Web Tokens
+    https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
 
+    Blog: Towards 100% Uptime with Node.js
+    https://sandinmyjoints.github.io/towards-100-pct-uptime
 
-JavaScript :: Node :: Express
------------------------------
+    Library: mongoose: Elegant MongoDB Object Modeling for Node.js
+    http://mongoosejs.com
 
-The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB
-http://cwbuecheler.com/web/tutorials/2013/node-express-mongo
+    Blog: Best Practices for Deploying Node.js in Production
+    https://strongloop.com/strongblog/node-js-deploy-production-best-practice
 
-Build a RESTful API using Node and Express 4
-https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+    Github: Google API Node.js Client: No refresh_token return?
+    https://github.com/google/google-api-nodejs-client/issues/421
 
-Official Docs: Production best practices: performance and reliability
-https://expressjs.com/en/advanced/best-practice-performance.html
+    Blog: Node.js Framework Comparison: Express vs. Koa vs. Hapi
+    https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi
 
-Express without template engine
-https://github.com/expressjs/express/issues/2970
+    Blog: 6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)
+    https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
+    Blog: Understanding ES5, ES2015 and TypeScript
+    https://johnpapa.net/es5-es2015-typescript
 
-JavaScript :: Front-end
------------------------
+    Blog: RxJS is great. So why have I moved on?
+    https://medium.com/@puppybits/rxjs-is-great-so-why-have-i-moved-on-534c513e7af3
 
-MathJax
-https://www.mathjax.org
+    Blog: The JavaScript phenomenon is a mass psychosis
+    https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359
 
-Mithril.js
-https://mithril.js.org
-http://lhorie.github.io/mithril-blog/index.html
+    Quora: What should I do to become a JavaScript expert?
+    https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert
 
-Handsontable: JavaScript Spreadsheet
-https://handsontable.com
+    Blog: The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB
+    http://cwbuecheler.com/web/tutorials/2013/node-express-mongo
 
-Intro.js
-https://introjs.com
+    Tutorial: Build a RESTful API using Node and Express 4
+    https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
-The best of JavaScript, HTML and CSS
-https://bestof.js.org
+    Docs: Production best practices: performance and reliability
+    https://expressjs.com/en/advanced/best-practice-performance.html
 
-Javascript Cryptography Considered Harmful
-https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful
+    Github: Express without template engine
+    https://github.com/expressjs/express/issues/2970
 
 
-TypeScript
-----------
 
-Github: TypeScriptSamples
-https://github.com/Microsoft/TypeScriptSamples
 
+    5 Others
+    --------
 
-Database
---------
+    Github: TypeScriptSamples
+    https://github.com/Microsoft/TypeScriptSamples
 
-Quora: Why are relational databases still popular when non-relational databases can give most benefits of relational DB with the flexibility of modifying needs of changing technologies?
-https://www.quora.com/Why-are-relational-databases-still-popular-when-non-relational-databases-can-give-most-benefits-of-relational-DB-with-the-flexibility-of-modifying-needs-of-changing-technologies
+    Quora: What do C/C++ systems programmers think of Rust?
+    https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
+    Quora: How does Rust enforce safety?
+    https://www.quora.com/How-does-Rust-enforce-safety
 
-Database :: RDBMS
------------------
+    Book: Real World Haskell
+    http://book.realworldhaskell.org
 
-Quora: What are pros and cons of PostgreSQL and MySQL? With respect to reliability, speed, scalability, and features.
-https://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL-With-respect-to-reliability-speed-scalability-and-features
+    Reddit: What exactly do companies use Haskell for?
+    https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for
 
-Postgres Guide
-http://postgresguide.com
+    Quora: What do you think about Java?
+    https://www.quora.com/What-do-you-think-about-Java
 
 
-Database :: NoSQL
------------------
 
-NoSQL Data Modeling Techniques
-https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques
 
+    Other Languages
+    ---------------
 
-Database :: Redis
------------------
 
-[분산캐시] Redis 와 memcache의 flush는 왜 다를까?
-https://charsyam.wordpress.com/2012/05/17/%eb%b6%84%ec%82%b0%ec%ba%90%ec%8b%9c-redis-%ec%99%80-memcache%ec%9d%98-flush%eb%8a%94-%ec%99%9c-%eb%8b%a4%eb%a5%bc%ea%b9%8c/
 
 
-Search Engine
--------------
 
-Supermind Consulting
-http://www.supermind.org
+      Haskell
+      -------
 
+      Book: Real World Haskell
+      http://book.realworldhaskell.org
 
-Test-Driven Development
------------------------
+      Reddit: What exactly do companies use Haskell for?
+      https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for
 
-A Gentle Introduction to JavaScript TDD
-https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro
 
-Book: Obey the Testing Goat (TDD with Python)
-http://www.obeythetestinggoat.com
 
 
-Hadoop EcoSystem
-----------------
+      Rust
+      ----
 
-DockerHub: Cloudera/quickstart for Single-Node Deployment
-https://hub.docker.com/r/cloudera/quickstart
+      Quora: What do C/C++ systems programmers think of Rust?
+      https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
-Quora: What is Apache Hadoop?
-https://www.quora.com/What-is-Apache-Hadoop-1
+      Quora: How does Rust enforce safety?
+      https://www.quora.com/How-does-Rust-enforce-safety
 
-What is Hadoop? What is MapReduce? What is NoSQL?
-https://datajobs.com/what-is-hadoop-and-nosql
 
-Quora: How reliable is Spark?
-https://www.quora.com/How-reliable-is-Spark
 
-Quora: What are the biggest pain points with Hadoop? (answer from who works at Cloudera)
-https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
 
-Quora: Is Hadoop dead and is it time to move to Spark?
-https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
+  02 Machine Learning
+  ===================
 
-Quora: Why did Google stop using MapReduce and start encouraging Cloud Dataflow?
-https://www.quora.com/Why-did-Google-stop-using-MapReduce-and-start-encouraging-Cloud-Dataflow
+  Book: The Elements of Statistical Learning
+  https://web.stanford.edu/~hastie/ElemStatLearn
 
-Quora: Is HDFS way behind GFS? If yes, how so?
-https://www.quora.com/Is-HDFS-way-behind-GFS-If-yes-how-so
+  Book: An Introduction to Statistical Learning
+  http://www-bcf.usc.edu/~gareth/ISL
 
-Quora: Is HDFS an append only file system? Then, how do people modify the files stored on HDFS?
-https://www.quora.com/Is-HDFS-an-append-only-file-system-Then-how-do-people-modify-the-files-stored-on-HDFS
+  Quora: What are the best graduate schools for studying machine learning?
+  https://www.quora.com/What-are-the-best-graduate-schools-for-studying-machine-learning
 
+  Reddit: Is a PhD worth it in machine learning?
+  https://www.reddit.com/r/MachineLearning/comments/mu2ly/is_a_phd_worth_it_in_machine_learning
 
-Version Controls
-----------------
+  StackExchange: What are the benefits of getting a PhD in statistics?
+  https://academia.stackexchange.com/questions/11137/what-are-the-benefits-of-getting-a-phd-in-statistics
 
-Tom Preston-Werner, the CoFounder of Github
-http://tom.preston-werner.com
+  Quora: Why should one learn machine learning from scratch rather than just learning to use the available libraries?
+  https://www.quora.com/Why-should-one-learn-machine-learning-from-scratch-rather-than-just-learning-to-use-the-available-libraries
 
-StackExchange: How to revert Git repository to a previous commit?
-https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
+  Quora: What types of machine learning algorithms are used in solving some popular real-world problems?
+  https://www.quora.com/What-types-of-machine-learning-algorithms-are-used-in-solving-some-popular-real-world-problems
 
-Comparing Workflows (Tutorial)
-https://www.atlassian.com/git/tutorials/comparing-workflows
+  Quora: What does AI code look like?
+  https://www.quora.com/What-does-AI-code-look-like
 
-push and delete remote branches
-http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
+  Quora: What is Bayesian inference in statistics? When and how is Bayesian inference used?
+  https://www.quora.com/What-is-Bayesian-inference-in-statistics-When-and-how-is-Bayesian-inference-used
 
-StackExchange: Add all files to a commit except a single file?
-https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
+  Quora: I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
+  https://www.quora.com/I-want-to-pursue-machine-learning-as-a-career-but-not-sure-if-I-am-qualified-How-can-I-test-myself
 
-libgit2: Checkout
-https://ben.straub.cc/2013/04/02/libgit2-checkout
+  Quora: How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry?
+  https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry
 
-StackExchange: git-diff to ignore ^M
-https://stackoverflow.com/questions/1889559/git-diff-to-ignore-m
+  Blog: Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 
+  http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
 
+  Quora: Why don't deep learning researchers and professionals use C or C++ instead of slow language like Python? Will it reduce dependence on GPUs?
+  https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C-or-C++-instead-of-slow-language-like-Python-Will-it-reduce-dependence-on-GPUs
 
-Linux Containers
-----------------
+  Quora: What are your reviews between PyTorch and TensorFlow?
+  https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
 
-Medium: Docker Tutorial — Getting Started with Python, Redis, and Nginx
-https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+  Quora: What are the most "overrated" machine learning models?
+  https://www.quora.com/What-are-the-most-overrated-machine-learning-models
 
-The Docker Ecosystem: An Introduction to Common Components
-https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
+  Quora: What algorithms and techniques (20 to 50) are must-knows for a junior data scientist?
+  https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
 
-Chapter 3. Using systemd With Containers
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
+  Quora: Is Deep Learning fundamentally flawed and hitting a wall? Was Gary Marcus correct in pointing out Deep Learning's flaws?
+  https://www.quora.com/Is-Deep-Learning-fundamentally-flawed-and-hitting-a-wall-Was-Gary-Marcus-correct-in-pointing-out-Deep-Learnings-flaws
 
-10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
-https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
+  Slides: Stanford lecture, Neural Networks & Backprop
+  http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf
 
-Kubernetes? Docker? What is the difference?
-https://blog.containership.io/k8svsdocker
+  StackExchange: Deriving gradient of a single layer neural network w.r.t its inputs, what is the operator in the chain rule?
+  https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-layer-neural-network-w-r-t-its-inputs-what-is-the
 
-Quora: How is Kubernetes (k8s) different from Docker?
-https://www.quora.com/How-is-Kubernetes-k8s-different-from-Docker
+  StackExchange: Convergence of neural network weights (Excellent Know-How)
+  https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-weights
 
+  StackExchange: The cross-entropy error function in neural networks
+  https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
 
-DevOps
-------
+  StackExchange: Why You Should Use Cross-Entropy Error Instead Of Classification Error Or Mean Squared Error For Neural Network Classifier Training
+  https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
 
-Github: DevOps Tools
-https://github.com/collections/devops-tools
 
-A Git Workflow for Continuous Delivery
-https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continuous-delivery
 
-Continuous Delivery를 향한 첫 걸음
-http://www.nextree.co.kr/p3452
 
-GitHub's 'squash and merge' default considered harmful
-https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful
+  03 Mathematics
+  ==============
 
-git: fetch and merge, don’t pull
-https://longair.net/blog/2009/04/16/git-fetch-and-merge
+  StackExchange: How to calculate modulus of large numbers
+  https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-numbers
 
-StackExchange: In what cases could "git pull" be harmful?
-https://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful
+  Quora: What are intuitive explanations for determinants?
+  https://www.quora.com/What-are-intuitive-explanations-for-determinants
 
-Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups
-https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups
+  Quora: How are imaginary numbers useful?
+  https://www.quora.com/How-are-imaginary-numbers-useful
 
+  Quora: Are there any examples of causation without correlation?
+  https://www.quora.com/Are-there-any-examples-of-causation-without-correlation
 
-Big Data
---------
+  Quora: Are the random numbers generated by a program really random?
+  https://www.quora.com/Are-the-random-numbers-generated-by-a-program-really-random
 
-Quora: If you had one month to get a "fluent" level of knowledge in big data, what books and training would you recommend?
-https://www.quora.com/If-you-had-one-month-to-get-a-fluent-level-of-knowledge-in-big-data-what-books-and-training-would-you-recommend
+  Quora: Why is e = 2.718281828459…?
+  https://www.quora.com/Why-is-e-2-718281828459%E2%80%A6
 
-Quora: Why was Hadoop written in Java? Wouldn't it make more sense (performance-wise and KLOC-wise) to write a distributed file system in lower level languages and/or reuse a native file system?
-https://www.quora.com/Why-was-Hadoop-written-in-Java-Wouldnt-it-make-more-sense-performance-wise-and-KLOC-wise-to-write-a-distributed-file-system-in-lower-level-languages-and-or-reuse-a-native-file-system
+  Quora: What would happen to f(x) if you transformed it as y=f(1/x)?
+  https://www.quora.com/What-would-happen-to-f-x-if-you-transformed-it-as-y-f-1-x
 
+  Quora: Education: An Interactive Multimedia Course of Study
+  http://onlinestatbook.com/2/index.html
 
-Machine Learning
-----------------
 
-Book: The Elements of Statistical Learning
-https://web.stanford.edu/~hastie/ElemStatLearn
 
-Book: An Introduction to Statistical Learning
-http://www-bcf.usc.edu/~gareth/ISL
 
-Quora: What are the best graduate schools for studying machine learning?
-https://www.quora.com/What-are-the-best-graduate-schools-for-studying-machine-learning
+  04 Big Data
+  ===========
 
-Reddit: Is a PhD worth it in machine learning?
-https://www.reddit.com/r/MachineLearning/comments/mu2ly/is_a_phd_worth_it_in_machine_learning
+  Quora: If you had one month to get a "fluent" level of knowledge in big data, what books and training would you recommend?
+  https://www.quora.com/If-you-had-one-month-to-get-a-fluent-level-of-knowledge-in-big-data-what-books-and-training-would-you-recommend
 
-StackExchange: What are the benefits of getting a PhD in statistics?
-https://academia.stackexchange.com/questions/11137/what-are-the-benefits-of-getting-a-phd-in-statistics
 
-Quora: Why should one learn machine learning from scratch rather than just learning to use the available libraries?
-https://www.quora.com/Why-should-one-learn-machine-learning-from-scratch-rather-than-just-learning-to-use-the-available-libraries
 
-Quora: What types of machine learning algorithms are used in solving some popular real-world problems?
-https://www.quora.com/What-types-of-machine-learning-algorithms-are-used-in-solving-some-popular-real-world-problems
 
-Quora: What does AI code look like?
-https://www.quora.com/What-does-AI-code-look-like
+    1 Hadoop Ecosystem
+    ------------------
 
-What is Bayesian inference in statistics? When and how is Bayesian inference used?
-https://www.quora.com/What-is-Bayesian-inference-in-statistics-When-and-how-is-Bayesian-inference-used
+    Quora: What is Apache Hadoop?
+    https://www.quora.com/What-is-Apache-Hadoop-1
 
-I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
-https://www.quora.com/I-want-to-pursue-machine-learning-as-a-career-but-not-sure-if-I-am-qualified-How-can-I-test-myself
+    Blog: What is Hadoop? What is MapReduce? What is NoSQL?
+    https://datajobs.com/what-is-hadoop-and-nosql
 
-Quora: How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry?
-https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry
+    Quora: Why was Hadoop written in Java? Wouldn't it make more sense (performance-wise and KLOC-wise) to write a distributed file system in lower level languages and/or reuse a native file system?
+    https://www.quora.com/Why-was-Hadoop-written-in-Java-Wouldnt-it-make-more-sense-performance-wise-and-KLOC-wise-to-write-a-distributed-file-system-in-lower-level-languages-and-or-reuse-a-native-file-system
 
-Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 
-http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html
+    Tutorial: Cloudera/quickstart for Single-Node Deployment
+    https://hub.docker.com/r/cloudera/quickstart
 
-Quora: Why don't deep learning researchers and professionals use C or C++ instead of slow language like Python? Will it reduce dependence on GPUs?
-https://www.quora.com/Why-dont-deep-learning-researchers-and-professionals-use-C-or-C++-instead-of-slow-language-like-Python-Will-it-reduce-dependence-on-GPUs
+    Quora: How reliable is Spark?
+    https://www.quora.com/How-reliable-is-Spark
 
-Quora: What are your reviews between PyTorch and TensorFlow?
-https://www.quora.com/What-are-your-reviews-between-PyTorch-and-TensorFlow
+    Quora: What are the biggest pain points with Hadoop? (answer from who works at Cloudera)
+    https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
 
-Quora: What are the most "overrated" machine learning models?
-https://www.quora.com/What-are-the-most-overrated-machine-learning-models
+    Quora: Is Hadoop dead and is it time to move to Spark?
+    https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
 
-Quora: What algorithms and techniques (20 to 50) are must-knows for a junior data scientist?
-https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
+    Quora: Why did Google stop using MapReduce and start encouraging Cloud Dataflow?
+    https://www.quora.com/Why-did-Google-stop-using-MapReduce-and-start-encouraging-Cloud-Dataflow
 
-Quora: Is Deep Learning fundamentally flawed and hitting a wall? Was Gary Marcus correct in pointing out Deep Learning's flaws?
-https://www.quora.com/Is-Deep-Learning-fundamentally-flawed-and-hitting-a-wall-Was-Gary-Marcus-correct-in-pointing-out-Deep-Learnings-flaws
+    Quora: Is HDFS way behind GFS? If yes, how so?
+    https://www.quora.com/Is-HDFS-way-behind-GFS-If-yes-how-so
 
-Slides: Stanford lecture, Neural Networks & Backprop
-http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf
+    Quora: Is HDFS an append only file system? Then, how do people modify the files stored on HDFS?
+    https://www.quora.com/Is-HDFS-an-append-only-file-system-Then-how-do-people-modify-the-files-stored-on-HDFS
 
-StackExchange: Deriving gradient of a single layer neural network w.r.t its inputs, what is the operator in the chain rule?
-https://stats.stackexchange.com/questions/194078/deriving-gradient-of-a-single-layer-neural-network-w-r-t-its-inputs-what-is-the
 
-StackExchange: Convergence of neural network weights (Excellent Know-How)
-https://stats.stackexchange.com/questions/65877/convergence-of-neural-network-weights
 
-StackExchange: The cross-entropy error function in neural networks
-https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
 
-Why You Should Use Cross-Entropy Error Instead Of Classification Error Or Mean Squared Error For Neural Network Classifier Training
-https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
+    2 Search Engines
+    ----------------
 
+    Site: Supermind Consulting
+    http://www.supermind.org
 
-Mathematics
------------
 
-StackExchange: How to calculate modulus of large numbers
-https://stackoverflow.com/questions/2177781/how-to-calculate-modulus-of-large-numbers
 
-Quora: What are intuitive explanations for determinants?
-https://www.quora.com/What-are-intuitive-explanations-for-determinants
 
-Quora: How are imaginary numbers useful?
-https://www.quora.com/How-are-imaginary-numbers-useful
+  05 Algorithms
+  =============
 
-Quora: Are there any examples of causation without correlation?
-https://www.quora.com/Are-there-any-examples-of-causation-without-correlation
+  Quora: What is a greedy algorithm?
+  https://www.quora.com/What-is-a-greedy-algorithm
 
-Quora: Are the random numbers generated by a program really random?
-https://www.quora.com/Are-the-random-numbers-generated-by-a-program-really-random
+  Blog: Calculating Permutations and Job Interview Questions 
+  http://www.bearcave.com/random_hacks/permute.html
 
-Quora: Why is e = 2.718281828459…?
-https://www.quora.com/Why-is-e-2-718281828459%E2%80%A6
+  StackExchange: Least common multiple for 3 or more numbers
+  https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers
 
-Quora: What would happen to f(x) if you transformed it as y=f(1/x)?
-https://www.quora.com/What-would-happen-to-f-x-if-you-transformed-it-as-y-f-1-x
+  Blog: Tower of Hanoi
+  http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html
 
-Quora: What is a greedy algorithm?
-https://www.quora.com/What-is-a-greedy-algorithm
+  Slides: Dynamic Programming
+  http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 
-Online Statistics Education: An Interactive Multimedia Course of Study
-http://onlinestatbook.com/2/index.html
+  Slides: DP slides
+  http://shuangz.com/download/dp_slides.pdf
 
+  StackExchange: Finding n-th permutation without computing others
+  https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others
 
-GNU/Linux
----------
+  StackExchange: Algorithm for finding numerical permutation given lexicographic index
+  https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index
 
-Suicide Linux
-https://qntm.org/suicide
+  Quora: What book about algorithms is a must read for a programmer?
+  https://www.quora.com/What-book-about-algorithms-is-a-must-read-for-a-programmer
 
-8 Linux Commands to Find out Wireless Network Speed, Signal Strength and other Information
-https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html
+  Quora: What are the top 30 most essential algorithms you must know for competitive programming?
+  https://www.quora.com/What-are-the-top-30-most-essential-algorithms-you-must-know-for-competitive-programming
 
-Editing the Scripts You Already Have
-http://linuxcommand.org/lc3_wss0020.php
+  Quora: How can I be a guru in algorithms? How can I be a real software engineer?
+  https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-software-engineer
 
-Quora: Why doesn't Windows have a swap partition like Linux?
-https://www.quora.com/Why-doesnt-Windows-have-a-swap-partition-like-Linux
+  Quora: How does the algorithm of Google Maps work?
+  https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
 
-Debian vs. Ubuntu: What's the Difference?
-https://www.datamation.com/open-source/debian-vs.-ubuntu.html
+  StackExchange: Sieve of Eratosthenes - Finding Primes Python
+  https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
 
-StackExchange: How to avoid using sudo when working in /var/www?
-https://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www
+  StackExchange: Sum of number of divisors
+  https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
 
-Ubuntu Forums: Creating a dll with MinGW in Linux
-https://ubuntuforums.org/showthread.php?t=2260755
+  StackExchange: What is the best way to get all the divisors of a number?
+  https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
 
-Cross Compile to Windows From Linux
-http://arrayfire.com/cross-compile-to-windows-from-linux
+  Quora: What is the fastest sorting algorithm?
+  https://www.quora.com/What-is-the-fastest-sorting-algorithm
 
-StackExchange: How do I edit an existing buffer in a new tab in vim?
-https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim
+  Quora: How efficient is bubble sort?
+  https://www.quora.com/How-efficient-is-bubble-sort
 
-The 10 Easiest Ways to Keep Ubuntu System Clean
-https://www.fossmint.com/keep-ubuntu-system-clean
+  Quora: What kind of algorithm do elevators use to determine which one will take the next request?
+  https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request
 
-Quora: What is Unix and Linux? Are they co-related?
-https://www.quora.com/What-is-Unix-and-Linux-Are-they-co-related
+  Quora: How do I learn algorithms?
+  https://www.quora.com/How-do-I-learn-algorithms-2
 
-Quora: Why do you use Linux?
-https://www.quora.com/Why-do-you-use-Linux
+  Quora: Why are all the linked lists circular in the Linux Kernel?
+  https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel
 
-Quora: Which Linux OS should I use as a beginner: Ubuntu or Kali Linux, and why?
-https://www.quora.com/Which-Linux-OS-should-I-use-as-a-beginner-Ubuntu-or-Kali-Linux-and-why
+  Quora: How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?
+  https://www.quora.com/How-do-I-strengthen-my-knowledge-of-data-structures-and-algorithms-Both-have-left-me-with-a-fractured-knowledge-of-the-subject-with-lots-of-gaps-in-between-What-would-be-a-good-way-to-go-about-filling-the-gaps-and-making-progress
 
-Bash scripting tutorial
-https://linuxconfig.org/bash-scripting-tutorial
 
-Bash by example
-https://www.ibm.com/developerworks/library/l-bash/index.html
 
-StackExchange: What does "LC_ALL=C" do?
-https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
-Tmux: A Simple Start
-https://www.sitepoint.com/tmux-a-simple-start
+  06 Unix And Gnu Linux
+  =====================
 
-StackExchange: How to reset the terminal properties and preferences?
-https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences
+  Software: Suicide Linux
+  https://qntm.org/suicide
 
-Terminal Velocity – A Command-line Note-taking Application For Linux
-https://www.ostechnix.com/terminal-velocity-command-line-note-taking-application-linux
+  Blog: 8 Linux Commands to Find out Wireless Network Speed, Signal Strength and other Information
+  https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html
 
-Wiki: Z shell
-https://en.wikipedia.org/wiki/Z_shell
+  Blog: Editing the Scripts You Already Have
+  http://linuxcommand.org/lc3_wss0020.php
 
-Fish shell
-https://fishshell.com
+  Quora: Why doesn't Windows have a swap partition like Linux?
+  https://www.quora.com/Why-doesnt-Windows-have-a-swap-partition-like-Linux
 
-StackExchange: How do I scroll in tmux?
-https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
+  Blog: Debian vs. Ubuntu: What's the Difference?
+  https://www.datamation.com/open-source/debian-vs.-ubuntu.html
 
-Shell Scripting Tutorial
-https://www.shellscript.sh
+  StackExchange: How to avoid using sudo when working in /var/www?
+  https://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www
 
-Pass Unix Password Manager
-http://www.tricksofthetrades.net/2015/07/04/notes-pass-unix-password-manager
+  Forum: Creating a dll with MinGW in Linux
+  https://ubuntuforums.org/showthread.php?t=2260755
 
-Quora: Why do so many Linux users prefer the command line to a GUI?
-https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GUI
+  Blog: Cross Compile to Windows From Linux
+  http://arrayfire.com/cross-compile-to-windows-from-linux
 
-Quora: What do you dislike most about Linux?
-https://www.quora.com/What-do-you-dislike-most-about-Linux
+  Blog: The 10 Easiest Ways to Keep Ubuntu System Clean
+  https://www.fossmint.com/keep-ubuntu-system-clean
 
-GPG Cheatsheet
-http://irtfweb.ifa.hawaii.edu/~lockhart/gpg
+  Quora: What is Unix and Linux? Are they co-related?
+  https://www.quora.com/What-is-Unix-and-Linux-Are-they-co-related
 
-How To Open ePub Books In Ubuntu Linux
-https://itsfoss.com/open-epub-books-ubuntu-linux
+  Quora: Why do you use Linux?
+  https://www.quora.com/Why-do-you-use-Linux
 
-UNIX Tutorial for Beginners
-http://www.ee.surrey.ac.uk/Teaching/Unix
+  Quora: Which Linux OS should I use as a beginner: Ubuntu or Kali Linux, and why?
+  https://www.quora.com/Which-Linux-OS-should-I-use-as-a-beginner-Ubuntu-or-Kali-Linux-and-why
 
-bona fide os developer
-http://www.osdever.net/tutorials
+  Tutorial: Bash scripting tutorial
+  https://linuxconfig.org/bash-scripting-tutorial
 
-Linux Torvalds Answers Your Questions
-https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions
+  Blog: Bash by example
+  https://www.ibm.com/developerworks/library/l-bash/index.html
 
-Linus on Understanding Pointers
-https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers
+  StackExchange: What does "LC_ALL=C" do?
+  https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
-Quora: Why is the kernel source code written in C language? Is there any specific reason why the kernel is not implemented in C++?
-https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-there-any-specific-reason-why-the-kernel-is-not-implemented-in-C++
+  Wiki: Z shell
+  https://en.wikipedia.org/wiki/Z_shell
 
-Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?
-https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C
+  Software: Fish shell
+  https://fishshell.com
 
-UEFI boot: how does that actually work, then?
-https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then
+  Tutorial: Shell Scripting Tutorial
+  https://www.shellscript.sh
 
-Check BIOS, UEFI, motherboard info in Linux
-https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
+  Quora: Why do so many Linux users prefer the command line to a GUI?
+  https://www.quora.com/Why-do-so-many-Linux-users-prefer-the-command-line-to-a-GUI
 
-Plan 9 from Bell Labs
-http://9p.io/plan9
+  Quora: What do you dislike most about Linux?
+  https://www.quora.com/What-do-you-dislike-most-about-Linux
 
-Reddit: Why did ArchLinux embrace Systemd?
-https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd
+  Tutorial: GPG Cheatsheet
+  http://irtfweb.ifa.hawaii.edu/~lockhart/gpg
 
-Configuring your login sessions with dot files
-http://mywiki.wooledge.org/DotFiles
+  Tutorial: UNIX Tutorial for Beginners
+  http://www.ee.surrey.ac.uk/Teaching/Unix
 
-Docker Considered Harmful
-http://catern.com/posts/docker.html
+  Site: bona fide os developer
+  http://www.osdever.net/tutorials
 
-HOWTO: Use `xwd` for screenshots
-https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
+  Blog: Linux Torvalds Answers Your Questions
+  https://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions
 
-StackExchange: What do the numbers in a man page mean?
-https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
+  Blog: Linus on Understanding Pointers
+  https://grisha.org/blog/2013/04/02/linus-on-understanding-pointers
 
-StackExchange: What does "LC_ALL=C" do?
-https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
+  Quora: Why is the kernel source code written in C language? Is there any specific reason why the kernel is not implemented in C++?
+  https://www.quora.com/Why-is-the-kernel-source-code-written-in-C-language-Is-there-any-specific-reason-why-the-kernel-is-not-implemented-in-C++
 
-StackExchange: Why can't tar extract .zip files?
-https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
+  Quora: Why does it seem that Unix is written in C and not written with any C++? Isn’t C++ more powerful than C?
+  https://www.quora.com/Why-does-it-seem-that-Unix-is-written-in-C-and-not-written-with-any-C++-Isn%E2%80%99t-C++-more-powerful-than-C
 
-StackExchange: What is the reason for performing a double fork when creating a daemon?
-https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
+  Blog: UEFI boot: how does that actually work, then?
+  https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then
 
-Broken by Design - Systemd
-https://ewontfix.com/14
+  Blog: Check BIOS, UEFI, motherboard info in Linux
+  https://www.pcsuggest.com/check-bios-uefi-motherboard-info-in-linux
 
-The Biggest Myths (Explanation of systemd)
-http://0pointer.de/blog/projects/the-biggest-myths.html
+  Reddit: Why did ArchLinux embrace Systemd?
+  https://www.reddit.com/r/archlinux/comments/4lzxs3/why_did_archlinux_embrace_systemd
 
-StackExchange: Please explain the parameters 'noexpose' and 'cycle' in xset
-https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset
+  Blog: Configuring your login sessions with dot files
+  http://mywiki.wooledge.org/DotFiles
 
-Quora: How are drivers for a computer written?
-https://www.quora.com/How-are-drivers-for-a-computer-written
+  StackExchange: What do the numbers in a man page mean?
+  https://unix.stackexchange.com/questions/3586/what-do-the-numbers-in-a-man-page-mean
 
-Surf Demystified
-http://troubleshooters.com/linux/surf.htm
+  StackExchange: What does "LC_ALL=C" do?
+  https://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do
 
-Harmful stuff
-http://harmful.cat-v.org/software
+  StackExchange: Why can't tar extract .zip files?
+  https://unix.stackexchange.com/questions/146206/why-cant-tar-extract-zip-files
 
-The Homely mutt
-http://stevelosh.com/blog/2012/10/the-homely-mutt
+  StackExchange: What is the reason for performing a double fork when creating a daemon?
+  https://stackoverflow.com/questions/881388/what-is-the-reason-for-performing-a-double-fork-when-creating-a-daemon
 
-StackExchange: How do I split a string on a delimiter in Bash?
-https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
+  Blog: Broken by Design - Systemd
+  https://ewontfix.com/14
 
-Quora: Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?
-https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit
+  Blog: The Biggest Myths (Explanation of systemd)
+  http://0pointer.de/blog/projects/the-biggest-myths.html
 
+  StackExchange: Please explain the parameters 'noexpose' and 'cycle' in xset
+  https://askubuntu.com/questions/509507/please-explain-the-parameters-noexpose-and-cycle-in-xset
 
-Algorithms
-----------
+  Quora: How are drivers for a computer written?
+  https://www.quora.com/How-are-drivers-for-a-computer-written
 
-Calculating Permutations and Job Interview Questions 
-http://www.bearcave.com/random_hacks/permute.html
+  Site: Harmful stuff
+  http://harmful.cat-v.org/software
 
-StackExchange: Least common multiple for 3 or more numbers
-https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers
+  StackExchange: How do I split a string on a delimiter in Bash?
+  https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
 
-Tower of Hanoi
-http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html
+  Quora: Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?
+  https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit
 
-Slides: Dynamic Programming
-http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
-http://shuangz.com/download/dp_slides.pdf
 
-StackExchange: Finding n-th permutation without computing others
-https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others
 
-StackExchange: Algorithm for finding numerical permutation given lexicographic index
-https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index
 
-Quora: What book about algorithms is a must read for a programmer?
-https://www.quora.com/What-book-about-algorithms-is-a-must-read-for-a-programmer
+    1 Linux Containers
+    ------------------
 
-Quora: What are the top 30 most essential algorithms you must know for competitive programming?
-https://www.quora.com/What-are-the-top-30-most-essential-algorithms-you-must-know-for-competitive-programming
+    Blog: Docker Considered Harmful
+    http://catern.com/posts/docker.html
 
-Quora: How can I be a guru in algorithms? How can I be a real software engineer?
-https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-software-engineer
+    Blog: Docker Tutorial — Getting Started with Python, Redis, and Nginx
+    https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
 
-Quora: How does the algorithm of Google Maps work?
-https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
+    Tutorial: The Docker Ecosystem: An Introduction to Common Components
+    https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
 
-StackExchange: Sieve of Eratosthenes - Finding Primes Python
-https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
+    Docs: Chapter 3. Using systemd With Containers
+    https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/using_systemd_with_containers
 
-StackExchange: Sum of number of divisors
-https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
+    Blog: 10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy
+    https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy
 
-StackExchange: What is the best way to get all the divisors of a number?
-https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
+    Blog: Kubernetes? Docker? What is the difference?
+    https://blog.containership.io/k8svsdocker
 
-Quora: What is the fastest sorting algorithm?
-https://www.quora.com/What-is-the-fastest-sorting-algorithm
+    Quora: How is Kubernetes (k8s) different from Docker?
+    https://www.quora.com/How-is-Kubernetes-k8s-different-from-Docker
 
-Quora: How efficient is bubble sort?
-https://www.quora.com/How-efficient-is-bubble-sort
+    Blog: How To Install Vim 8.0 On Ubuntu 16.04
+    https://itsfoss.com/vim-8-release-install
 
-Quora: What kind of algorithm do elevators use to determine which one will take the next request?
-https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request
+    Tutorial: Learn Vimscript the Hard Way
+    http://learnvimscriptthehardway.stevelosh.com
 
-Quora: How do I learn algorithms?
-https://www.quora.com/How-do-I-learn-algorithms-2
+    StackExchange: What is the difference between the vim plugin managers?
+    https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
 
-Quora: Why are all the linked lists circular in the Linux Kernel?
-https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel
+    Tutorial: Vim tips and tricks
+    https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
 
-Quora: How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?
-https://www.quora.com/How-do-I-strengthen-my-knowledge-of-data-structures-and-algorithms-Both-have-left-me-with-a-fractured-knowledge-of-the-subject-with-lots-of-gaps-in-between-What-would-be-a-good-way-to-go-about-filling-the-gaps-and-making-progress
+    StackExchange: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
+    https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
 
+    Blog: Use Vim as a Python IDE
+    http://liuchengxu.org/posts/use-vim-as-a-python-ide
 
-Web Technology
---------------
+    Blog: VIM and Python - a Match Made in Heaven
+    https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
 
-Fuck the Cloud
-http://ascii.textfiles.com/archives/1717
+    Blog: Turning Vim into a modern Python IDE
+    https://web.archive.org/web/20151210012212/http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html
 
-Google: Oauth2
-https://developers.google.com/api-client-library/python/guide/aaa_oauth
+    Blog: VIM as Python IDE
+    http://200ok.ch/posts/vim-as-python-ide.html
 
-Google: Tech Dev Guide
-https://techdevguide.withgoogle.com
+    Blog: vim-dispatch: I should have used this years ago 
+    http://tilvim.com/2014/03/13/dispatch.html
 
-Handling long Web Requests with Asynchronous Request Processing
-http://www.codemag.com/article/0102091
+    Blog: tmux and vim: My workflow and some favorite plugins
+    http://meirkriheli.com/talks/tmux-vim/index.html
 
-YouTube Architecture
-http://highscalability.com/blog/2008/3/12/youtube-architecture.html
+    Blog: Vim-R-Tmux: An Integrated Working Environment for R 
+    http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
 
-Stream Updates with Server-Sent Events
-https://www.html5rocks.com/en/tutorials/eventsource/basics
+    Reddit: Vim as an R IDE, is it possible?
+    https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible
 
-Medium: Python and Server-sent Event
-https://medium.com/code-zen/python-generator-and-html-server-sent-events-3cdf14140e56
+    StackExchange: pycharm running wayyyy slow
+    https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow
 
-StackExchange: Job processing via web application: real-time status updates and backend messaging
-https://stackoverflow.com/questions/12733985/job-processing-via-web-application-real-time-status-updates-and-backend-messagi
+    StackExchange: PyCharm integrated debugger slows down application
+    https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application
 
-StackExchange: Where should I make heavy computations ? Client or server side?
-https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
+    Tutorial: A Byte of Vim
+    https://vim.swaroopch.com
 
-TutorialsPoint: Unix Socket Tutorial
-https://www.tutorialspoint.com/unix_sockets/index.htm
+    Reddit: I am Tim Pope, crafter of plugins. AMA.
+    https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
 
-Quora: How would you build a website that uses machine learning (what frameworks for frontend and backend, Python or R)?
-https://www.quora.com/How-would-you-build-a-website-that-uses-machine-learning-what-frameworks-for-frontend-and-backend-Python-or-R
+    StackExchange: Using Vim's tabs like buffers
+    https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
 
-Why French Search Engine Qwant Thinks It Can Beat Google
-https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant-thinks-it-can-beat-google
+    StackExchange: How to navigate in large project in VIM
+    https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
 
-Quora: What will be the next big thing programmers should start learning? (Web Assemply!)
-https://www.quora.com/What-will-be-the-next-big-thing-programmers-should-start-learning
+    Reddit: How do you guys use Vim effectively for large projects?
+    https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large
 
-Quora: Is GraphQL a REST killer?
-https://www.quora.com/Is-GraphQL-a-REST-killer
+    Reddit: Newvie Vim user need help setting up ale
+    https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale
 
+    Site: Nova Color Scheme for almost everything
+    https://trevordmiller.com/projects/nova
 
-Editors
--------
+    StackExchange: How to ap Alt key?
+    https://stackoverflow.com/questions/1506764/how-to-map-ctrla-and-ctrlshifta-differently
 
-How To Install Vim 8.0 On Ubuntu 16.04
-https://itsfoss.com/vim-8-release-install
 
-Learn Vimscript the Hard Way
-http://learnvimscriptthehardway.stevelosh.com
 
-StackExchange: What is the difference between the vim plugin managers?
-https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers
 
-Vim tips and tricks
-https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
+    2 Softwares
+    -----------
 
-StackExchange: Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap
-https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st
+    StackExchange: How do I edit an existing buffer in a new tab in vim?
+    https://superuser.com/questions/66179/how-do-i-edit-an-existing-buffer-in-a-new-tab-in-vim
 
-Use Vim as a Python IDE
-http://liuchengxu.org/posts/use-vim-as-a-python-ide
+    Tutorial: Tmux: A Simple Start
+    https://www.sitepoint.com/tmux-a-simple-start
 
-VIM and Python - a Match Made in Heaven
-https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
+    Quora: :Terminal Velocity – A Command-line Note-taking Application For Linux
+    https://www.ostechnix.com/terminal-velocity-command-line-note-taking-application-linux
 
-Turning Vim into a modern Python IDE
-https://web.archive.org/web/20151210012212/http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html
+    StackExchange: How do I scroll in tmux?
+    https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
 
-VIM as Python IDE
-http://200ok.ch/posts/vim-as-python-ide.html
+    Blog: Pass Unix Password Manager
+    http://www.tricksofthetrades.net/2015/07/04/notes-pass-unix-password-manager
 
-vim-dispatch: I should have used this years ago 
-http://tilvim.com/2014/03/13/dispatch.html
+    StackExchange: How to reset the terminal properties and preferences?
+    https://askubuntu.com/questions/14487/how-to-reset-the-terminal-properties-and-preferences
 
-tmux and vim: My workflow and some favorite plugins
-http://meirkriheli.com/talks/tmux-vim/index.html
+    Blog: How To Open ePub Books In Ubuntu Linux
+    https://itsfoss.com/open-epub-books-ubuntu-linux
 
-An alternative to minibufexplorer (vim)?
-https://stackoverflow.com/questions/4865132/an-alternative-to-minibufexplorer-vim
+    Software: Plan 9 from Bell Labs
+    http://9p.io/plan9
 
-Tmux and Vim - even better together
-https://blog.bugsnag.com/tmux-and-vim
+    Blog: HOWTO: Use `xwd` for screenshots
+    https://inspirated.com/2007/04/02/howto-use-xwd-for-screenshots
 
-Tmux and Vim: the perfect combination 
-http://tilvim.com/2014/07/30/tmux-and-vim.html
+    Tutorial: Surf Demystified
+    http://troubleshooters.com/linux/surf.htm
 
-Vim-R-Tmux: An Integrated Working Environment for R 
-http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
+    Blog: The Homely mutt
+    http://stevelosh.com/blog/2012/10/the-homely-mutt
 
-Reddit: Vim as an R IDE, is it possible?
-https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible
 
-StackExchange: pycharm running wayyyy slow
-https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow
 
-StackExchange: PyCharm integrated debugger slows down application
-https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application
 
-A Byte of Vim
-https://vim.swaroopch.com
+  07 Databases
+  ============
 
-Reddit: I am Tim Pope, crafter of plugins. AMA.
-https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama
+  Quora: Why are relational databases still popular when non-relational databases can give most benefits of relational DB with the flexibility of modifying needs of changing technologies?
+  https://www.quora.com/Why-are-relational-databases-still-popular-when-non-relational-databases-can-give-most-benefits-of-relational-DB-with-the-flexibility-of-modifying-needs-of-changing-technologies
 
-StackExchange: Using Vim's tabs like buffers
-https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+  Blog: 분산캐시] Redis 와 memcache의 flush는 왜 다를까?
+  https://charsyam.wordpress.com/2012/05/17/%eb%b6%84%ec%82%b0%ec%ba%90%ec%8b%9c-redis-%ec%99%80-memcache%ec%9d%98-flush%eb%8a%94-%ec%99%9c-%eb%8b%a4%eb%a5%bc%ea%b9%8c/
 
-StackExchange: How to navigate in large project in VIM
-https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
 
-Reddit: How do you guys use Vim effectively for large projects?
-https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large
 
-Reddit: Newvie Vim user need help setting up ale
-https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale
 
-Nova Color Scheme for almost everything
-https://trevordmiller.com/projects/nova
+    1 Rdbms
+    -------
 
-StackExchange: How to ap Alt key?
-https://stackoverflow.com/questions/1506764/how-to-map-ctrla-and-ctrlshifta-differently
+    Quora: What are pros and cons of PostgreSQL and MySQL? With respect to reliability, speed, scalability, and features.
+    https://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL-With-respect-to-reliability-speed-scalability-and-features
 
+    Docs: Postgres Guide
+    http://postgresguide.com
 
-CSS
----
 
-Color Blender
-http://meyerweb.com/eric/tools/color-blend
 
-Cross-browser Vertical & Horizontal Centering
-http://emergentweb.com/test/valign.html
 
+    2 Nosql
+    -------
 
-Developers' Life
-----------------
+    Blog: NoSQL Data Modeling Techniques
+    https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques
 
-Reflections of an 'Old Programmer'
-http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php
 
-The Key to Accelerate Your Coding Skiils
-http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant
 
-Quora: What's the most important lesson you've learned as a software engineer?
-https://www.quora.com/Whats-the-most-important-lesson-youve-learned-as-a-software-engineer
 
-Ebook Library
-http://b-ok.org
+  08 Web Technology
+  =================
 
-Quora: What is expected of a junior (back-end) web developer?
-https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer
+  Blog: Fuck the Cloud
+  http://ascii.textfiles.com/archives/1717
 
-Quora: What are some of the most basic things every programmer should know?
-https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know
+  Tutorial: Google: Oauth2
+  https://developers.google.com/api-client-library/python/guide/aaa_oauth
 
-Quora: Do the best programmers use the fewest lines of code, as is consistent with my experience?
-https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is-consistent-with-my-experience
+  Docs: Tech Dev Guide
+  https://techdevguide.withgoogle.com
 
-Quora: What little habits made you a better software engineer?
-https://www.quora.com/What-little-habits-made-you-a-better-software-engineer
+  Blog: Handling long Web Requests with Asynchronous Request Processing
+  http://www.codemag.com/article/0102091
 
-Quora: Why are most famous programmers C programmers?
-https://www.quora.com/Why-are-most-famous-programmers-C-programmers
+  Blog: YouTube Architecture
+  http://highscalability.com/blog/2008/3/12/youtube-architecture.html
 
-Quora: What are the 7 deadly sins of programming?
-https://www.quora.com/What-are-the-7-deadly-sins-of-programming
+  Tutorial: Stream Updates with Server-Sent Events
+  https://www.html5rocks.com/en/tutorials/eventsource/basics
 
-GPL·AGPL·MPL…한눈에 보는 오픈소스SW 라이선스
-http://www.bloter.net/archives/209318
+  Blog: Python and Server-sent Event
+  https://medium.com/code-zen/python-generator-and-html-server-sent-events-3cdf14140e56
 
-Choosing a License
-http://docs.python-guide.org/en/latest/writing/license
+  StackExchange: Job processing via web application: real-time status updates and backend messaging
+  https://stackoverflow.com/questions/12733985/job-processing-via-web-application-real-time-status-updates-and-backend-messagi
 
-Quora: What does it take to become really good at programming?
-https://www.quora.com/What-does-it-take-to-become-really-good-at-programming
+  StackExchange: Where should I make heavy computations? Client or server side?
+  https://stackoverflow.com/questions/22760837/where-should-i-make-heavy-computations-client-or-server-side
 
-Quora: What little habits made you a better data scientist?
-https://www.quora.com/What-little-habits-made-you-a-better-data-scientist
+  Tutorial: Unix Socket Tutorial
+  https://www.tutorialspoint.com/unix_sockets/index.htm
 
-Quora: Are you a self-made data scientist? How did you do it?
-https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it
+  Quora: How would you build a website that uses machine learning (what frameworks for frontend and backend, Python or R)?
+  https://www.quora.com/How-would-you-build-a-website-that-uses-machine-learning-what-frameworks-for-frontend-and-backend-Python-or-R
 
-Reddit: 1000+ Beginner Programming Projects
-https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost
+  Blog: Why French Search Engine Qwant Thinks It Can Beat Google
+  https://motherboard.vice.com/en_us/article/vv78va/why-french-search-engine-qwant-thinks-it-can-beat-google
 
-Medium: How the NSA identified Satoshi Nakamoto
-https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595
+  Quora: What will be the next big thing programmers should start learning? (Web Assemply!)
+  https://www.quora.com/What-will-be-the-next-big-thing-programmers-should-start-learning
 
-Quora: What is the most life changing book you've ever read?
-https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
+  Quora: Is GraphQL a REST killer?
+  https://www.quora.com/Is-GraphQL-a-REST-killer
 
-Quora: How can a software programmer work till he/she is seventy years old?
-https://www.quora.com/How-can-a-software-programmer-work-till-he-she-is-seventy-years-old
 
 
-Blogs & Sites
--------------
 
-Welcome to Bjarne Stroustrup's homepage!
-http://www.stroustrup.com/index.html
+  09 Devops
+  =========
 
-Rasmus Andersson
-https://rsms.me/about/spotify
+  Github: DevOps Tools
+  https://github.com/collections/devops-tools
 
-arp242
-https://arp242.net
+  Blog: MS: A Git Workflow for Continuous Delivery
+  https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continuous-delivery
 
-Code Without Rules
-https://codewithoutrules.com
+  Blog: Continuous Delivery를 향한 첫 걸음
+  http://www.nextree.co.kr/p3452
 
-zx2c4
-https://www.zx2c4.com
+  Blog: Here’s How Spotify Scales Up And Stays Agile: It Runs ‘Squads’ Like Lean Startups
+  https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups
 
-Tom Ryder
-https://sanctum.geek.nz
 
-division by zero
-https://2f30.org
 
-suckless softwares
-https://suckless.org
 
-research!rsc
-https://research.swtch.com
+    1 Version Controls
+    ------------------
 
-cat -v (deals with all that sucks beyond programming)
-http://cat-v.org
+    Blog: GitHub's 'squash and merge' default considered harmful
+    https://strugee.net/blog/2016/10/github-squash-and-merge-default-considered-harmful
 
-Joel on Software (Cofounder of Trello, CEO of StackOverflow)
-https://www.joelonsoftware.com
+    Blog: fetch and merge, don’t pull
+    https://longair.net/blog/2009/04/16/git-fetch-and-merge
 
-sebastianraschka: an expert on machine learning
-https://sebastianraschka.com
+    StackExchange: In what cases could "git pull" be harmful?
+    https://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful
 
-Eli Bendersky's website: a Googler
-https://eli.thegreenplace.net
+    Site: Tom Preston-Werner, the CoFounder of Github
+    http://tom.preston-werner.com
 
+    StackExchange: How to revert Git repository to a previous commit?
+    https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit
 
-YouTube Channels
-----------------
+    Tutorial: Comparing Workflows
+    https://www.atlassian.com/git/tutorials/comparing-workflows
 
-Bryan Lunduke
-https://www.youtube.com/user/BryanLunduke
+    Blog: push and delete remote branches
+    http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
 
-Kai Hendry
-https://www.youtube.com/user/kaihendry
+    StackExchange: Add all files to a commit except a single file?
+    https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
 
-Stefan Mischook
-https://www.youtube.com/user/killerphp
+    Blog: libgit2: Checkout
+    https://ben.straub.cc/2013/04/02/libgit2-checkout
 
-Irishluck Linux
-https://www.youtube.com/user/LDCNow
+    StackExchange: git-diff to ignore ^M
+    https://stackoverflow.com/questions/1889559/git-diff-to-ignore-m
 
-quidsup: Reviews on Linux
-https://www.youtube.com/user/quidsup
 
-FLOSS Weekly
-https://www.youtube.com/user/TWiTFLOSS
 
-Angry Teach on Gentoo Linux
-https://www.youtube.com/user/MrAngryTeach
 
+    2 Test Driven Development
+    -------------------------
 
-Interviews
-----------
+    Book: Obey the Testing Goat (TDD with Python)
+    http://www.obeythetestinggoat.com
 
-Quora: For Google and Facebook interviews, is it important to memorize the sorting algorithms?
-https://www.quora.com/For-Google-and-Facebook-interviews-is-it-important-to-memorize-the-sorting-algorithms
+    Blog: A Gentle Introduction to JavaScript TDD
+    https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro
 
-What are five problems every programmer should be able to answer?
-https://www.quora.com/What-are-five-problems-every-programmer-should-be-able-to-answer
 
-You must interview 10 people for a C++ position. What 5 very difficult questions would you ask?
-https://www.quora.com/You-must-interview-10-people-for-a-C++-position-What-5-very-difficult-questions-would-you-ask
 
-네이버 면접 시 듣게 되는 40가지 질문
-http://www.bloter.net/archives/245110
 
-카카오 면접 시 듣게 되는 70가지 질문
-http://www.bloter.net/archives/245529
+  10 Frontend
+  ===========
 
-데이터 사이언티스트 - 지원서 겸 체크리스트 (넘버웍스 하용호 대표)
-http://blog.naver.com/PostView.nhn?blogId=eleapple79&logNo=220674845506
 
-기획자·마케터가 알아둘 데이터과학 원칙 6가지
-https://www.bloter.net/archives/242233
 
-Quora: Can your work on GitHub actually make your resume worse?
-https://www.quora.com/Can-your-work-on-GitHub-actually-make-your-resume-worse
 
-Quora: How can I build a data science portfolio without job experience?
-https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-experience
 
-Technical Interview Performance by Editor/OS/Language
-https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language
+    1 Javascript
+    ------------
 
-Quora: How do I prepare for Data Engineer jobs at Amazon/Google/Facebook/Quora?
-https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-Facebook-Quora
+    Library: MathJax
+    https://www.mathjax.org
 
-Quora: After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?
-https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do
+    Library: Mithril.js
+    https://mithril.js.org
 
-Quora: What are some of the questions asked in Google interviews?
-https://www.quora.com/What-are-some-of-the-questions-asked-in-Google-interviews
+    Library: Handsontable: JavaScript Spreadsheet
+    https://handsontable.com
 
-Quora: In C++, even small code snippets can be implemented in many ways. How do you decide which one to choose, particularly in a coding interview?
-https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many-ways-How-do-you-decide-which-one-to-choose-particularly-in-a-coding-interview
+    Library: Intro.js
+    https://introjs.com
 
-Quora: There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?
-https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming
+    Site: The best of JavaScript, HTML and CSS
+    https://bestof.js.org
 
-Quora: Can a person use functional programming (FP) languages for Google interviews? How?
-https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How
+    Blog: Javascript Cryptography Considered Harmful
+    https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful
 
-Quora: What is the hardest thing about hiring programmers?
-https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers
 
 
-ETC
----
 
-Medium: A Quantum Leap for the Web
-https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
+    2 Css
+    -----
 
-Quora: Is Bitcoin in a boom or a bubble, and will we ever find out who Satoshi Nakamoto is?
-https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out-who-Satoshi-Nakamoto-is
+    Site: Color Blender
+    http://meyerweb.com/eric/tools/color-blend
 
-Microsoft DOS V1.1 and V2.0
-http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msdos-v1-1-v2-0
+    Blog: Cross-browser Vertical & Horizontal Centering
+    http://emergentweb.com/test/valign.html
 
-Indexing Google's Source Code
-http://piaw.blogspot.kr/2015/09/indexing-googles-source-code.html
+
+
+
+  11 Developers' Nest
+  ===================
+
+  Site: Welcome to Bjarne Stroustrup's homepage!
+  http://www.stroustrup.com/index.html
+
+  Blog: Rasmus Andersson
+  https://rsms.me/about/spotify
+
+  Blog: arp242
+  https://arp242.net
+
+  Blog: Code Without Rules
+  https://codewithoutrules.com
+
+  Site: zx2c4
+  https://www.zx2c4.com
+
+  Blog: Tom Ryder
+  https://sanctum.geek.nz
+
+  Blog: division by zero
+  https://2f30.org
+
+  Site: suckless softwares
+  https://suckless.org
+
+  Blog: research!rsc
+  https://research.swtch.com
+
+  Site: cat -v (deals with all that sucks beyond programming)
+  http://cat-v.org
+
+  Blog: Joel on Software (Cofounder of Trello, CEO of StackOverflow)
+  https://www.joelonsoftware.com
+
+  Blog: sebastianraschka: an expert on machine learning
+  https://sebastianraschka.com
+
+  Quora: Eli Bendersky's website
+  https://eli.thegreenplace.net
+
+
+
+
+    1 Youtube Channels
+    ------------------
+
+    YouTube: Bryan Lunduke
+    https://www.youtube.com/user/BryanLunduke
+
+    YouTube: Kai Hendry
+    https://www.youtube.com/user/kaihendry
+
+    YouTube: Stefan Mischook
+    https://www.youtube.com/user/killerphp
+
+    YouTube: Irishluck Linux
+    https://www.youtube.com/user/LDCNow
+
+    YouTube: quidsup: Reviews on Linux
+    https://www.youtube.com/user/quidsup
+
+    YouTube: FLOSS Weekly
+    https://www.youtube.com/user/TWiTFLOSS
+
+    YouTube: Angry Teach on Gentoo Linux
+    https://www.youtube.com/user/MrAngryTeach
+
+
+
+
+  12 Job And Career
+  =================
+
+  Blog: Reflections of an 'Old Programmer'
+  http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php
+
+  Blog: The Key to Accelerate Your Coding Skiils
+  http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant
+
+  Quora: What's the most important lesson you've learned as a software engineer?
+  https://www.quora.com/Whats-the-most-important-lesson-youve-learned-as-a-software-engineer
+
+  Quora: What is expected of a junior (back-end) web developer?
+  https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer
+
+  Quora: What are some of the most basic things every programmer should know?
+  https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know
+
+  Quora: Do the best programmers use the fewest lines of code, as is consistent with my experience?
+  https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is-consistent-with-my-experience
+
+  Quora: What little habits made you a better software engineer?
+  https://www.quora.com/What-little-habits-made-you-a-better-software-engineer
+
+  Quora: Why are most famous programmers C programmers?
+  https://www.quora.com/Why-are-most-famous-programmers-C-programmers
+
+  Quora: What are the 7 deadly sins of programming?
+  https://www.quora.com/What-are-the-7-deadly-sins-of-programming
+
+  Quora: What does it take to become really good at programming?
+  https://www.quora.com/What-does-it-take-to-become-really-good-at-programming
+
+  Quora: What little habits made you a better data scientist?
+  https://www.quora.com/What-little-habits-made-you-a-better-data-scientist
+
+  Quora: Are you a self-made data scientist? How did you do it?
+  https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it
+
+  Reddit: 1000+ Beginner Programming Projects
+  https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost
+
+  Quora: How can a software programmer work till he/she is seventy years old?
+  https://www.quora.com/How-can-a-software-programmer-work-till-he-she-is-seventy-years-old
+
+
+
+
+    1 Interviews
+    ------------
+
+    Quora: For Google and Facebook interviews, is it important to memorize the sorting algorithms?
+    https://www.quora.com/For-Google-and-Facebook-interviews-is-it-important-to-memorize-the-sorting-algorithms
+
+    Quora: What are five problems every programmer should be able to answer?
+    https://www.quora.com/What-are-five-problems-every-programmer-should-be-able-to-answer
+
+    Quora: You must interview 10 people for a C++ position. What 5 very difficult questions would you ask?
+    https://www.quora.com/You-must-interview-10-people-for-a-C++-position-What-5-very-difficult-questions-would-you-ask
+
+    Blog: 네이버 면접 시 듣게 되는 40가지 질문
+    http://www.bloter.net/archives/245110
+
+    Blog: 카카오 면접 시 듣게 되는 70가지 질문
+    http://www.bloter.net/archives/245529
+
+    Blog: 데이터 사이언티스트 - 지원서 겸 체크리스트 (넘버웍스 하용호 대표)
+    http://blog.naver.com/PostView.nhn?blogId=eleapple79&logNo=220674845506
+
+    Blog: 기획자·마케터가 알아둘 데이터과학 원칙 6가지
+    https://www.bloter.net/archives/242233
+
+    Quora: Can your work on GitHub actually make your resume worse?
+    https://www.quora.com/Can-your-work-on-GitHub-actually-make-your-resume-worse
+
+    Quora: How can I build a data science portfolio without job experience?
+    https://www.quora.com/How-can-I-build-a-data-science-portfolio-without-job-experience
+
+    Blog: Technical Interview Performance by Editor/OS/Language
+    https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language
+
+    Quora: How do I prepare for Data Engineer jobs at Amazon/Google/Facebook/Quora?
+    https://www.quora.com/How-do-I-prepare-for-Data-Engineer-jobs-at-Amazon-Google-Facebook-Quora
+
+    Quora: After practicing algorithms questions on LeetCode and HackerRank for 13 hours a day for 8 months, I still can’t pass any interviews. What’s wrong with my method, and what should I do?
+    https://www.quora.com/After-practicing-algorithms-questions-on-LeetCode-and-HackerRank-for-13-hours-a-day-for-8-months-I-still-can%E2%80%99t-pass-any-interviews-What%E2%80%99s-wrong-with-my-method-and-what-should-I-do
+
+    Quora: What are some of the questions asked in Google interviews?
+    https://www.quora.com/What-are-some-of-the-questions-asked-in-Google-interviews
+
+    Quora: In C++, even small code snippets can be implemented in many ways. How do you decide which one to choose, particularly in a coding interview?
+    https://www.quora.com/In-C++-even-small-code-snippets-can-be-implemented-in-many-ways-How-do-you-decide-which-one-to-choose-particularly-in-a-coding-interview
+
+    Quora: There are so many programming languages and it makes me kind of depressed that I only know how to write code on a few of them. Do top programmers who work at Google, Facebook, Amazon, etc. know everything on programming?
+    https://www.quora.com/There-are-so-many-programming-languages-and-it-makes-me-kind-of-depressed-that-I-only-know-how-to-write-code-on-a-few-of-them-Do-top-programmers-who-work-at-Google-Facebook-Amazon-etc-know-everything-on-programming
+
+    Quora: Can a person use functional programming (FP) languages for Google interviews? How?
+    https://www.quora.com/Can-a-person-use-functional-programming-FP-languages-for-Google-interviews-How
+
+    Quora: What is the hardest thing about hiring programmers?
+    https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers
+
+
+
+
+  13 Etc
+  ======
+
+  Site: Ebook Library
+  http://b-ok.org
+
+  Blog: GPL·AGPL·MPL…한눈에 보는 오픈소스SW 라이선스
+  http://www.bloter.net/archives/209318
+
+  Blog: Choosing a License
+  http://docs.python-guide.org/en/latest/writing/license
+
+  Blog: How the NSA identified Satoshi Nakamoto
+  https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595
+
+  Blog: What is the most life changing book you've ever read?
+  https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
+
+  Blog: A Quantum Leap for the Web
+  https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
+
+  Quora: Is Bitcoin in a boom or a bubble, and will we ever find out who Satoshi Nakamoto is?
+  https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out-who-Satoshi-Nakamoto-is
+
+  Software: Microsoft DOS V1.1 and V2.0
+  http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msdos-v1-1-v2-0
+
+  Blog: Indexing Google's Source Code
+  http://piaw.blogspot.com/2015/09/indexing-googles-source-code.html
+
+

@@ -1,0 +1,87 @@
+[
+	{
+		"group": "Software",
+		"title": "NVM, Node Version Manager",
+		"link": "https://github.com/creationix/nvm"
+	},
+	{
+		"group": "Library",
+		"title": "Passport: Simple, unobtrusive authentication for Node.js",
+		"link": "http://www.passportjs.org"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Authenticate a Node.js API with JSON Web Tokens",
+		"link": "https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens"
+	},
+	{
+		"group": "Blog",
+		"title": "Towards 100% Uptime with Node.js",
+		"link": "https://sandinmyjoints.github.io/towards-100-pct-uptime"
+	},
+	{
+		"group": "Library",
+		"title": "mongoose: Elegant MongoDB Object Modeling for Node.js",
+		"link": "http://mongoosejs.com"
+	},
+	{
+		"group": "Blog",
+		"title": "Best Practices for Deploying Node.js in Production",
+		"link": "https://strongloop.com/strongblog/node-js-deploy-production-best-practice"
+	},
+	{
+		"group": "Github",
+		"title": "Google API Node.js Client: No refresh_token return?",
+		"link": "https://github.com/google/google-api-nodejs-client/issues/421"
+	},
+	{
+		"group": "Blog",
+		"title": "Node.js Framework Comparison: Express vs. Koa vs. Hapi",
+		"link": "https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi"
+	},
+	{
+		"group": "Blog",
+		"title": "6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)",
+		"link": "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9"
+	},
+	{
+		"group": "Blog",
+		"title": "Understanding ES5, ES2015 and TypeScript",
+		"link": "https://johnpapa.net/es5-es2015-typescript"
+	},
+	{
+		"group": "Blog",
+		"title": "RxJS is great. So why have I moved on?",
+		"link": "https://medium.com/@puppybits/rxjs-is-great-so-why-have-i-moved-on-534c513e7af3"
+	},
+	{
+		"group": "Blog",
+		"title": "The JavaScript phenomenon is a mass psychosis",
+		"link": "https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359"
+	},
+	{
+		"group": "Quora",
+		"title": "What should I do to become a JavaScript expert?",
+		"link": "https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert"
+	},
+	{
+		"group": "Blog",
+		"title": "The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB",
+		"link": "http://cwbuecheler.com/web/tutorials/2013/node-express-mongo"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Build a RESTful API using Node and Express 4",
+		"link": "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4"
+	},
+	{
+		"group": "Docs",
+		"title": "Production best practices: performance and reliability",
+		"link": "https://expressjs.com/en/advanced/best-practice-performance.html"
+	},
+	{
+		"group": "Github",
+		"title": "Express without template engine",
+		"link": "https://github.com/expressjs/express/issues/2970"
+	}
+]

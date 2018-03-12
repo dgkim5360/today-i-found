@@ -1,0 +1,67 @@
+  05 Algorithms
+  =============
+
+  Quora: What is a greedy algorithm?
+  https://www.quora.com/What-is-a-greedy-algorithm
+
+  Blog: Calculating Permutations and Job Interview Questions 
+  http://www.bearcave.com/random_hacks/permute.html
+
+  StackExchange: Least common multiple for 3 or more numbers
+  https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers
+
+  Blog: Tower of Hanoi
+  http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html
+
+  Slides: Dynamic Programming
+  http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
+
+  Slides: DP slides
+  http://shuangz.com/download/dp_slides.pdf
+
+  StackExchange: Finding n-th permutation without computing others
+  https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others
+
+  StackExchange: Algorithm for finding numerical permutation given lexicographic index
+  https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index
+
+  Quora: What book about algorithms is a must read for a programmer?
+  https://www.quora.com/What-book-about-algorithms-is-a-must-read-for-a-programmer
+
+  Quora: What are the top 30 most essential algorithms you must know for competitive programming?
+  https://www.quora.com/What-are-the-top-30-most-essential-algorithms-you-must-know-for-competitive-programming
+
+  Quora: How can I be a guru in algorithms? How can I be a real software engineer?
+  https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-software-engineer
+
+  Quora: How does the algorithm of Google Maps work?
+  https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work
+
+  StackExchange: Sieve of Eratosthenes - Finding Primes Python
+  https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
+
+  StackExchange: Sum of number of divisors
+  https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors
+
+  StackExchange: What is the best way to get all the divisors of a number?
+  https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number
+
+  Quora: What is the fastest sorting algorithm?
+  https://www.quora.com/What-is-the-fastest-sorting-algorithm
+
+  Quora: How efficient is bubble sort?
+  https://www.quora.com/How-efficient-is-bubble-sort
+
+  Quora: What kind of algorithm do elevators use to determine which one will take the next request?
+  https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request
+
+  Quora: How do I learn algorithms?
+  https://www.quora.com/How-do-I-learn-algorithms-2
+
+  Quora: Why are all the linked lists circular in the Linux Kernel?
+  https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel
+
+  Quora: How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?
+  https://www.quora.com/How-do-I-strengthen-my-knowledge-of-data-structures-and-algorithms-Both-have-left-me-with-a-fractured-knowledge-of-the-subject-with-lots-of-gaps-in-between-What-would-be-a-good-way-to-go-about-filling-the-gaps-and-making-progress
+
+

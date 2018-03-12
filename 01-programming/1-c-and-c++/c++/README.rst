@@ -1,0 +1,91 @@
+      C++
+      ---
+
+      StackExchange: C++ Dynamic Shared Library on Linux
+      https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
+
+      Slides: make tutorial
+      https://web.stanford.edu/class/cs193d/handouts/make.pdf
+
+      Blog: Multithreading in C++0x part 1: Starting Threads
+      https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html
+
+      Blog: Sockets - Server & Client
+      http://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+      Quora: What are some small project ideas for learning C++?
+      https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
+
+      StackExchange: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
+      https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
+
+      StackExchange: Why c++ does not support multiple initializers in for loop? [duplicate]
+      https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
+
+      Quora: Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?
+      https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics
+
+      Tutorial: OpenGL
+      http://www.opengl-tutorial.org
+
+      Quora: Why is C++ so complicated?
+      https://www.quora.com/Why-is-C++-so-complicated
+
+      Quora: What is the most famous C++ Web Framework?
+      https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
+
+      StackExchange: Does C++ have a package manager like npm, pip, gem, etc?
+      https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
+
+      YouTube: cppcon 2015: Stop Teaching C
+      https://www.youtube.com/watch?v=YnWhqhNdYyk
+
+      Quora: Why is 'if constexpr' so important in C++17?
+      https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17
+
+      Quora: How long will it take to learn C++ for a C Professional?
+      https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
+
+      Quora: What does 'using namespace std' mean in C++?
+      https://www.quora.com/What-does-using-namespace-std-mean-in-C++
+
+      Quora: What things should every C++ beginner know?
+      https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
+
+      Quora: How do I do memory allocation in C++?
+      https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
+
+      Quora: How do I split a string by space into an array in c++?
+      https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
+
+      Quora: (Stroustrup A2A) What are the best C++ books?
+      https://www.quora.com/What-are-the-best-C++-books
+
+      Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
+      https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
+
+      Quora: What are the names of some C++ compilers?
+      https://www.quora.com/What-are-the-names-of-some-C++-compilers
+
+      Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
+      https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
+
+      Quora: Why isn't .h used in C++?
+      https://www.quora.com/Why-isnt-h-used-in-C++
+
+      Quora: What are the main differences between the versions of C++?
+      https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
+
+      Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
+      https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
+
+      Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
+      https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
+
+      Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
+      https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
+
+      Quora: Why doesn't C++ standard headers' names end with ".h" or ".hpp"?
+      https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp
+
+

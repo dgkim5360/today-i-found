@@ -1,0 +1,107 @@
+[
+	{
+		"group": "Quora",
+		"title": "What is a greedy algorithm?",
+		"link": "https://www.quora.com/What-is-a-greedy-algorithm"
+	},
+	{
+		"group": "Blog",
+		"title": "Calculating Permutations and Job Interview Questions ",
+		"link": "http://www.bearcave.com/random_hacks/permute.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Least common multiple for 3 or more numbers",
+		"link": "https://stackoverflow.com/questions/147515/least-common-multiple-for-3-or-more-numbers"
+	},
+	{
+		"group": "Blog",
+		"title": "Tower of Hanoi",
+		"link": "http://interactivepython.org/runestone/static/pythonds/Recursion/TowerofHanoi.html"
+	},
+	{
+		"group": "Slides",
+		"title": "Dynamic Programming",
+		"link": "http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf"
+	},
+	{
+		"group": "Slides",
+		"title": "DP slides",
+		"link": "http://shuangz.com/download/dp_slides.pdf"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Finding n-th permutation without computing others",
+		"link": "https://stackoverflow.com/questions/7918806/finding-n-th-permutation-without-computing-others"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Algorithm for finding numerical permutation given lexicographic index",
+		"link": "https://stackoverflow.com/questions/8940470/algorithm-for-finding-numerical-permutation-given-lexicographic-index"
+	},
+	{
+		"group": "Quora",
+		"title": "What book about algorithms is a must read for a programmer?",
+		"link": "https://www.quora.com/What-book-about-algorithms-is-a-must-read-for-a-programmer"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the top 30 most essential algorithms you must know for competitive programming?",
+		"link": "https://www.quora.com/What-are-the-top-30-most-essential-algorithms-you-must-know-for-competitive-programming"
+	},
+	{
+		"group": "Quora",
+		"title": "How can I be a guru in algorithms? How can I be a real software engineer?",
+		"link": "https://www.quora.com/How-can-I-be-a-guru-in-algorithms-How-can-I-be-a-real-software-engineer"
+	},
+	{
+		"group": "Quora",
+		"title": "How does the algorithm of Google Maps work?",
+		"link": "https://www.quora.com/How-does-the-algorithm-of-Google-Maps-work"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Sieve of Eratosthenes - Finding Primes Python",
+		"link": "https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Sum of number of divisors",
+		"link": "https://math.stackexchange.com/questions/348215/sum-of-number-of-divisors"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What is the best way to get all the divisors of a number?",
+		"link": "https://stackoverflow.com/questions/171765/what-is-the-best-way-to-get-all-the-divisors-of-a-number"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the fastest sorting algorithm?",
+		"link": "https://www.quora.com/What-is-the-fastest-sorting-algorithm"
+	},
+	{
+		"group": "Quora",
+		"title": "How efficient is bubble sort?",
+		"link": "https://www.quora.com/How-efficient-is-bubble-sort"
+	},
+	{
+		"group": "Quora",
+		"title": "What kind of algorithm do elevators use to determine which one will take the next request?",
+		"link": "https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I learn algorithms?",
+		"link": "https://www.quora.com/How-do-I-learn-algorithms-2"
+	},
+	{
+		"group": "Quora",
+		"title": "Why are all the linked lists circular in the Linux Kernel?",
+		"link": "https://www.quora.com/Why-are-all-the-linked-lists-circular-in-the-Linux-Kernel"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?",
+		"link": "https://www.quora.com/How-do-I-strengthen-my-knowledge-of-data-structures-and-algorithms-Both-have-left-me-with-a-fractured-knowledge-of-the-subject-with-lots-of-gaps-in-between-What-would-be-a-good-way-to-go-about-filling-the-gaps-and-making-progress"
+	}
+]

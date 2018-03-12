@@ -1,0 +1,147 @@
+[
+	{
+		"group": "StackExchange",
+		"title": "C++ Dynamic Shared Library on Linux",
+		"link": "https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux"
+	},
+	{
+		"group": "Slides",
+		"title": "make tutorial",
+		"link": "https://web.stanford.edu/class/cs193d/handouts/make.pdf"
+	},
+	{
+		"group": "Blog",
+		"title": "Multithreading in C++0x part 1: Starting Threads",
+		"link": "https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Sockets - Server & Client",
+		"link": "http://www.bogotobogo.com/cplusplus/sockets_server_client.php"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some small project ideas for learning C++?",
+		"link": "https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?",
+		"link": "https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Why c++ does not support multiple initializers in for loop? [duplicate]",
+		"link": "https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop"
+	},
+	{
+		"group": "Quora",
+		"title": "Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?",
+		"link": "https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics"
+	},
+	{
+		"group": "Tutorial",
+		"title": "OpenGL",
+		"link": "http://www.opengl-tutorial.org"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is C++ so complicated?",
+		"link": "https://www.quora.com/Why-is-C++-so-complicated"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the most famous C++ Web Framework?",
+		"link": "https://www.quora.com/What-is-the-most-famous-C++-Web-Framework"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Does C++ have a package manager like npm, pip, gem, etc?",
+		"link": "https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc"
+	},
+	{
+		"group": "YouTube",
+		"title": "cppcon 2015: Stop Teaching C",
+		"link": "https://www.youtube.com/watch?v=YnWhqhNdYyk"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is 'if constexpr' so important in C++17?",
+		"link": "https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17"
+	},
+	{
+		"group": "Quora",
+		"title": "How long will it take to learn C++ for a C Professional?",
+		"link": "https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional"
+	},
+	{
+		"group": "Quora",
+		"title": "What does 'using namespace std' mean in C++?",
+		"link": "https://www.quora.com/What-does-using-namespace-std-mean-in-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "What things should every C++ beginner know?",
+		"link": "https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I do memory allocation in C++?",
+		"link": "https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B"
+	},
+	{
+		"group": "Quora",
+		"title": "How do I split a string by space into an array in c++?",
+		"link": "https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++"
+	},
+	{
+		"group": "Quora",
+		"title": "(Stroustrup A2A) What are the best C++ books?",
+		"link": "https://www.quora.com/What-are-the-best-C++-books"
+	},
+	{
+		"group": "Quora",
+		"title": "In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?",
+		"link": "https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the names of some C++ compilers?",
+		"link": "https://www.quora.com/What-are-the-names-of-some-C++-compilers"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do some people recommend not using exception handling in C++? Is this just a \"culture\" in C++ community, or do some real reasons exist behind this?",
+		"link": "https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this"
+	},
+	{
+		"group": "Quora",
+		"title": "Why isn't .h used in C++?",
+		"link": "https://www.quora.com/Why-isnt-h-used-in-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the main differences between the versions of C++?",
+		"link": "https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?",
+		"link": "https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2"
+	},
+	{
+		"group": "Quora",
+		"title": "When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?",
+		"link": "https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do some C++ programs use size_t instead of int? What are the advantages?",
+		"link": "https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages"
+	},
+	{
+		"group": "Quora",
+		"title": "Why doesn't C++ standard headers' names end with \".h\" or \".hpp\"?",
+		"link": "https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp"
+	}
+]

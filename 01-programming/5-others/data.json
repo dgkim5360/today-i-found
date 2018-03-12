@@ -1,0 +1,32 @@
+[
+	{
+		"group": "Github",
+		"title": "TypeScriptSamples",
+		"link": "https://github.com/Microsoft/TypeScriptSamples"
+	},
+	{
+		"group": "Quora",
+		"title": "What do C/C++ systems programmers think of Rust?",
+		"link": "https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust"
+	},
+	{
+		"group": "Quora",
+		"title": "How does Rust enforce safety?",
+		"link": "https://www.quora.com/How-does-Rust-enforce-safety"
+	},
+	{
+		"group": "Book",
+		"title": "Real World Haskell",
+		"link": "http://book.realworldhaskell.org"
+	},
+	{
+		"group": "Reddit",
+		"title": "What exactly do companies use Haskell for?",
+		"link": "https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for"
+	},
+	{
+		"group": "Quora",
+		"title": "What do you think about Java?",
+		"link": "https://www.quora.com/What-do-you-think-about-Java"
+	}
+]

@@ -1,0 +1,154 @@
+[
+	{
+		"group": "Blog",
+		"title": "The ElementTree iterparse function",
+		"link": "http://effbot.org/zone/element-iterparse.htm"
+	},
+
+	{
+		"group": "Docs",
+		"title": "How to Package Your Python Code",
+		"link": "https://python-packaging.readthedocs.io/en/latest/index.html"
+	},
+
+	{
+		"group": "Quora",
+		"title": "Tutorial for Packaging and Distributing Projects",
+		"link": "https://packaging.python.org/tutorials/distributing-packages"
+	},
+	{
+		"group": "Blog",
+		"title": "An Intro to coverage.py",
+		"link": "https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Python - doctest vs. unittest",
+		"link": "https://stackoverflow.com/questions/361675/python-doctest-vs-unittest"
+	},
+	{
+		"group": "Quora",
+		"title": "Why does everyone say that Python isn’t good for large scale applications when in theory all languages have the same potential?",
+		"link": "https://www.quora.com/Why-does-everyone-say-that-Python-isn%E2%80%99t-good-for-large-scale-applications-when-in-theory-all-languages-have-the-same-potential"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Nicest way to pad zeroes to string",
+		"link": "https://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What is a metaclass in Python?",
+		"link": "https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Convert base-2 binary number string to int",
+		"link": "https://stackoverflow.com/questions/8928240/convert-base-2-binary-number-string-to-int"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Python - Flipping Binary 1's and 0's in a String",
+		"link": "https://stackoverflow.com/questions/3920494/python-flipping-binary-1s-and-0s-in-a-string"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Sort a list by multiple attributes?",
+		"link": "https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Convert decimal to ternary(base3) in python",
+		"link": "https://stackoverflow.com/questions/34559663/convert-decimal-to-ternarybase3-in-python"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to convert an integer in any base to a string?",
+		"link": "https://stackoverflow.com/questions/2267362/how-to-convert-an-integer-in-any-base-to-a-string"
+	},
+	{
+		"group": "Blog",
+		"title": "Advanced Uses of Python Decorators",
+		"link": "https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Auto-register class methods using decorator",
+		"link": "https://stackoverflow.com/questions/3054372/auto-register-class-methods-using-decorator"
+	},
+	{
+		"group": "Quora",
+		"title": "Is Python’s compiled code as fast as C++?",
+		"link": "https://www.quora.com/Is-Python%E2%80%99s-compiled-code-as-fast-as-C++"
+	},
+	{
+		"group": "Blog",
+		"title": "Go Go Python Rangers - Comparing Python and Golang ",
+		"link": "https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang/"
+	},
+	{
+		"group": "Blog",
+		"title": "Using ipdb with Docker Compose for interactive debugging",
+		"link": "https://www.calazan.com/using-ipdb-docker-compose-interactive-debugging"
+	},
+	{
+		"group": "StackExchange",
+		"title": "using functools.lru_cache on functions with constant but non-hashable objects",
+		"link": "https://stackoverflow.com/questions/37609772/using-functools-lru-cache-on-functions-with-constant-but-non-hashable-objects"
+	},
+	{
+		"group": "Quora",
+		"title": "Which fields and industries use Python?",
+		"link": "https://www.quora.com/Which-fields-and-industries-use-Python"
+	},
+	{
+		"group": "Quora",
+		"title": "Could you program a video game entirely using Python?",
+		"link": "https://www.quora.com/Could-you-program-a-video-game-entirely-using-Python"
+	},
+	{
+		"group": "Site",
+		"title": "Python 3 Module of the Week",
+		"link": "https://pymotw.com/3/index.html"
+	},
+	{
+		"group": "Tutorial",
+		"title": "pdb - Interactive Debugger",
+		"link": "https://pymotw.com/3/pdb/index.html"
+	},
+	{
+		"group": "Quora",
+		"title": "Is Python written in C language? What is Cython? How is it different from Python?",
+		"link": "https://www.quora.com/Is-Python-written-in-C-language-What-is-Cython-How-is-it-different-from-Python"
+	},
+	{
+		"group": "Docs",
+		"title": "23. Exploring CPython's Internals",
+		"link": "https://devguide.python.org/exploring"
+	},
+	{
+		"group": "Docs",
+		"title": "Pyrex",
+		"link": "http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/version/Doc/About.html"
+	},
+	{
+		"group": "Quora",
+		"title": "How are Python lists implemented internally?",
+		"link": "https://www.quora.com/How-are-Python-lists-implemented-internally"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Difference between python3 and python3m executables",
+		"link": "https://stackoverflow.com/questions/16675865/difference-between-python3-and-python3m-executables"
+	},
+	{
+		"group": "Blog",
+		"title": "A tutorial on python-daemon, or Why doesn’t python-daemon have any documentation?",
+		"link": "https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon"
+	},
+	{
+		"group": "Quora",
+		"title": "Is there a programming language as easy as Swift or Python that translates your code into C++ before or during compiling for a better performance? (Excellent advice for striving the performance of Python)",
+		"link": "https://www.quora.com/Is-there-a-programming-language-as-easy-as-Swift-or-Python-that-translates-your-code-into-C-before-or-during-compiling-for-a-better-performance"
+	}
+]

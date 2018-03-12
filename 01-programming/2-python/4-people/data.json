@@ -1,0 +1,17 @@
+[
+	{
+		"group": "Blog",
+		"title": "Dabeaz (a lot of precious lectures, especially for generator, asyncio, and concurrency)",
+		"link": "http://www.dabeaz.com"
+	},
+	{
+		"group": "Blog",
+		"title": "effbot.org",
+		"link": "http://effbot.org"
+	},
+	{
+		"group": "Blog",
+		"title": "Armin Ronacher, the Founder of Flask",
+		"link": "http://lucumr.pocoo.org"
+	}
+]

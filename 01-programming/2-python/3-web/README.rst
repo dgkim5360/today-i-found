@@ -1,0 +1,37 @@
+      3 Web
+      -----
+
+      StackExchange: How to serve static files in Flask
+      https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+
+      Blog: Flask on Nginx and Gunicorn
+      https://prakhar.me/articles/flask-on-nginx-and-gunicorn
+
+      Blog: Django shell within a test environment
+      http://testedwebdev.blogspot.com/2012/05/django-shell-testing.html
+
+      Blog: Demystifying Token-Based Authentication using Django REST Framework
+      https://afropolymath.svbtle.com/authentication-using-django-rest-framework
+
+      Site: Classy Class-Based Views
+      http://ccbv.co.uk
+
+      Docs: Lookups spanning multi-valued relationships
+      https://docs.djangoproject.com/en/dev/topics/db/queries/#spanning-multi-valued-relationships
+
+      StackExchange: Group django queryset by foreign key / related field
+      https://stackoverflow.com/questions/20852155/group-django-queryset-by-foreign-key-related-field
+
+      Blog: Improve your tests in Django with fakes and factories
+      https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories
+
+      Blog: Django debug with vim and vdebug
+      https://www.abidibo.net/blog/2016/04/06/django-debug-vim-and-vdebug
+
+      StackExchange: Django tests dump data/ results
+      https://stackoverflow.com/questions/5289089/django-tests-dump-data-results
+
+      StackExchange: How to debug in Django, the good way?
+      https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
+
+

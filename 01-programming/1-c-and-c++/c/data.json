@@ -1,0 +1,115 @@
+[
+	{
+		"group": "StackExchange",
+		"title": "The Definitive C Book Guide and List",
+		"link": "https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list"
+	},
+
+	{
+		"group": "Wiki",
+		"title": "clc-wiki",
+		"link": "http://clc-wiki.net/wiki/Main_Page"
+	},
+
+	{
+		"group": "Tutorial",
+		"title": "compiling C programs",
+		"link": "http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html"
+	},
+	{
+		"group": "Tutorial",
+		"title": "C Tutorial",
+		"link": "https://www.cprogramming.com/tutorial/c-tutorial.html"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Shared Dynamic and Loadable Linux Libraries",
+		"link": "http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Shared libraries with GCC on Linux",
+		"link": "https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html"
+	},
+	{
+		"group": "Quora",
+		"title": "What are reasons to use C when there is C++?",
+		"link": "https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++"
+	},
+	{
+		"group": "Quora",
+		"title": "In the C programming language, what's the difference between while (1) and for (;;)?",
+		"link": "https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for"
+	},
+	{
+		"group": "Quora",
+		"title": "Which language has the brightest future in replacement of C between D, Go and Rust? And Why?",
+		"link": "https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why"
+	},
+	{
+		"group": "Blog",
+		"title": "Simple rules to avoid Memory Leaks in C",
+		"link": "https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c"
+	},
+	{
+		"group": "Quora",
+		"title": "What is something you know about C that most people don't know about C?",
+		"link": "https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C"
+	},
+	{
+		"group": "Quora",
+		"title": "Why doesn’t C have an exponent operator but has an entire library function dedicated to it?",
+		"link": "https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it"
+	},
+	{
+		"group": "Quora",
+		"title": "In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?",
+		"link": "https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the advantages of using references over pointers?",
+		"link": "https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers"
+	},
+	{
+		"group": "Quora",
+		"title": "How are multiple arguments evaluated in a function in C?",
+		"link": "https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C"
+	},
+	{
+		"group": "Quora",
+		"title": "Is int n='A' a valid statement in C language?",
+		"link": "https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language"
+	},
+	{
+		"group": "Quora",
+		"title": "Why does the C library have their own Int and other datatypes?",
+		"link": "https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes"
+	},
+	{
+		"group": "Blog",
+		"title": "Why should I have written ZeroMQ in C, not C++ (part I)",
+		"link": "http://250bpm.com/blog:4"
+	},
+	{
+		"group": "Quora",
+		"title": "How do you build a time counter in C language from scratch?",
+		"link": "https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?",
+		"link": "https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code"
+	},
+	{
+		"group": "Quora",
+		"title": "Why are C strings less secure than string objects?",
+		"link": "https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects"
+	},
+	{
+		"group": "Quora",
+		"title": "What is an example of an exit(1) in C?",
+		"link": "https://www.quora.com/What-is-an-example-of-an-exit-1-in-C"
+	}
+
+]

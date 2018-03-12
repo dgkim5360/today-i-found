@@ -1,0 +1,88 @@
+[
+	{
+		"group": "Blog",
+		"title": "What Color is Your Function?",
+		"link": "http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function"
+	},
+	{
+		"group": "Blog",
+		"title": "Concurrency is not parallelism",
+		"link": "https://blog.golang.org/concurrency-is-not-parallelism"
+	},
+	{
+		"group": "Quora",
+		"title": "Other than algorithms, what are the most important concepts to know in computer programming?",
+		"link": "https://www.quora.com/Other-than-algorithms-what-are-the-most-important-concepts-to-know-in-computer-programming"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the papers every programmer should read?",
+		"link": "https://www.quora.com/What-are-the-papers-every-programmer-should-read"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is the execution time of C faster than Java? (우문현답)",
+		"link": "https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is OO programming considered bad by some people?",
+		"link": "https://www.quora.com/Why-is-OO-programming-considered-bad-by-some-people"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the disadvantages of object oriented programming languages?",
+		"link": "https://www.quora.com/What-are-the-disadvantages-of-object-oriented-programming-languages"
+	},
+	{
+		"group": "Quora",
+		"title": "Is it a good practice to name variables with a prefix of one letter indicating the type? Eg. \"bValid\", where \"b\" represents \"boolean\".",
+		"link": "https://www.quora.com/Is-it-a-good-practice-to-name-variables-with-a-prefix-of-one-letter-indicating-the-type-Eg-bValid-where-b-represents-boolean"
+	},
+	{
+		"group": "Quora",
+		"title": "How can I go from writing spaghetti code to coding like professional?",
+		"link": "https://www.quora.com/How-can-I-go-from-writing-spaghetti-code-to-coding-like-professional"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is “the halting problem” a problem? Why does it exist?",
+		"link": "https://www.quora.com/Why-is-%E2%80%9Cthe-halting-problem%E2%80%9D-a-problem-Why-does-it-exist"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is it hard for a computer to get a random number?",
+		"link": "https://www.quora.com/Why-is-it-hard-for-a-computer-to-get-a-random-number"
+	},
+	{
+		"group": "Quora",
+		"title": "Did the programmer with the most lines of code do the most work?",
+		"link": "https://www.quora.com/Did-the-programmer-with-the-most-lines-of-code-do-the-most-work"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the best piece of source code to read?",
+		"link": "https://www.quora.com/What-is-the-best-piece-of-source-code-to-read"
+	},
+	{
+		"group": "Quora",
+		"title": "What is dynamic programming?",
+		"link": "https://www.quora.com/What-is-dynamic-programming"
+	},
+	{
+		"group": "Blog",
+		"title": "Garbage Collection of V8 JavaScript Engine",
+		"link": "https://v8project.blogspot.com/search?q=Garbage+Collection"
+	},
+	{
+		"group": "Blog",
+		"title": "Why I Hate Frameworks",
+		"link": "http://discuss.joelonsoftware.com/default.asp?joel.3.219431"
+	},
+	{
+		"group": "Quora",
+		"title": "Can you give an example of a problem hard to write in functional languages but simple in imperative languages?",
+		"link": "https://www.quora.com/Can-you-give-an-example-of-a-problem-hard-to-write-in-functional-languages-but-simple-in-imperative-languages"
+	}
+]
+

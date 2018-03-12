@@ -1,0 +1,34 @@
+    1 Hadoop Ecosystem
+    ------------------
+
+    Quora: What is Apache Hadoop?
+    https://www.quora.com/What-is-Apache-Hadoop-1
+
+    Blog: What is Hadoop? What is MapReduce? What is NoSQL?
+    https://datajobs.com/what-is-hadoop-and-nosql
+
+    Quora: Why was Hadoop written in Java? Wouldn't it make more sense (performance-wise and KLOC-wise) to write a distributed file system in lower level languages and/or reuse a native file system?
+    https://www.quora.com/Why-was-Hadoop-written-in-Java-Wouldnt-it-make-more-sense-performance-wise-and-KLOC-wise-to-write-a-distributed-file-system-in-lower-level-languages-and-or-reuse-a-native-file-system
+
+    Tutorial: Cloudera/quickstart for Single-Node Deployment
+    https://hub.docker.com/r/cloudera/quickstart
+
+    Quora: How reliable is Spark?
+    https://www.quora.com/How-reliable-is-Spark
+
+    Quora: What are the biggest pain points with Hadoop? (answer from who works at Cloudera)
+    https://www.quora.com/What-are-the-biggest-pain-points-with-Hadoop
+
+    Quora: Is Hadoop dead and is it time to move to Spark?
+    https://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark
+
+    Quora: Why did Google stop using MapReduce and start encouraging Cloud Dataflow?
+    https://www.quora.com/Why-did-Google-stop-using-MapReduce-and-start-encouraging-Cloud-Dataflow
+
+    Quora: Is HDFS way behind GFS? If yes, how so?
+    https://www.quora.com/Is-HDFS-way-behind-GFS-If-yes-how-so
+
+    Quora: Is HDFS an append only file system? Then, how do people modify the files stored on HDFS?
+    https://www.quora.com/Is-HDFS-an-append-only-file-system-Then-how-do-people-modify-the-files-stored-on-HDFS
+
+

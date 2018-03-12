@@ -1,0 +1,70 @@
+  11 Developers' Nest
+  ===================
+
+  Site: Welcome to Bjarne Stroustrup's homepage!
+  http://www.stroustrup.com/index.html
+
+  Blog: Rasmus Andersson
+  https://rsms.me/about/spotify
+
+  Blog: arp242
+  https://arp242.net
+
+  Blog: Code Without Rules
+  https://codewithoutrules.com
+
+  Site: zx2c4
+  https://www.zx2c4.com
+
+  Blog: Tom Ryder
+  https://sanctum.geek.nz
+
+  Blog: division by zero
+  https://2f30.org
+
+  Site: suckless softwares
+  https://suckless.org
+
+  Blog: research!rsc
+  https://research.swtch.com
+
+  Site: cat -v (deals with all that sucks beyond programming)
+  http://cat-v.org
+
+  Blog: Joel on Software (Cofounder of Trello, CEO of StackOverflow)
+  https://www.joelonsoftware.com
+
+  Blog: sebastianraschka: an expert on machine learning
+  https://sebastianraschka.com
+
+  Quora: Eli Bendersky's website
+  https://eli.thegreenplace.net
+
+
+
+
+    1 Youtube Channels
+    ------------------
+
+    YouTube: Bryan Lunduke
+    https://www.youtube.com/user/BryanLunduke
+
+    YouTube: Kai Hendry
+    https://www.youtube.com/user/kaihendry
+
+    YouTube: Stefan Mischook
+    https://www.youtube.com/user/killerphp
+
+    YouTube: Irishluck Linux
+    https://www.youtube.com/user/LDCNow
+
+    YouTube: quidsup: Reviews on Linux
+    https://www.youtube.com/user/quidsup
+
+    YouTube: FLOSS Weekly
+    https://www.youtube.com/user/TWiTFLOSS
+
+    YouTube: Angry Teach on Gentoo Linux
+    https://www.youtube.com/user/MrAngryTeach
+
+

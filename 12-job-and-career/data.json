@@ -1,0 +1,72 @@
+[
+	{
+		"group": "Blog",
+		"title": "Reflections of an 'Old Programmer'",
+		"link": "http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php"
+	},
+	{
+		"group": "Blog",
+		"title": "The Key to Accelerate Your Coding Skiils",
+		"link": "http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant"
+	},
+	{
+		"group": "Quora",
+		"title": "What's the most important lesson you've learned as a software engineer?",
+		"link": "https://www.quora.com/Whats-the-most-important-lesson-youve-learned-as-a-software-engineer"
+	},
+	{
+		"group": "Quora",
+		"title": "What is expected of a junior (back-end) web developer?",
+		"link": "https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some of the most basic things every programmer should know?",
+		"link": "https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know"
+	},
+	{
+		"group": "Quora",
+		"title": "Do the best programmers use the fewest lines of code, as is consistent with my experience?",
+		"link": "https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code-as-is-consistent-with-my-experience"
+	},
+	{
+		"group": "Quora",
+		"title": "What little habits made you a better software engineer?",
+		"link": "https://www.quora.com/What-little-habits-made-you-a-better-software-engineer"
+	},
+	{
+		"group": "Quora",
+		"title": "Why are most famous programmers C programmers?",
+		"link": "https://www.quora.com/Why-are-most-famous-programmers-C-programmers"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the 7 deadly sins of programming?",
+		"link": "https://www.quora.com/What-are-the-7-deadly-sins-of-programming"
+	},
+	{
+		"group": "Quora",
+		"title": "What does it take to become really good at programming?",
+		"link": "https://www.quora.com/What-does-it-take-to-become-really-good-at-programming"
+	},
+	{
+		"group": "Quora",
+		"title": "What little habits made you a better data scientist?",
+		"link": "https://www.quora.com/What-little-habits-made-you-a-better-data-scientist"
+	},
+	{
+		"group": "Quora",
+		"title": "Are you a self-made data scientist? How did you do it?",
+		"link": "https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it"
+	},
+	{
+		"group": "Reddit",
+		"title": "1000+ Beginner Programming Projects",
+		"link": "https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost"
+	},
+	{
+		"group": "Quora",
+		"title": "How can a software programmer work till he/she is seventy years old?",
+		"link": "https://www.quora.com/How-can-a-software-programmer-work-till-he-she-is-seventy-years-old"
+	}
+]

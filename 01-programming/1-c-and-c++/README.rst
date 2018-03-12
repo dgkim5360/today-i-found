@@ -1,0 +1,205 @@
+    1 C And C++
+    -----------
+
+    Quora: What is the difference between multithreading in C and C++?
+    https://www.quora.com/What-is-the-difference-between-multithreading-in-C-and-C++
+
+    Quora: Why do some programmers say C/C++ isn't safe?
+    https://www.quora.com/Why-do-some-programmers-say-C-C++-isnt-safe
+
+    Quora: Why isn't big int added in C/C++?
+    https://www.quora.com/Why-isnt-big-int-added-in-C-C++
+
+    Quora: Which is the best way to avoid memory leaks in C/C++?
+    https://www.quora.com/Which-is-the-best-way-to-avoid-memory-leaks-in-C-C++
+
+    Quora: What are some of the best C/C++ projects beginners can try?
+    https://www.quora.com/What-are-some-of-the-best-C-C++-projects-beginners-can-try
+
+    Quora: Why do people say programming in C++ is easier than C? I have learned both, and I find C++ way more complicated than C.
+    https://www.quora.com/Why-do-people-say-programming-in-C++-is-easier-than-C-I-have-learned-both-and-I-find-C++-way-more-complicated-than-C
+
+    Quora: How do I compare a multi-dimensional array on C++?
+    https://www.quora.com/How-do-I-compare-a-multi-dimensional-array-on-C++
+
+    Quora: Is cin/cout slower than scanf/printf?
+    https://www.quora.com/Is-cin-cout-slower-than-scanf-printf
+
+    Quora: What are objects in C and C++, and how are they different?
+    https://www.quora.com/What-are-objects-in-C-and-C++-and-how-are-they-different
+
+    Quora: What are some instances of memory leakage in C++? I took an intro to C++ and cannot really understand how disastrous a data leak can be in the real world.
+    https://www.quora.com/What-are-some-instances-of-memory-leakage-in-C++-I-took-an-intro-to-C++-and-cannot-really-understand-how-disastrous-a-data-leak-can-be-in-the-real-world
+
+    Quora: Why should I prefer C++ streams over C-style I/O?
+    https://www.quora.com/Why-should-I-prefer-C++-streams-over-C-style-I-O
+
+    Quora: In which aspects ic C better than C++? (good answer to how they are different)
+    https://www.quora.com/In-which-aspects-is-C-better-than-C
+
+
+
+
+      C
+      ---
+
+      StackExchange: The Definitive C Book Guide and List
+      https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+
+      Wiki: clc-wiki
+      http://clc-wiki.net/wiki/Main_Page
+
+      Tutorial: compiling C programs
+      http://courses.cms.caltech.edu/cs11/material/c/mike/misc/compiling_c.html
+
+      Tutorial: C Tutorial
+      https://www.cprogramming.com/tutorial/c-tutorial.html
+
+      Tutorial: Shared Dynamic and Loadable Linux Libraries
+      http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
+
+      Tutorial: Shared libraries with GCC on Linux
+      https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
+
+      Quora: What are reasons to use C when there is C++?
+      https://www.quora.com/What-are-reasons-to-use-C-when-there-is-C++
+
+      Quora: In the C programming language, what's the difference between while (1) and for (;;)?
+      https://www.quora.com/In-the-C-programming-language-whats-the-difference-between-while-1-and-for
+
+      Quora: Which language has the brightest future in replacement of C between D, Go and Rust? And Why?
+      https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+
+      Blog: Simple rules to avoid Memory Leaks in C
+      https://mousomer.wordpress.com/2010/11/03/simple-rules-to-avoid-memory-leaks-in-c
+
+      Quora: What is something you know about C that most people don't know about C?
+      https://www.quora.com/What-is-something-you-know-about-C-that-most-people-dont-know-about-C
+
+      Quora: Why doesn’t C have an exponent operator but has an entire library function dedicated to it?
+      https://www.quora.com/Why-doesn%E2%80%99t-C-have-an-exponent-operator-but-has-an-entire-library-function-dedicated-to-it
+
+      Quora: In C, the name of the array denotes the address of the zero element of the array. Is this just a rule, or does it have some reason attached to it?
+      https://www.quora.com/In-C-the-name-of-the-array-denotes-the-address-of-the-zero-element-of-the-array-Is-this-just-a-rule-or-does-it-have-some-reason-attached-to-it
+
+      Quora: What are the advantages of using references over pointers?
+      https://www.quora.com/What-are-the-advantages-of-using-references-over-pointers
+
+      Quora: How are multiple arguments evaluated in a function in C?
+      https://www.quora.com/How-are-multiple-arguments-evaluated-in-a-function-in-C
+
+      Quora: Is int n='A' a valid statement in C language?
+      https://www.quora.com/Is-int-n-A-a-valid-statement-in-C-language
+
+      Quora: Why does the C library have their own Int and other datatypes?
+      https://www.quora.com/Why-does-the-C-library-have-their-own-Int-and-other-datatypes
+
+      Blog: Why should I have written ZeroMQ in C, not C++ (part I)
+      http://250bpm.com/blog:4
+
+      Quora: How do you build a time counter in C language from scratch?
+      https://www.quora.com/How-do-you-build-a-time-counter-in-C-language-from-scratch
+
+      Quora: What are the best C compiling hacks like -Wall to get all the possible warnings in order to get the best C code?
+      https://www.quora.com/What-are-the-best-C-compiling-hacks-like-Wall-to-get-all-the-possible-warnings-in-order-to-get-the-best-C-code
+
+      Quora: Why are C strings less secure than string objects?
+      https://www.quora.com/Why-are-C-strings-less-secure-than-string-objects
+
+      Quora: What is an example of an exit(1) in C?
+      https://www.quora.com/What-is-an-example-of-an-exit-1-in-C
+
+
+
+
+      C++
+      ---
+
+      StackExchange: C++ Dynamic Shared Library on Linux
+      https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
+
+      Slides: make tutorial
+      https://web.stanford.edu/class/cs193d/handouts/make.pdf
+
+      Blog: Multithreading in C++0x part 1: Starting Threads
+      https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-1-starting-threads.html
+
+      Blog: Sockets - Server & Client
+      http://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+      Quora: What are some small project ideas for learning C++?
+      https://www.quora.com/What-are-some-small-project-ideas-for-learning-C++
+
+      StackExchange: How can I find the index of the highest value in a vector, defaulting to the greater index if there are two “greatest” indices?
+      https://stackoverflow.com/questions/35681372/how-can-i-find-the-index-of-the-highest-value-in-a-vector-defaulting-to-the-gre/35681502
+
+      StackExchange: Why c++ does not support multiple initializers in for loop? [duplicate]
+      https://stackoverflow.com/questions/11255684/why-c-does-not-support-multiple-initializers-in-for-loop
+
+      Quora: Can C++ be used to create graphics? Which programming language should be learned to create high quality graphics?
+      https://www.quora.com/Can-C++-be-used-to-create-graphics-Which-programming-language-should-be-learned-to-create-high-quality-graphics
+
+      Tutorial: OpenGL
+      http://www.opengl-tutorial.org
+
+      Quora: Why is C++ so complicated?
+      https://www.quora.com/Why-is-C++-so-complicated
+
+      Quora: What is the most famous C++ Web Framework?
+      https://www.quora.com/What-is-the-most-famous-C++-Web-Framework
+
+      StackExchange: Does C++ have a package manager like npm, pip, gem, etc?
+      https://stackoverflow.com/questions/27866965/does-c-have-a-package-manager-like-npm-pip-gem-etc
+
+      YouTube: cppcon 2015: Stop Teaching C
+      https://www.youtube.com/watch?v=YnWhqhNdYyk
+
+      Quora: Why is 'if constexpr' so important in C++17?
+      https://www.quora.com/Why-is-if-constexpr-so-important-in-C++17
+
+      Quora: How long will it take to learn C++ for a C Professional?
+      https://www.quora.com/How-long-will-it-take-to-learn-C++-for-a-C-Professional
+
+      Quora: What does 'using namespace std' mean in C++?
+      https://www.quora.com/What-does-using-namespace-std-mean-in-C++
+
+      Quora: What things should every C++ beginner know?
+      https://www.quora.com/What-things-should-every-C%2B%2B-beginner-know
+
+      Quora: How do I do memory allocation in C++?
+      https://www.quora.com/How-do-I-do-memory-allocation-in-C%2B%2B
+
+      Quora: How do I split a string by space into an array in c++?
+      https://www.quora.com/How-do-I-split-a-string-by-space-into-an-array-in-c++
+
+      Quora: (Stroustrup A2A) What are the best C++ books?
+      https://www.quora.com/What-are-the-best-C++-books
+
+      Quora: In C++, What are the differences between Map<> and Set<>? Why would you use one rather than the other?
+      https://www.quora.com/In-C++-What-are-the-differences-between-Map-and-Set-Why-would-you-use-one-rather-than-the-other
+
+      Quora: What are the names of some C++ compilers?
+      https://www.quora.com/What-are-the-names-of-some-C++-compilers
+
+      Quora: Why do some people recommend not using exception handling in C++? Is this just a "culture" in C++ community, or do some real reasons exist behind this?
+      https://www.quora.com/Why-do-some-people-recommend-not-using-exception-handling-in-C++-Is-this-just-a-culture-in-C++-community-or-do-some-real-reasons-exist-behind-this
+
+      Quora: Why isn't .h used in C++?
+      https://www.quora.com/Why-isnt-h-used-in-C++
+
+      Quora: What are the main differences between the versions of C++?
+      https://www.quora.com/What-are-the-main-differences-between-the-versions-of-C++
+
+      Quora: How can we round an answer in C++ (for example 6/3.78 will output 1.5873015)? How can I make this 2?
+      https://www.quora.com/How-can-we-round-an-answer-in-C-for-example-6-3-78-will-output-1-5873015-How-can-I-make-this-2
+
+      Quora: When writing a C++ program, how should I decide if the program needs classes? When should I avoid creating classes and just create functions instead?
+      https://www.quora.com/When-writing-a-C-program-how-should-I-decide-if-the-program-needs-classes-When-should-I-avoid-creating-classes-and-just-create-functions-instead
+
+      Quora: Why do some C++ programs use size_t instead of int? What are the advantages?
+      https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages
+
+      Quora: Why doesn't C++ standard headers' names end with ".h" or ".hpp"?
+      https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp
+
+

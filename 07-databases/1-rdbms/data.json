@@ -1,0 +1,12 @@
+[
+	{
+		"group": "Quora",
+		"title": "What are pros and cons of PostgreSQL and MySQL? With respect to reliability, speed, scalability, and features.",
+		"link": "https://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL-With-respect-to-reliability-speed-scalability-and-features"
+	},
+	{
+		"group": "Docs",
+		"title": "Postgres Guide",
+		"link": "http://postgresguide.com"
+	}
+]

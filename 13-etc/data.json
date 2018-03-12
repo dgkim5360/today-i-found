@@ -1,0 +1,47 @@
+[
+	{
+		"group": "Site",
+		"title": "Ebook Library",
+		"link": "http://b-ok.org"
+	},
+	{
+		"group": "Blog",
+		"title": "GPL·AGPL·MPL…한눈에 보는 오픈소스SW 라이선스",
+		"link": "http://www.bloter.net/archives/209318"
+	},
+	{
+		"group": "Blog",
+		"title": "Choosing a License",
+		"link": "http://docs.python-guide.org/en/latest/writing/license"
+	},
+	{
+		"group": "Blog",
+		"title": "How the NSA identified Satoshi Nakamoto",
+		"link": "https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595"
+	},
+	{
+		"group": "Blog",
+		"title": "What is the most life changing book you've ever read?",
+		"link": "https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read"
+	},
+	{
+		"group": "Blog",
+		"title": "A Quantum Leap for the Web",
+		"link": "https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12"
+	},
+	{
+		"group": "Quora",
+		"title": "Is Bitcoin in a boom or a bubble, and will we ever find out who Satoshi Nakamoto is?",
+		"link": "https://www.quora.com/Is-Bitcoin-in-a-boom-or-a-bubble-and-will-we-ever-find-out-who-Satoshi-Nakamoto-is"
+	},
+	{
+		"group": "Software",
+		"title": "Microsoft DOS V1.1 and V2.0",
+		"link": "http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msdos-v1-1-v2-0"
+	},
+	{
+		"group": "Blog",
+		"title": "Indexing Google's Source Code",
+		"link": "http://piaw.blogspot.com/2015/09/indexing-googles-source-code.html"
+	}
+]
