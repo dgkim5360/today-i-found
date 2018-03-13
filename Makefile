@@ -1,4 +1,4 @@
-GATHERERDIR=awesome-gatherer
+GATHERERDIR=make-your-own-awesome-list
 
 all: ${GATHERERDIR}/gather
 	@$<

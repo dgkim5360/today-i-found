@@ -1,3 +1,3 @@
-[submodule "awesome-gatherer"]
-	path = awesome-gatherer
-	url = https://github.com/dgkim5360/awesome-gatherer.git
+[submodule "make-your-own-awesome-list"]
+	path = make-your-own-awesome-list
+	url = https://github.com/dgkim5360/make-your-own-awesome-list.git
