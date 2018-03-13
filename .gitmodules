@@ -1,0 +1,3 @@
+[submodule "awesome-gatherer"]
+	path = awesome-gatherer
+	url = https://github.com/dgkim5360/awesome-gatherer.git
