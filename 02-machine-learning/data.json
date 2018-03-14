@@ -113,5 +113,10 @@
 		"group": "Forum",
 		"title": "Why do we need to set the gradients manually to zero in pytorch?",
 		"link": "https://discuss.pytorch.org/t/why-do-we-need-to-set-the-gradients-manually-to-zero-in-pytorch"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Why do we have to normalize the input?",
+		"link": "https://stackoverflow.com/questions/4674623/why-do-we-have-to-normalize-the-input-for-an-artificial-neural-network"
 	}
 ]

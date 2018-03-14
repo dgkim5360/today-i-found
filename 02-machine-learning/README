@@ -70,4 +70,7 @@
   Forum: Why do we need to set the gradients manually to zero in pytorch?
   https://discuss.pytorch.org/t/why-do-we-need-to-set-the-gradients-manually-to-zero-in-pytorch
 
+  StackExchange: Why do we have to normalize the input?
+  https://stackoverflow.com/questions/4674623/why-do-we-have-to-normalize-the-input-for-an-artificial-neural-network
+
 
