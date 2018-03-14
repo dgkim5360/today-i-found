@@ -67,4 +67,7 @@
   StackExchange: Why You Should Use Cross-Entropy Error Instead Of Classification Error Or Mean Squared Error For Neural Network Classifier Training
   https://datascience.stackexchange.com/questions/9302/the-cross-entropy-error-function-in-neural-networks
 
+  Forum: Why do we need to set the gradients manually to zero in pytorch?
+  https://discuss.pytorch.org/t/why-do-we-need-to-set-the-gradients-manually-to-zero-in-pytorch
+
 
