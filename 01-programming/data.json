@@ -88,5 +88,10 @@
 		"group": "Quora",
 		"title": "What is the difference between a programmer and a developer?",
 		"link": "https://www.quora.com/What-is-the-difference-between-a-programmer-and-a-developer"
+	},
+	{
+		"group": "Site",
+		"title": "Teach Yourself Programming in Ten Years",
+		"link": "http://norvig.com/21-days.html"
 	}
 ]
