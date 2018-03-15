@@ -123,5 +123,10 @@
 		"group": "Quora",
 		"title": "In layman's terms, why is dropping insignificant predictors from a regression model a bad idea?",
 		"link": "https://www.quora.com/In-laymans-terms-why-is-dropping-insignificant-predictors-from-a-regression-model-a-bad-idea"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to apply standardization/normalization to train- and testset if prediction is the goal?",
+		"link": "https://stats.stackexchange.com/questions/174823/how-to-apply-standardization-normalization-to-train-and-testset-if-prediction-i"
 	}
 ]
