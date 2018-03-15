@@ -48,5 +48,10 @@
 		"group": "Quora",
 		"title": "Is HDFS an append only file system? Then, how do people modify the files stored on HDFS?",
 		"link": "https://www.quora.com/Is-HDFS-an-append-only-file-system-Then-how-do-people-modify-the-files-stored-on-HDFS"
+	},
+	{
+		"group": "Quora",
+		"title": "Is Apache Spark a good framework for implementing Deep Learning?",
+		"link": "https://www.quora.com/Is-Apache-Spark-a-good-framework-for-implementing-Deep-Learning"
 	}
 ]
