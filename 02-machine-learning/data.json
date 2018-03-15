@@ -118,5 +118,10 @@
 		"group": "StackExchange",
 		"title": "Why do we have to normalize the input?",
 		"link": "https://stackoverflow.com/questions/4674623/why-do-we-have-to-normalize-the-input-for-an-artificial-neural-network"
+	},
+	{
+		"group": "Quora",
+		"title": "In layman's terms, why is dropping insignificant predictors from a regression model a bad idea?",
+		"link": "https://www.quora.com/In-laymans-terms-why-is-dropping-insignificant-predictors-from-a-regression-model-a-bad-idea"
 	}
 ]
