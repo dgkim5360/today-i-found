@@ -48,5 +48,10 @@
 		"group": "StackExchange",
 		"title": "git-diff to ignore ^M",
 		"link": "https://stackoverflow.com/questions/1889559/git-diff-to-ignore-m"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How do I copy a version of single file from one git branch to another?",
+		"link": "https://stackoverflow.com/questions/307579/how-do-i-copy-a-version-of-a-single-file-from-one-git-branch-to-another"
 	}
 ]
