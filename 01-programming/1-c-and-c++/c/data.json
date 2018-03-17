@@ -110,6 +110,10 @@
 		"group": "Quora",
 		"title": "What is an example of an exit(1) in C?",
 		"link": "https://www.quora.com/What-is-an-example-of-an-exit-1-in-C"
+	},
+	{
+		"group": "Quora",
+		"title": "Why doesn’t C provide exception handling?",
+		"link": "https://www.quora.com/Why-doesn-t-C-provide-exception-handling"
 	}
-
 ]
