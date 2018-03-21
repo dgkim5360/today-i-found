@@ -13,5 +13,10 @@
 		"group": "Quora",
 		"title": "Is SQL gaining popularity again, in spite of the more recent rise of NoSQL document stores?",
 		"link": "https://www.quora.com/Is-SQL-gaining-popularity-again-in-spite-of-the-more-recent-rise-of-NoSQL-document-stores"
+	},
+	{
+		"group": "Quora",
+		"title": "Can somebody explain in very simple words when I should use MongoDB instead of an SQL server?",
+		"link": "https://www.quora.com/Can-somebody-explain-in-very-simple-words-when-I-should-use-MongoDB-instead-of-an-SQL-server"
 	}
 ]
