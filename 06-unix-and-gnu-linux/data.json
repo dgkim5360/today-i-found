@@ -213,5 +213,10 @@
 		"group": "StackExchange",
 		"title": "Joining bash arguments into single string with spaces",
 		"link": "https://unix.stackexchange.com/questions/197792/joining-bash-arguments-into-single-string-with-spaces"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Is there a TRY CATCH command in Bash",
+		"link": "https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash"
 	}
 ]
