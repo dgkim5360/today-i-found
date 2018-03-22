@@ -128,5 +128,10 @@
 		"group": "StackExchange",
 		"title": "How to apply standardization/normalization to train- and testset if prediction is the goal?",
 		"link": "https://stats.stackexchange.com/questions/174823/how-to-apply-standardization-normalization-to-train-and-testset-if-prediction-i"
+	},
+	{
+		"group": "Quora",
+		"title": "How many layers do neural networks used for self-driving cars have?",
+		"link": "https://www.quora.com/How-many-layers-do-neural-networks-used-for-self-driving-cars-have"
 	}
 ]
