@@ -93,5 +93,10 @@
 		"group": "Site",
 		"title": "Teach Yourself Programming in Ten Years",
 		"link": "http://norvig.com/21-days.html"
+	},
+	{
+		"group": "Quora",
+		"title": "What unpopular opinions do you have about software development?",
+		"link": "https://www.quora.com/What-unpopular-opinions-do-you-have-about-software-development"
 	}
 ]
