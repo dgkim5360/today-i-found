@@ -88,5 +88,10 @@
 		"group": "StackExchange",
 		"title": "When to use Tornado, when to use Twisted / Cyclone / GEvent / other [closed]",
 		"link": "https://stackoverflow.com/questions/13941903/when-to-use-tornado-when-to-use-twisted-cyclone-gevent-other"
+	},
+	{
+		"group": "Blog",
+		"title": "AsyncIO for the Working Python Developer",
+		"link": "https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e"
 	}
 ]
