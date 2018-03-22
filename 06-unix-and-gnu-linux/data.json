@@ -208,5 +208,10 @@
 		"group": "Quora",
 		"title": "Why did the Linux Foundation president use MacOS for a presentation at the Open Source Summit?",
 		"link": "https://www.quora.com/Why-did-the-Linux-Foundation-president-use-MacOS-for-a-presentation-at-the-Open-Source-Summit"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Joining bash arguments into single string with spaces",
+		"link": "https://unix.stackexchange.com/questions/197792/joining-bash-arguments-into-single-string-with-spaces"
 	}
 ]
