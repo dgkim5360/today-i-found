@@ -43,5 +43,10 @@
 		"group": "Blog",
 		"title": "Indexing Google's Source Code",
 		"link": "http://piaw.blogspot.com/2015/09/indexing-googles-source-code.html"
+	},
+	{
+		"group": "Quora",
+		"title": "Why did Google release their machine learning crash course?",
+		"link": "https://www.quora.com/Why-did-Google-release-their-machine-learning-crash-course"
 	}
 ]
