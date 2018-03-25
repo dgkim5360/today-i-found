@@ -98,5 +98,10 @@
 		"group": "Quora",
 		"title": "What unpopular opinions do you have about software development?",
 		"link": "https://www.quora.com/What-unpopular-opinions-do-you-have-about-software-development"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is functional programming seen as the opposite of OOP rather than an addition to it? (Answer from Alan Kay)",
+		"link": "https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it"
 	}
 ]
