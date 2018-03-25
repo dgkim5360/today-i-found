@@ -103,5 +103,10 @@
 		"group": "Quora",
 		"title": "Why is functional programming seen as the opposite of OOP rather than an addition to it? (Answer from Alan Kay)",
 		"link": "https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it"
+	},
+	{
+		"group": "Quora",
+		"title": "Are there programmers who write virtually bug-free code?",
+		"link": "https://www.quora.com/Are-there-programmers-who-write-virtually-bug-free-code"
 	}
 ]
