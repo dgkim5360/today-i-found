@@ -133,5 +133,10 @@
 		"group": "Quora",
 		"title": "How many layers do neural networks used for self-driving cars have?",
 		"link": "https://www.quora.com/How-many-layers-do-neural-networks-used-for-self-driving-cars-have"
+	},
+	{
+		"group": "Blog",
+		"title": "Guide to Encoding Categorical Values in Python",
+		"link": "http://pbpython.com/categorical-encoding.html"
 	}
 ]
