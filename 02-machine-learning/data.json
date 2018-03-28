@@ -138,5 +138,10 @@
 		"group": "Blog",
 		"title": "Guide to Encoding Categorical Values in Python",
 		"link": "http://pbpython.com/categorical-encoding.html"
+	},
+	{
+		"group": "Quora",
+		"title": "If there is so much demand in data science then why are people with data science skills still jobless?",
+		"link": "https://www.quora.com/If-there-is-so-much-demand-in-data-science-then-why-are-people-with-data-science-skills-still-jobless"
 	}
 ]
