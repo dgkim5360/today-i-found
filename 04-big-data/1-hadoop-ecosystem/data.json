@@ -58,5 +58,15 @@
 		"group": "Slides",
 		"title": "The Evolution of Hadoop at Spotify - Through Failures and Pain",
 		"link": "https://www.slideshare.net/RafaWojdya/the-evolution-of-hadoop-at-spotify-through-failures-and-pain"
+	},
+	{
+		"group": "Slides",
+		"title": "Hadoop Adventures At Spotify (Strata Conference + Hadoop World 2013)",
+		"link": "https://www.slideshare.net/AdamKawa/hadoop-adventures-at-spotify-strata-conference-hadoop-world-2013/27-Observationsps_shows_the_DataNode_daemons"
+	},
+	{
+		"group": "Slides",
+		"title": "Protocol Buffers and Hadoop at Twitter",
+		"link": "https://www.slideshare.net/kevinweil/protocol-buffers-and-hadoop-at-twitter/14-The_Requirements_Splittability_Parsing_efficiency"
 	}
 ]
