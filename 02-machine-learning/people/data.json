@@ -3,5 +3,10 @@
 		"group": "Blog",
 		"title": "WildML",
 		"link": "http://www.wildml.com"
+	},
+	{
+		"group": "Blog",
+		"title": "colah's blog",
+		"link": "https://colah.github.io"
 	}
 ]
