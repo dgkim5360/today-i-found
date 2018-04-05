@@ -13,5 +13,10 @@
 		"group": "Blog",
 		"title": "Armin Ronacher, the Founder of Flask",
 		"link": "http://lucumr.pocoo.org"
+	},
+	{
+		"group": "Team",
+		"title": "Pocoo",
+		"link": "http://www.pocoo.org"
 	}
 ]
