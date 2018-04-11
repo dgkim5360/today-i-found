@@ -148,5 +148,10 @@
 		"group": "Kaggle",
 		"title": "Data Cleansing Challenge",
 		"link": "https://us1.campaign-archive.com/home/?u=e4c8fb8b43860678deab268e5&id=67cabac09a"
+	},
+	{
+		"group": "Blog",
+		"title": "Differentiable Plasticity: A New Method for Learning to Learn",
+		"link": "https://eng.uber.com/differentiable-plasticity"
 	}
 ]
