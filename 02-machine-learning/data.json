@@ -153,5 +153,10 @@
 		"group": "Blog",
 		"title": "Differentiable Plasticity: A New Method for Learning to Learn",
 		"link": "https://eng.uber.com/differentiable-plasticity"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the most important results in our theoretical understanding of deep learning?",
+		"link": "https://www.quora.com/What-are-the-most-important-results-in-our-theoretical-understanding-of-deep-learning"
 	}
 ]
