@@ -43,5 +43,10 @@
 		"group": "Quora",
 		"title": "Is it true that two random variables are the same if and only if they have the same probability distribution?",
 		"link": "https://www.quora.com/Is-it-true-that-two-random-variables-are-the-same-if-and-only-if-they-have-the-same-probability-distribution?"
+	},
+	{
+		"group": "Quora",
+		"title": "How does Bayesian optimization work?",
+		"link": "https://www.quora.com/How-does-Bayesian-optimization-work"
 	}
 ]
