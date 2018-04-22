@@ -163,5 +163,10 @@
 		"group": "Quora",
 		"title": "When should I use an RNN LSTM and when to use ARIMA for a time series forecasting problem? What is the relation between them?",
 		"link": "https://www.quora.com/When-should-I-use-an-RNN-LSTM-and-when-to-use-ARIMA-for-a-time-series-forecasting-problem-What-is-the-relation-between-them"
+	},
+	{
+		"group": "Article",
+		"title": "Hidden Technical Dept in Machine Learning Systems",
+		"link": "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf"
 	}
 ]
