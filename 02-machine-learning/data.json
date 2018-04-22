@@ -158,5 +158,10 @@
 		"group": "Quora",
 		"title": "What are the most important results in our theoretical understanding of deep learning?",
 		"link": "https://www.quora.com/What-are-the-most-important-results-in-our-theoretical-understanding-of-deep-learning"
+	},
+	{
+		"group": "Quora",
+		"title": "When should I use an RNN LSTM and when to use ARIMA for a time series forecasting problem? What is the relation between them?",
+		"link": "https://www.quora.com/When-should-I-use-an-RNN-LSTM-and-when-to-use-ARIMA-for-a-time-series-forecasting-problem-What-is-the-relation-between-them"
 	}
 ]
