@@ -8,5 +8,10 @@
 		"group": "Blog",
 		"title": "colah's blog",
 		"link": "https://colah.github.io"
+	},
+	{
+		"group": "Blog",
+		"title": "Hello Paperspace",
+		"link": "https://blog.paperspace.com"
 	}
 ]
