@@ -8,5 +8,10 @@
 		"group": "Docs",
 		"title": "Postgres Guide",
 		"link": "http://postgresguide.com"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do people integrate SQL with C++ when C++ is strong enough to create a database?",
+		"link": "https://www.quora.com/Why-do-people-integrate-SQL-with-C-when-C-is-strong-enough-to-create-a-database"
 	}
 ]
