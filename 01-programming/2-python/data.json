@@ -155,5 +155,10 @@
 		"group": "Quora",
 		"title": "What are some of the best libraries in Python for different uses?",
 		"link": "https://www.quora.com/What-are-some-of-the-best-libraries-in-Python-for-different-uses"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is Python reading this as 3 arguments when I only put in 2?",
+		"link": "https://www.quora.com/Why-is-Python-reading-this-as-3-arguments-when-I-only-put-in-2"
 	}
 ]
