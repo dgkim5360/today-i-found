@@ -28,5 +28,10 @@
 		"group": "Quora",
 		"title": "What do you think about Java?",
 		"link": "https://www.quora.com/What-do-you-think-about-Java"
+	},
+	{
+		"group": "Quora",
+		"title": "I want to learn about compilers (especially GCC): how it works and how it converts a C code to an assembly code. Which book is the best for a beginner to have a basic understanding of compilers?",
+		"link": "https://www.quora.com/I-want-to-learn-about-compilers-especially-GCC-how-it-works-and-how-it-converts-a-C-code-to-an-assembly-code-Which-book-is-the-best-for-a-beginner-to-have-a-basic-understanding-of-compilers"
 	}
 ]
