@@ -160,5 +160,10 @@
 		"group": "Quora",
 		"title": "Why is Python reading this as 3 arguments when I only put in 2?",
 		"link": "https://www.quora.com/Why-is-Python-reading-this-as-3-arguments-when-I-only-put-in-2"
+	},
+	{
+		"group": "Quora",
+		"title": "What does the GIL in Python and Ruby need to exist? Why can only one thread own the interpretation routine?",
+		"link": "https://www.quora.com/What-does-the-GIL-in-Python-and-Ruby-need-to-exist-Why-can-only-one-thread-own-the-interpretation-routine"
 	}
 ]

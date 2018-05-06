@@ -385,6 +385,9 @@
     Quora: Why is Python reading this as 3 arguments when I only put in 2?
     https://www.quora.com/Why-is-Python-reading-this-as-3-arguments-when-I-only-put-in-2
 
+    Quora: What does the GIL in Python and Ruby need to exist? Why can only one thread own the interpretation routine?
+    https://www.quora.com/What-does-the-GIL-in-Python-and-Ruby-need-to-exist-Why-can-only-one-thread-own-the-interpretation-routine
+
 
 
 
