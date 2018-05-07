@@ -223,5 +223,10 @@
 		"group": "Quora",
 		"title": "What are milestones for Linux knowledge",
 		"link": "https://www.quora.com/What-are-milestones-for-Linux-knowledge"
+	},
+	{
+		"group": "Site",
+		"title": "Linux From Scratch",
+		"link": "http://linuxfromscratch.org"
 	}
 ]
