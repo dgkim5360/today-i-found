@@ -118,5 +118,10 @@
 		"group": "Quora",
 		"title": "What is the most amazing piece of software in the world? (Knuth's TeX)",
 		"link": "https://www.quora.com/What-is-the-most-amazing-piece-of-software-in-the-world"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some examples of functional programming languages?",
+		"link": "https://www.quora.com/What-are-some-examples-of-functional-programming-languages"
 	}
 ]
