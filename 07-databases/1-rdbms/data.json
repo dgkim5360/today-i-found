@@ -13,5 +13,10 @@
 		"group": "Quora",
 		"title": "Why do people integrate SQL with C++ when C++ is strong enough to create a database?",
 		"link": "https://www.quora.com/Why-do-people-integrate-SQL-with-C-when-C-is-strong-enough-to-create-a-database"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do most programmers write in object-oriented languages, but for persistence, use relational database systems, and not object-oriented database systems? Isn't that counterintuitive",
+		"link": "https://www.quora.com/Why-do-most-programmers-write-in-object-oriented-languages-but-for-persistence-use-relational-database-systems-and-not-object-oriented-database-systems-Isnt-that-counterintuitive"
 	}
 ]
