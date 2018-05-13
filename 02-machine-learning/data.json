@@ -178,5 +178,10 @@
 		"group": "Quora",
 		"title": "Should I learn Haskell for machine learning?",
 		"link": "https://www.quora.com/Should-I-learn-Haskell-for-machine-learning"
+	},
+	{
+		"group": "Quora",
+		"title": "Is cross-validation heavily used in deep learning or is it too expensive to be used?",
+		"link": "https://www.quora.com/Is-cross-validation-heavily-used-in-deep-learning-or-is-it-too-expensive-to-be-used"
 	}
 ]
