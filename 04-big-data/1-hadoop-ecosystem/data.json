@@ -68,5 +68,10 @@
 		"group": "Slides",
 		"title": "Protocol Buffers and Hadoop at Twitter",
 		"link": "https://www.slideshare.net/kevinweil/protocol-buffers-and-hadoop-at-twitter/14-The_Requirements_Splittability_Parsing_efficiency"
+	},
+	{
+		"group": "Book",
+		"title": "MapR: Getting Started with Apache Spark",
+		"link": "https://mapr.com/ebooks/spark"
 	}
 ]
