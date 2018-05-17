@@ -123,5 +123,10 @@
 		"group": "Quora",
 		"title": "What are some examples of functional programming languages?",
 		"link": "https://www.quora.com/What-are-some-examples-of-functional-programming-languages"
+	},
+	{
+		"group": "Lecture",
+		"title": "Null References: The Billion Dollar Mistake (by Tony Hoare)",
+		"link": "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare"
 	}
 ]
