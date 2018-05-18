@@ -33,5 +33,10 @@
 		"group": "Quora",
 		"title": "I want to learn about compilers (especially GCC): how it works and how it converts a C code to an assembly code. Which book is the best for a beginner to have a basic understanding of compilers?",
 		"link": "https://www.quora.com/I-want-to-learn-about-compilers-especially-GCC-how-it-works-and-how-it-converts-a-C-code-to-an-assembly-code-Which-book-is-the-best-for-a-beginner-to-have-a-basic-understanding-of-compilers"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the advantages of the Rust programming language?",
+		"link": "https://www.quora.com/What-are-the-advantages-of-the-Rust-programming-language"
 	}
 ]
