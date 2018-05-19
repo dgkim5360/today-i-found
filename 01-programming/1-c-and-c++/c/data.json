@@ -115,5 +115,10 @@
 		"group": "Quora",
 		"title": "Why doesn’t C provide exception handling?",
 		"link": "https://www.quora.com/Why-doesn-t-C-provide-exception-handling"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Split string in C every white space",
+		"link": "https://stackoverflow.com/questions/4513316/split-string-in-c-every-white-space"
 	}
 ]
