@@ -120,5 +120,10 @@
 		"group": "StackExchange",
 		"title": "Split string in C every white space",
 		"link": "https://stackoverflow.com/questions/4513316/split-string-in-c-every-white-space"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Correct usage of strtol",
+		"link": "https://stackoverflow.com/questions/14176123/correct-usage-of-strtol"
 	}
 ]
