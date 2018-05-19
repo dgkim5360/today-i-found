@@ -18,5 +18,20 @@
 		"group": "Quora",
 		"title": "Why do most programmers write in object-oriented languages, but for persistence, use relational database systems, and not object-oriented database systems? Isn't that counterintuitive",
 		"link": "https://www.quora.com/Why-do-most-programmers-write-in-object-oriented-languages-but-for-persistence-use-relational-database-systems-and-not-object-oriented-database-systems-Isnt-that-counterintuitive"
+	},
+	{
+		"group": "StackExchange",
+		"title": "SQL: updating table rows in postgres using subquery",
+		"link": "https://stackoverflow.com/questions/6256610/updating-table-rows-in-postgres-using-subquery"
+	},
+	{
+		"group": "StackExchange",
+		"title": "SQL: Postgres sum of values one per unique id",
+		"link": "https://stackoverflow.com/questions/38770787/postgres-sum-of-values-one-per-unique-id"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to do a Postgresql subquery in select clause with join in from clause like SQL Server?",
+		"link": "https://stackoverflow.com/questions/3004887/how-to-do-a-postgresql-subquery-in-select-clause-with-join-in-from-clause-like-s"
 	}
 ]
