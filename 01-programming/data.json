@@ -128,5 +128,10 @@
 		"group": "Lecture",
 		"title": "Null References: The Billion Dollar Mistake (by Tony Hoare)",
 		"link": "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare"
+	},
+	{
+		"group": "Quora",
+		"title": "What kind of developer still uses the term constants in his code?",
+		"link": "https://www.quora.com/What-kind-of-developer-still-uses-the-term-const-or-constants-in-his-code"
 	}
 ]
