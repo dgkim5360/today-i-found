@@ -198,5 +198,10 @@
 		"group": "Quora",
 		"title": "What does Andrew Ng think about Deep Learning?",
 		"link": "https://www.quora.com/What-does-Andrew-Ng-think-about-Deep-Learning"
+	},
+	{
+		"group": "Quora",
+		"title": "As a beginner in AI, what tool should I focus to learn: Keras, TensorFlow or PyTorch in short and long terms?",
+		"link": "https://www.quora.com/As-a-beginner-in-AI-what-tool-should-I-focus-to-learn-Keras-TensorFlow-or-PyTorch-in-short-and-long-terms"
 	}
 ]
