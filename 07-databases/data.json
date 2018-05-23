@@ -18,5 +18,10 @@
 		"group": "Quora",
 		"title": "Can somebody explain in very simple words when I should use MongoDB instead of an SQL server?",
 		"link": "https://www.quora.com/Can-somebody-explain-in-very-simple-words-when-I-should-use-MongoDB-instead-of-an-SQL-server"
+	},
+	{
+		"group": "Quora",
+		"title": "What makes NoSQL type databases fast and scalable compared to relational SQL based databases?",
+		"link": "https://www.quora.com/What-makes-NoSQL-type-databases-fast-and-scalable-compared-to-relational-SQL-based-databases"
 	}
 ]
