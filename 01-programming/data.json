@@ -133,5 +133,10 @@
 		"group": "Quora",
 		"title": "What kind of developer still uses the term constants in his code?",
 		"link": "https://www.quora.com/What-kind-of-developer-still-uses-the-term-const-or-constants-in-his-code"
+	},
+	{
+		"group": "Medium",
+		"title": "XOR - The magical bitwise operator",
+		"link": "https://hackernoon.com/xor-the-magical-bit-wise-operator-24d3012ed821"
 	}
 ]
