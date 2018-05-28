@@ -125,5 +125,10 @@
 		"group": "StackExchange",
 		"title": "Correct usage of strtol",
 		"link": "https://stackoverflow.com/questions/14176123/correct-usage-of-strtol"
+	},
+	{
+		"group": "Tutorial",
+		"title": "POSIX Threads Programming",
+		"link": "https://computing.llnl.gov/tutorials/pthreads"
 	}
 ]
