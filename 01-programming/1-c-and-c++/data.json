@@ -58,5 +58,10 @@
 		"group": "Quora",
 		"title": "In which aspects ic C better than C++? (good answer to how they are different)",
 		"link": "https://www.quora.com/In-which-aspects-is-C-better-than-C"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Mutex example / tutorial?",
+		"link": "https://stackoverflow.com/questions/4989451/mutex-example-tutorial"
 	}
 ]
