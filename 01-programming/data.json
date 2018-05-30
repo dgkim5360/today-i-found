@@ -148,5 +148,10 @@
 		"group": "Quora",
 		"title": "Why do we need OOPs?",
 		"link": "https://www.quora.com/Why-do-we-need-OOPs"
+	},
+	{
+		"group": "Quora",
+		"title": "What are some good programming design habits (such as having getters and setters, using constructors to assign global variable values, etc)?",
+		"link": "https://www.quora.com/What-are-some-good-programming-design-habits-such-as-having-getters-and-setters-using-constructors-to-assign-global-variable-values-etc"
 	}
 ]
