@@ -138,5 +138,10 @@
 		"group": "Medium",
 		"title": "XOR - The magical bitwise operator",
 		"link": "https://hackernoon.com/xor-the-magical-bit-wise-operator-24d3012ed821"
+	},
+	{
+		"group": "Quora",
+		"title": "Is Scala better than Python? Could Scala replace Python in the long run?",
+		"link": "https://www.quora.com/Is-Scala-better-than-Python-Could-Scala-replace-Python-in-the-long-run"
 	}
 ]
