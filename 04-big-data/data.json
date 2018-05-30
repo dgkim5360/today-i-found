@@ -8,5 +8,10 @@
 		"group": "Blog",
 		"title": "Mark Lintwintschik",
 		"link": "http://tech.marksblogg.com"
+	},
+	{
+		"group": "Quora",
+		"title": "Spark vs Redshift. Should I be using both for big data? Which is better?",
+		"link": "https://www.quora.com/Spark-vs-Redshift-Should-I-be-using-both-for-big-data-Which-is-better"
 	}
 ]
