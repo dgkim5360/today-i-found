@@ -228,5 +228,10 @@
 		"group": "Site",
 		"title": "Linux From Scratch",
 		"link": "http://linuxfromscratch.org"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Difference between binary semaphore and mutex",
+		"link": "https://stackoverflow.com/questions/62814/difference-between-binary-semaphore-and-mutex"
 	}
 ]
