@@ -130,5 +130,10 @@
 		"group": "Tutorial",
 		"title": "POSIX Threads Programming",
 		"link": "https://computing.llnl.gov/tutorials/pthreads"
+	},
+	{
+		"group": "Site",
+		"title": "comp.lang.c FAQ",
+		"link": "http://c-faq.com"
 	}
 ]
