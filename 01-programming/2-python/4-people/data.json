@@ -18,5 +18,10 @@
 		"group": "Team",
 		"title": "Pocoo",
 		"link": "http://www.pocoo.org"
+	},
+	{
+		"group": "Blog",
+		"title": "James Bennett, a Django core dev",
+		"link": "https://www.b-list.org"
 	}
 ]
