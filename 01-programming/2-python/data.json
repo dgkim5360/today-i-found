@@ -165,5 +165,10 @@
 		"group": "Quora",
 		"title": "What does the GIL in Python and Ruby need to exist? Why can only one thread own the interpretation routine?",
 		"link": "https://www.quora.com/What-does-the-GIL-in-Python-and-Ruby-need-to-exist-Why-can-only-one-thread-own-the-interpretation-routine"
+	},
+	{
+		"group": "Blog",
+		"title": "An Analysis of Lazy and Eager Evaluation in Python",
+		"link": "http://www.pages.drexel.edu/~kmk592/rants/lazy-python/index.html"
 	}
 ]

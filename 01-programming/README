@@ -424,6 +424,9 @@
     Quora: What does the GIL in Python and Ruby need to exist? Why can only one thread own the interpretation routine?
     https://www.quora.com/What-does-the-GIL-in-Python-and-Ruby-need-to-exist-Why-can-only-one-thread-own-the-interpretation-routine
 
+    Blog: An Analysis of Lazy and Eager Evaluation in Python
+    http://www.pages.drexel.edu/~kmk592/rants/lazy-python/index.html
+
 
 
 
