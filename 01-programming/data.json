@@ -153,5 +153,15 @@
 		"group": "Quora",
 		"title": "What are some good programming design habits (such as having getters and setters, using constructors to assign global variable values, etc)?",
 		"link": "https://www.quora.com/What-are-some-good-programming-design-habits-such-as-having-getters-and-setters-using-constructors-to-assign-global-variable-values-etc"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the most common misuses of object-oriented programming?",
+		"link": "https://www.quora.com/What-are-the-most-common-misuses-of-object-oriented-programming"
+	},
+	{
+		"group": "Blog",
+		"title": "Flaw: Digging into Collaborators (Java OOP)",
+		"link": "http://misko.hevery.com/code-reviewers-guide/flaw-digging-into-collaborators"
 	}
 ]
