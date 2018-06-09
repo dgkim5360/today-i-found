@@ -135,5 +135,10 @@
 		"group": "Site",
 		"title": "comp.lang.c FAQ",
 		"link": "http://c-faq.com"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do C programmers use short variable names (e.g., ‘sz’ instead of size) when it make codes harder to read?",
+		"link": "https://www.quora.com/Why-do-C-programmers-use-short-variable-names-e-g-sz-instead-of-size-when-it-make-codes-harder-to-read"
 	}
 ]
