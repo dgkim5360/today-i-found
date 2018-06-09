@@ -218,5 +218,10 @@
 		"group": "Quora",
 		"title": "What are some of the important breakthroughs in AI apart from deep learning in the last 10 years?",
 		"link": "https://www.quora.com/What-are-some-of-the-important-breakthroughs-in-AI-apart-from-deep-learning-in-the-last-10-years"
+	},
+	{
+		"group": "Quora",
+		"title": "How can convolutional neural networks be used for non-image data?",
+		"link": "https://www.quora.com/How-can-convolutional-neural-networks-be-used-for-non-image-data"
 	}
 ]
