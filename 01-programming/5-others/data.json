@@ -43,5 +43,10 @@
 		"group": "Quora",
 		"title": "What do C++ programmers think of Java?",
 		"link": "https://www.quora.com/What-do-C-programmers-think-of-Java"
+	},
+	{
+		"group": "Blog",
+		"title": "Why I Moved Back from Gradle to Maven",
+		"link": "https://blog.philipphauer.de/moving-back-from-gradle-to-maven/"
 	}
 ]
