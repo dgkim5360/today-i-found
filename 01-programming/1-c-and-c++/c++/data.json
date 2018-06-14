@@ -143,5 +143,10 @@
 		"group": "Quora",
 		"title": "Why doesn't C++ standard headers' names end with \".h\" or \".hpp\"?",
 		"link": "https://www.quora.com/Why-doesnt-C-standard-headers-names-end-with-h-or-hpp"
+	},
+	{
+		"group": "Quora",
+		"title": "Why doesn't C++ have a static main function? (댓글 논쟁)",
+		"link": "https://www.quora.com/Why-doesnt-C-have-a-static-main-function"
 	}
 ]
