@@ -163,5 +163,10 @@
 		"group": "Blog",
 		"title": "Flaw: Digging into Collaborators (Java OOP)",
 		"link": "http://misko.hevery.com/code-reviewers-guide/flaw-digging-into-collaborators"
+	},
+	{
+		"group": "Quora",
+		"title": "Why use a boolean variable if flag programming is bad?",
+		"link": "https://www.quora.com/Why-use-a-boolean-variable-if-flag-programming-is-bad"
 	}
 ]
