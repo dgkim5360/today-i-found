@@ -88,5 +88,10 @@
 		"group": "Quora",
 		"title": "I lied when I answered a census form. How reliable are statistics?",
 		"link": "https://www.quora.com/I-lied-when-I-answered-a-census-form-How-reliable-are-statistics"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the kernel trick?",
+		"link": "https://www.quora.com/Why-does-the-RBF-radial-basis-function-kernel-map-into-infinite-dimensional-space-mentioned-many-times-in-machine-learning-lectures"
 	}
 ]
