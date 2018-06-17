@@ -108,5 +108,10 @@
 		"group": "Quora",
 		"title": "What is the connection between computer science and algorithms? What algorithms should I read or study?",
 		"link": "https://www.quora.com/What-is-the-connection-between-computer-science-and-algorithms-What-algorithms-should-I-read-or-study"
+	},
+	{
+		"group": "Blog",
+		"title": "The Two Egg Problem",
+		"link": "http://datagenetics.com/blog/july22012/index.html"
 	}
 ]
