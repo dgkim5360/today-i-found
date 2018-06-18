@@ -33,5 +33,10 @@
 		"group": "Article",
 		"title": "Scaling Pinterest - From 0 To 10s Of Billions Of Page Views A Month In Two Years",
 		"link": "http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html"
+	},
+	{
+		"group": "Article",
+		"title": "Why We Moved From NoSQL MongoDB to PostgreSQL",
+		"link": "https://dzone.com/articles/why-we-moved-from-nosql-mongodb-to-postgresql"
 	}
 ]
