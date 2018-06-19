@@ -233,5 +233,10 @@
 		"group": "Quora",
 		"title": "What are the most fascinating incidents in Machine Learning history?",
 		"link": "https://www.quora.com/What-are-the-most-fascinating-incidents-in-Machine-Learning-history"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the main results in the field of statistical learning theory besides VC dimension (and associated VC theory), Tikhonov regularization, and the Representer Theorem? (No Free Lunch)",
+		"link": "https://www.quora.com/What-are-the-main-results-in-the-field-of-statistical-learning-theory-besides-VC-dimension-and-associated-VC-theory-Tikhonov-regularization-and-the-Representer-Theorem"
 	}
 ]
