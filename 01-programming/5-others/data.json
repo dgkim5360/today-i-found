@@ -48,5 +48,10 @@
 		"group": "Blog",
 		"title": "Why I Moved Back from Gradle to Maven",
 		"link": "https://blog.philipphauer.de/moving-back-from-gradle-to-maven/"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is Rust a better language for systems and device driver programming than Go?",
+		"link": "https://www.quora.com/Why-is-Rust-a-better-language-for-systems-and-device-driver-programming-than-Go"
 	}
 ]
