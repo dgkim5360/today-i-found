@@ -145,5 +145,10 @@
 		"group": "Blog",
 		"title": "Minimalist C Libraries",
 		"link": "http://nullprogram.com/blog/2018/06/10"
+	},
+	{
+		"group": "Blog",
+		"title": "Code in C",
+		"link": "http://www.code-in-c.com"
 	}
 ]
