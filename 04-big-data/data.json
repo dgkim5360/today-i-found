@@ -13,5 +13,10 @@
 		"group": "Quora",
 		"title": "Spark vs Redshift. Should I be using both for big data? Which is better?",
 		"link": "https://www.quora.com/Spark-vs-Redshift-Should-I-be-using-both-for-big-data-Which-is-better"
+	},
+	{
+		"group": "Medium",
+		"title": "A Beginner's Guide to Data Engineering",
+		"link": "https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7"
 	}
 ]
