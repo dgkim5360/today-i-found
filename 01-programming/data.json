@@ -173,5 +173,10 @@
 		"group": "Quora",
 		"title": "Which is the most underrated good programming practice?",
 		"link": "https://www.quora.com/Which-is-the-most-underrated-good-programming-practice"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the difference between Python asyncio and Golang Go routines",
+		"link": "https://www.quora.com/What-is-the-difference-between-Python-asyncio-and-Golang-Go-routines"
 	}
 ]
