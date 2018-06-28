@@ -148,5 +148,10 @@
 		"group": "Quora",
 		"title": "Why doesn't C++ have a static main function? (댓글 논쟁)",
 		"link": "https://www.quora.com/Why-doesnt-C-have-a-static-main-function"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is the syntax for I/O in C++ so weird looking compared to other languages?",
+		"link": "https://www.quora.com/Why-is-the-syntax-for-I-O-in-C-so-weird-looking-compared-to-other-languages"
 	}
 ]
