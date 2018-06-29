@@ -243,5 +243,10 @@
 		"group": "Quora",
 		"title": "Is it true that the majority of business problems can be solved with linear and logistic regression models",
 		"link": "https://www.quora.com/Is-it-true-that-the-majority-of-business-problems-can-be-solved-with-linear-and-logistic-regression-models"
+	},
+	{
+		"group": "Blog",
+		"title": "51 Job Interview Related Questions of ML and AI",
+		"link": "https://engineering.eckovation.com/51-job-interview-related-questions-machine-learning-ml-artificial-intelligence-ai"
 	}
 ]
