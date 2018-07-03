@@ -153,5 +153,10 @@
 		"group": "Blog",
 		"title": "If you run SSHD in your Docker containers, you're doing it wrong!",
 		"link": "https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil"
+	},
+	{
+		"group": "Blog",
+		"title": "What are Docker <none>:<none> images?",
+		"link": "http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/"
 	}
 ]

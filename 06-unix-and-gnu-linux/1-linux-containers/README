@@ -94,4 +94,7 @@
     Blog: If you run SSHD in your Docker containers, you're doing it wrong!
     https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil
 
+    Blog: What are Docker <none>:<none> images?
+    http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
+
 
