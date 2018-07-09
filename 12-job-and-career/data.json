@@ -83,5 +83,10 @@
 		"group": "Quora",
 		"title": "Our CTO does not write any unit tests and no one has the power to review his code, but his code is working properly in production, so no one can complain to the CEO, what should we do?",
 		"link": "https://www.quora.com/Our-CTO-does-not-write-any-unit-tests-and-no-one-has-the-power-to-review-his-code-but-his-code-is-working-properly-in-production-so-no-one-can-complain-to-the-CEO-what-should-we-do"
+	},
+	{
+		"group": "Blog",
+		"title": "The Bulk of Software Engineering in 2018 is Just Plumbing",
+		"link": "https://www.karllhughes.com/posts/plumbing"
 	}
 ]
