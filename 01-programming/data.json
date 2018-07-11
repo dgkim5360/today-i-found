@@ -183,5 +183,10 @@
 		"group": "Quora",
 		"title": "As a self-taught programmer, how can I learn to write elegant and efficient code?",
 		"link": "https://www.quora.com/As-a-self-taught-programmer-how-can-I-learn-to-write-elegant-and-efficient-code"
+	},
+	{
+		"group": "Quora",
+		"title": "Why does 8.5 - 8.4 give 0.099999999999999964?",
+		"link": "https://www.quora.com/In-Python-why-does-8-5-8-4-give-0-099999999999999964"
 	}
 ]
