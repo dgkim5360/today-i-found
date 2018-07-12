@@ -155,5 +155,10 @@
 		"group": "Quora",
 		"title": "Is there any reason to use bitwise operations such as 'n<< 1' rather than just 'n * 2'? Isn't the compiler in charge of such optimizations?",
 		"link": "https://www.quora.com/Is-there-any-reason-to-use-bitwise-operations-such-as-n-1-rather-than-just-n-2-Isnt-the-compiler-in-charge-of-such-optimizations"
+	},
+	{
+		"group": "Quora",
+		"title": "Should I use intermingled variable declaration in C? Is it a good practice?",
+		"link": "https://www.quora.com/Should-I-use-intermingled-variable-declaration-in-C-Is-it-a-good-practice"
 	}
 ]
