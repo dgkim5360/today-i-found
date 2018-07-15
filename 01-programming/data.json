@@ -188,5 +188,10 @@
 		"group": "Quora",
 		"title": "Why does 8.5 - 8.4 give 0.099999999999999964?",
 		"link": "https://www.quora.com/In-Python-why-does-8-5-8-4-give-0-099999999999999964"
+	},
+	{
+		"group": "Quora",
+		"title": "What are general thoughts on Elixir, Crystal, Nim, Kotlin, Rust, Swift, Haskell, and Go? Which are most and least preferred?",
+		"link": "https://www.quora.com/What-are-general-thoughts-on-Elixir-Crystal-Nim-Kotlin-Rust-Swift-Haskell-and-Go-Which-are-most-and-least-preferred"
 	}
 ]
