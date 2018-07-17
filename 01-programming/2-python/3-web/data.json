@@ -53,5 +53,10 @@
 		"group": "StackExchange",
 		"title": "How to debug in Django, the good way?",
 		"link": "https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way"
+	},
+	{
+		"group": "Blog",
+		"title": "All you need to know about prefetching in Django",
+		"link": "https://hackernoon.com/all-you-need-to-know-about-prefetching-in-django-f9068ebe1e60"
 	}
 ]
