@@ -168,5 +168,10 @@
 		"group": "Blog",
 		"title": "Docker Tutorial: Containers, VMs, and Docker for Beginners",
 		"link": "https://www.level-up.one/docker-tutorial-containers-vms"
+	},
+	{
+		"group": "Medium",
+		"title": "Container runtimes: clarity",
+		"link": "https://medium.com/cri-o/container-runtimes-clarity-342b62172dc3"
 	}
 ]
