@@ -153,5 +153,10 @@
 		"group": "Quora",
 		"title": "Why is the syntax for I/O in C++ so weird looking compared to other languages?",
 		"link": "https://www.quora.com/Why-is-the-syntax-for-I-O-in-C-so-weird-looking-compared-to-other-languages"
+	},
+	{
+		"group": "Quora",
+		"title": "What is a static const variable?",
+		"link": "https://www.quora.com/What-is-a-static-const-variable"
 	}
 ]
