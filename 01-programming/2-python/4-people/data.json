@@ -23,5 +23,10 @@
 		"group": "Blog",
 		"title": "James Bennett, a Django core dev",
 		"link": "https://www.b-list.org"
+	},
+	{
+		"group": "Mailing",
+		"title": "Transfer of power (Retirement of GvR as a BDFL)",
+		"link": "https://mail.python.org/pipermail/python-committers/2018-July/005664.html"
 	}
 ]
