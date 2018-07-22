@@ -18,5 +18,10 @@
 		"group": "Medium",
 		"title": "A Beginner's Guide to Data Engineering",
 		"link": "https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7"
+	},
+	{
+		"group": "Blog",
+		"title": "Evolution of the Netflix Data Pipeline",
+		"link": "https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905"
 	}
 ]
