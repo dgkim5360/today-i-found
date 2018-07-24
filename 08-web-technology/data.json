@@ -73,5 +73,10 @@
 		"group": "Quora",
 		"title": "System Structure of Twitch",
 		"link": "https://www.quora.com/In-which-language-is-Twitch-written"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Authorizing command line tool to consume Google APIs (through OAuth2.0 or anything else)",
+		"link": "https://stackoverflow.com/questions/13317987/authorizing-command-line-tool-to-consume-google-apis-through-oauth2-0-or-anythi"
 	}
 ]
