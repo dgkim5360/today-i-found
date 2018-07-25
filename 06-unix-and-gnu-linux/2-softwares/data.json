@@ -53,5 +53,120 @@
 		"group": "Blog",
 		"title": "The Homely mutt",
 		"link": "http://stevelosh.com/blog/2012/10/the-homely-mutt"
+	},
+	{
+		"group": "Blog",
+		"title": "How To Install Vim 8.0 On Ubuntu 16.04",
+		"link": "https://itsfoss.com/vim-8-release-install"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Learn Vimscript the Hard Way",
+		"link": "http://learnvimscriptthehardway.stevelosh.com"
+	},
+	{
+		"group": "StackExchange",
+		"title": "What is the difference between the vim plugin managers?",
+		"link": "https://vi.stackexchange.com/questions/388/what-is-the-difference-between-the-vim-plugin-managers"
+	},
+	{
+		"group": "Tutorial",
+		"title": "Vim tips and tricks",
+		"link": "https://www.cs.oberlin.edu/~kuperman/help/vim/home.html"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Escaped “escape” in key binding with :execute normal! is not getting escaped! String is terminated in middle of remap",
+		"link": "https://vi.stackexchange.com/questions/8816/escaped-escape-in-key-binding-with-execute-normal-is-not-getting-escaped-st"
+	},
+	{
+		"group": "Blog",
+		"title": "Use Vim as a Python IDE",
+		"link": "http://liuchengxu.org/posts/use-vim-as-a-python-ide"
+	},
+	{
+		"group": "Blog",
+		"title": "VIM and Python - a Match Made in Heaven",
+		"link": "https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven"
+	},
+	{
+		"group": "Blog",
+		"title": "Turning Vim into a modern Python IDE",
+		"link": "https://web.archive.org/web/20151210012212/http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html"
+	},
+	{
+		"group": "Blog",
+		"title": "VIM as Python IDE",
+		"link": "http://200ok.ch/posts/vim-as-python-ide.html"
+	},
+	{
+		"group": "Blog",
+		"title": "vim-dispatch: I should have used this years ago ",
+		"link": "http://tilvim.com/2014/03/13/dispatch.html"
+	},
+	{
+		"group": "Blog",
+		"title": "tmux and vim: My workflow and some favorite plugins",
+		"link": "http://meirkriheli.com/talks/tmux-vim/index.html"
+	},
+	{
+		"group": "Blog",
+		"title": "Vim-R-Tmux: An Integrated Working Environment for R ",
+		"link": "http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r"
+	},
+	{
+		"group": "Reddit",
+		"title": "Vim as an R IDE, is it possible?",
+		"link": "https://www.reddit.com/r/vim/comments/2n93ee/vim_as_an_r_ide_is_it_possible"
+	},
+	{
+		"group": "StackExchange",
+		"title": "pycharm running wayyyy slow",
+		"link": "https://stackoverflow.com/questions/10363526/pycharm-running-wayyyy-slow"
+	},
+	{
+		"group": "StackExchange",
+		"title": "PyCharm integrated debugger slows down application",
+		"link": "https://stackoverflow.com/questions/30005704/pycharm-integrated-debugger-slows-down-application"
+	},
+	{
+		"group": "Tutorial",
+		"title": "A Byte of Vim",
+		"link": "https://vim.swaroopch.com"
+	},
+	{
+		"group": "Reddit",
+		"title": "I am Tim Pope, crafter of plugins. AMA.",
+		"link": "https://www.reddit.com/r/vim/comments/267vrv/i_am_tim_pope_crafter_of_plugins_ama"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Using Vim's tabs like buffers",
+		"link": "https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to navigate in large project in VIM",
+		"link": "https://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim"
+	},
+	{
+		"group": "Reddit",
+		"title": "How do you guys use Vim effectively for large projects?",
+		"link": "https://www.reddit.com/r/vim/comments/2cf02i/how_do_you_guys_use_vim_effectively_for_large"
+	},
+	{
+		"group": "Reddit",
+		"title": "Newvie Vim user need help setting up ale",
+		"link": "https://www.reddit.com/r/vim/comments/6rpzg8/newbie_vim_user_need_help_setting_up_ale"
+	},
+	{
+		"group": "Site",
+		"title": "Nova Color Scheme for almost everything",
+		"link": "https://trevordmiller.com/projects/nova"
+	},
+	{
+		"group": "StackExchange",
+		"title": "How to ap Alt key?",
+		"link": "https://stackoverflow.com/questions/1506764/how-to-map-ctrla-and-ctrlshifta-differently"
 	}
 ]
