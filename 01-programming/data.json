@@ -218,5 +218,10 @@
 		"group": "Quora",
 		"title": "Why do header files exist? Why can't we write our entire program in a single \"X\" GB file?",
 		"link": "https://www.quora.com/Why-do-header-files-exist-Why-cant-we-write-our-entire-program-in-a-single-X-GB-file"
+	},
+	{
+		"group": "Quora",
+		"title": "What are the numbers that every computer engineer should know, according to Jeff Dean?",
+		"link": "https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean"
 	}
 ]
