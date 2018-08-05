@@ -3,5 +3,10 @@
 		"group": "Blog",
 		"title": "NoSQL Data Modeling Techniques",
 		"link": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques"
+	},
+	{
+		"group": "Quora",
+		"title": "Why do old school software developers dislike MongoDB and nodeJS?",
+		"link": "https://www.quora.com/Why-do-old-school-software-developers-dislike-MongoDB-and-nodeJS"
 	}
 ]
