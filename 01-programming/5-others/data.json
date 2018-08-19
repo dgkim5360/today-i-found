@@ -53,5 +53,10 @@
 		"group": "Quora",
 		"title": "Why is Rust a better language for systems and device driver programming than Go?",
 		"link": "https://www.quora.com/Why-is-Rust-a-better-language-for-systems-and-device-driver-programming-than-Go"
+	},
+	{
+		"group": "Forum",
+		"title": "Why does Rust test framework lack fixtures and mocking?",
+		"link": "https://users.rust-lang.org/t/why-does-rust-test-framework-lack-fixtures-and-mocking/5622"
 	}
 ]
