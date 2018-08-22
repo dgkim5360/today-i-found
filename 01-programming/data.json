@@ -228,5 +228,10 @@
 		"group": "Quora",
 		"title": "What is the most useful code comment you've seen?",
 		"link": "https://www.quora.com/What-is-the-most-useful-code-comment-youve-seen"
+	},
+	{
+		"group": "Blog",
+		"title": "Writing a Microservice in Rust",
+		"link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust"
 	}
 ]
