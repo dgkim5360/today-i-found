@@ -83,5 +83,10 @@
 		"group": "Github",
 		"title": "Express without template engine",
 		"link": "https://github.com/expressjs/express/issues/2970"
+	},
+	{
+		"group": "Quora",
+		"title": "Why is JavaScript not a great programming language to use?",
+		"link": "https://www.quora.com/Why-is-JavaScript-not-a-great-programming-language-to-use"
 	}
 ]
