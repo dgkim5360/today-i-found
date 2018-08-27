@@ -258,5 +258,10 @@
 		"group": "Quora",
 		"title": "What are the most influential recent (>2016) deep learning papers?",
 		"link": "https://www.quora.com/What-are-the-most-influential-recent-2016-deep-learning-papers"
+	},
+	{
+		"group": "Quora",
+		"title": "How practically relevant are classical machine learning algorithms like SVMs or decision trees as compared to deep learning?",
+		"link": "https://www.quora.com/How-practically-relevant-are-classical-machine-learning-algorithms-like-SVMs-or-decision-trees-as-compared-to-deep-learning"
 	}
 ]
