@@ -58,5 +58,10 @@
 		"group": "Forum",
 		"title": "Why does Rust test framework lack fixtures and mocking?",
 		"link": "https://users.rust-lang.org/t/why-does-rust-test-framework-lack-fixtures-and-mocking/5622"
+	},
+	{
+		"group": "Article",
+		"title": "Go at Google: Language Design in the Service of Software Engineering",
+		"link": "https://talks.golang.org/2012/splash.article"
 	}
 ]
