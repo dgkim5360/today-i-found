@@ -23,5 +23,10 @@
 		"group": "Blog",
 		"title": "Evolution of the Netflix Data Pipeline",
 		"link": "https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905"
+	},
+	{
+		"group": "Quora",
+		"title": "Why does Kafka scale better than other messaging systems like RabbitMQ?",
+		"link": "https://www.quora.com/Why-does-Kafka-scale-better-than-other-messaging-systems-like-RabbitMQ"
 	}
 ]
