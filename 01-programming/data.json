@@ -238,5 +238,10 @@
 		"group": "Quora",
 		"title": "Why is 127.0.0.1 used for localhost? Does anyone know why that number was chosen?",
 		"link": "https://www.quora.com/Why-is-127-0-0-1-used-for-localhost-Does-anyone-know-why-that-number-was-chosen"
+	},
+	{
+		"group": "Quora",
+		"title": "How are regular expression implemented?",
+		"link": "https://www.quora.com/How-are-regular-expressions-implemented"
 	}
 ]
