@@ -243,5 +243,10 @@
 		"group": "Quora",
 		"title": "How are regular expression implemented?",
 		"link": "https://www.quora.com/How-are-regular-expressions-implemented"
+	},
+	{
+		"group": "Site",
+		"title": "Implementing Regular Expressions",
+		"link": "https://swtch.com/~rsc/regexp"
 	}
 ]
