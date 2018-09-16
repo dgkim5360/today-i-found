@@ -248,5 +248,10 @@
 		"group": "Site",
 		"title": "Implementing Regular Expressions",
 		"link": "https://swtch.com/~rsc/regexp"
+	},
+	{
+		"group": "Site",
+		"title": "Binary Exploitation",
+		"link": "http://pwndevils.com/hacking/howtwohack.html"
 	}
 ]
