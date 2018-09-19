@@ -180,5 +180,10 @@
 		"group": "Docs",
 		"title": "Configuring setup() using setup.cfg files",
 		"link": "https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files"
+	},
+	{
+		"group": "Docs",
+		"title": "NOTES ON OPTIMIZING DICTIONARIES",
+		"link": "https://bugs.python.org/file6941/dictnotes.txt"
 	}
 ]
