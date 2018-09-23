@@ -93,5 +93,10 @@
 		"group": "Medium",
 		"title": "How to log out when using JWT",
 		"link": "https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6"
+	},
+	{
+		"group": "StackExchange",
+		"title": "Invalidating JSON Web Tokens",
+		"link": "https://stackoverflow.com/questions/21978658/invalidating-json-web-tokens"
 	}
 ]
