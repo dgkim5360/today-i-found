@@ -88,5 +88,10 @@
 		"group": "Quora",
 		"title": "What happens when you type an URL in the browser and press enter?",
 		"link": "https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a"
+	},
+	{
+		"group": "Medium",
+		"title": "How to log out when using JWT",
+		"link": "https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6"
 	}
 ]
