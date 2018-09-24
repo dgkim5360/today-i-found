@@ -160,5 +160,10 @@
 		"group": "Quora",
 		"title": "Should I use intermingled variable declaration in C? Is it a good practice?",
 		"link": "https://www.quora.com/Should-I-use-intermingled-variable-declaration-in-C-Is-it-a-good-practice"
+	},
+	{
+		"group": "Quora",
+		"title": "What is the difference between enum, union and struct in C programming?",
+		"link": "https://www.quora.com/What-is-the-difference-between-enum-union-and-struct-in-C-programming"
 	}
 ]
