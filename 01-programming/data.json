@@ -263,5 +263,10 @@
 		"group": "Quora",
 		"title": "What articles are considered the must-read classics in computer science?",
 		"link": "https://www.quora.com/What-articles-are-considered-the-must-read-classics-in-computer-science"
+	},
+	{
+		"group": "Blog",
+		"title": "CQRS, Task Based UIs, Event Sourcing agh!",
+		"link": "http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh"
 	}
 ]
