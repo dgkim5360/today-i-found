@@ -28,5 +28,10 @@
 		"group": "Blog",
 		"title": "Javascript Cryptography Considered Harmful",
 		"link": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful"
+	},
+	{
+		"group": "Site",
+		"title": "You Don't Need",
+		"link": "https://you-dont-need.com"
 	}
 ]
