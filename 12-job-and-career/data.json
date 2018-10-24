@@ -88,5 +88,10 @@
 		"group": "Blog",
 		"title": "The Bulk of Software Engineering in 2018 is Just Plumbing",
 		"link": "https://www.karllhughes.com/posts/plumbing"
+	},
+	{
+		"group": "Blog",
+		"title": "How Developers Stop Learning: Rise of the Expert Beginner",
+		"link": "https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner"
 	}
 ]
