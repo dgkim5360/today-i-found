@@ -273,5 +273,10 @@
 		"group": "Quora",
 		"title": "In programming, can you define and give concrete examples of the term \"wrapper\", as in \"wrapper function\" or \"wrapper class\"?",
 		"link": "https://www.quora.com/In-programming-can-you-define-and-give-concrete-examples-of-the-term-wrapper-as-in-wrapper-function-or-wrapper-class"
+	},
+	{
+		"group": "Quora",
+		"title": "When is code duplication okay?",
+		"link": "https://www.quora.com/When-is-code-duplication-okay"
 	}
 ]
