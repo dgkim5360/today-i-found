@@ -53,5 +53,10 @@
 		"group": "StackExchange",
 		"title": "How do I copy a version of single file from one git branch to another?",
 		"link": "https://stackoverflow.com/questions/307579/how-do-i-copy-a-version-of-a-single-file-from-one-git-branch-to-another"
+	},
+	{
+		"group": "Blog",
+		"title": "Git Flow vs. Github Flow",
+		"link": "https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow"
 	}
 ]
