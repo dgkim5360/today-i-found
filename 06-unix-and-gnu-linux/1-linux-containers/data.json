@@ -63,5 +63,10 @@
 		"group": "StackExchange",
 		"title": "How is Docker different from a virtual machine?",
 		"link": "https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine"
+	},
+	{
+		"group": "Blog",
+		"title": "Docker ENTRYPOINT & CMD: Dockerfile best practices",
+		"link": "https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21"
 	}
 ]
