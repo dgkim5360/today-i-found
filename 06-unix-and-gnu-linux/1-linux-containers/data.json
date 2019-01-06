@@ -68,5 +68,15 @@
 		"group": "Blog",
 		"title": "Docker ENTRYPOINT & CMD: Dockerfile best practices",
 		"link": "https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21"
+	},
+	{
+		"group": "Blog",
+		"title": "10 Tips for Docker Compose Hosting in Production",
+		"link": "https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production"
+	},
+	{
+		"group": "Medium",
+		"title": "10 Docker tips and tricks",
+		"link": "https://medium.com/worldsensing-techblog/10-docker-tips-and-tricks-8ebc6202e44c"
 	}
 ]
