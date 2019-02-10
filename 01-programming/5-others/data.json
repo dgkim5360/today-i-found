@@ -63,5 +63,10 @@
 		"group": "Article",
 		"title": "Go at Google: Language Design in the Service of Software Engineering",
 		"link": "https://talks.golang.org/2012/splash.article"
+	},
+	{
+		"group": "Medium",
+		"title": "Test setup and teardown in Rust without a framework",
+		"link": "https://medium.com/@ericdreichert/test-setup-and-teardown-in-rust-without-a-framework-ba32d97aa5ab"
 	}
 ]
