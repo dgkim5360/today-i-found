@@ -165,5 +165,10 @@
 		"group": "Quora",
 		"title": "What is the difference between enum, union and struct in C programming?",
 		"link": "https://www.quora.com/What-is-the-difference-between-enum-union-and-struct-in-C-programming"
+	},
+	{
+		"group": "Blog",
+		"title": "Guide to Advanced Programming in C",
+		"link": "http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html"
 	}
 ]
