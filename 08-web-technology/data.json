@@ -98,5 +98,10 @@
 		"group": "StackExchange",
 		"title": "Invalidating JSON Web Tokens",
 		"link": "https://stackoverflow.com/questions/21978658/invalidating-json-web-tokens"
+	},
+	{
+		"group": "Article",
+		"title": "What Is a WebSockets Push-Styled API and How Does It Work?",
+		"link": "https://www.programmableweb.com/news/what-websockets-push-styled-api-and-how-does-it-work/analysis/2017/04/20"
 	}
 ]
