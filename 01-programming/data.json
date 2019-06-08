@@ -278,5 +278,10 @@
 		"group": "Quora",
 		"title": "When is code duplication okay?",
 		"link": "https://www.quora.com/When-is-code-duplication-okay"
+	},
+	{
+		"group": "Slides",
+		"title": "Opening the Flask: How an April Fools’ Joke became a Framework with Good Intentions",
+		"link": "http://mitsuhiko.pocoo.org/flask-pycon-2011.pdf"
 	}
 ]
